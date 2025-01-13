@@ -630,6 +630,7 @@
 - [Keylock](https://github.com/Axorax/keylock) - Lock your keyboard with a click. 🪟 🟢
 - [Winpower](https://github.com/Axorax/winpower) - Advanced power settings and management for Windows. 🪟 🟢
 - [Locale Emulator](https://github.com/xupefei/Locale-Emulator) - Simulate different system regions and languages. 🪟 🟢
+- [Windterm](https://github.com/kingToolbox/WindTerm) - SSH/Telnet/Serial/Shell/Sftp client for DevOps.  🪟 🍎 🐧 🟢
 
 ### Clipboard Management
 

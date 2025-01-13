@@ -89,11 +89,11 @@
 
 ### Audio Players
 
-- [Foobar2000](https://foobar2000.org/) - Lightweight and highly customizable audio player with support for many formats. 🪟 🍎 ⭐
-- [MusicBee](https://getmusicbee.com/) - Feature-rich music player and manager for Windows. 🪟
 - [AIMP](https://aimp.ru/) - Music player with a clean interface and powerful features. 🪟
 - [Audacious](https://audacious-media-player.org/) - Lightweight audio player for simple music playback. 🪟 🐧
+- [Foobar2000](https://foobar2000.org/) - Lightweight and highly customizable audio player with support for many formats. 🪟 🍎 ⭐
 - [Karafun](https://karafun.com/) - Collection of karaoke songs across multiple genres. Play your own CDG files or use downloads from YouTube. 🪟
+- [MusicBee](https://getmusicbee.com/) - Feature-rich music player and manager for Windows. 🪟
 - [Strawberry Music Player](https://strawberrymusicplayer.org/) - Music player for organizing and playing your audio collection. 🪟 🍎 🐧
 
 ### Audio Recording
@@ -104,32 +104,32 @@
 
 ### DJ Software
 
-- [Mixxx](https://mixxx.org/) - DJ software for live mixing and beatmatching with controller support. 🪟 🍎 🐧
-- [VirtualDJ](https://virtualdj.com/) - DJ platform for mixing music, beatmatching, and live performance. 🪟 🍎
 - [DJ ProDecks](https://djprodecks.com/) - DJ software for mixing music and adding effects. 🪟
+- [Mixxx](https://mixxx.org/) - DJ software for live mixing and beatmatching with controller support. 🪟 🍎 🐧
 - [Serato DJ Lite](https://serato.com/dj/lite) - DJ software for beginners to mix music with ease. 🪟 🍎
 - [Rekordbox](https://rekordbox.com/en/) - Software that enables a comfortable DJ workflow with AI, cloud, and automation tech. 🪟 🍎
+- [VirtualDJ](https://virtualdj.com/) - DJ platform for mixing music, beatmatching, and live performance. 🪟 🍎
 
 ### Music Notation
 
-- [MuseScore](https://musescore.org/) - Software for creating, playing, and sharing sheet music. 🪟 🍎 🐧
-- [LilyPond](http://lilypond.org/) - Music notation program for creating high-quality sheet music. 🪟 🍎 🐧
-- [Frescobaldi](https://frescobaldi.org/) - Editor for LilyPond to create music scores quickly. 🪟 🍎 🐧
 - [ABCjs](https://abcjs.net/) - Tool for writing and playing ABC music notation. 🪟 🍎 🐧
 - [Denemo](https://denemo.org/) - Music notation software for fast score creation with LilyPond. 🪟 🍎 🐧
+- [Frescobaldi](https://frescobaldi.org/) - Editor for LilyPond to create music scores quickly. 🪟 🍎 🐧
+- [LilyPond](http://lilypond.org/) - Music notation program for creating high-quality sheet music. 🪟 🍎 🐧
+- [MuseScore](https://musescore.org/) - Software for creating, playing, and sharing sheet music. 🪟 🍎 🐧
 
 ### Music Production
 
-- [LMMS](https://lmms.io/) - DAW for creating music with virtual instruments and MIDI support. 🪟 🍎 🐧 🟢 ⭐
 - [Ardour](https://ardour.org/) - DAW for recording, editing, and mixing audio with professional features. 🪟 🍎 🐧
+- [Cakewalk](https://bandlab.com/products/cakewalk) - Full-featured DAW for music recording and editing by BandLab. 🪟
+- [Furnace](https://github.com/tildearrow/furnace) - Multi-system chiptune tracker. 🪟 🍎 🐧 🟢
+- [LMMS](https://lmms.io/) - DAW for creating music with virtual instruments and MIDI support. 🪟 🍎 🐧 🟢 ⭐
+- [MilkyTracker](https://github.com/milkytracker/MilkyTracker) - Cross platform XM tracker. 🪟 🍎 🐧 🟢
+- [OpenMPT](https://openmpt.org/) - Modren tracker software that can open multiple tracker formats. 🪟
+- [Qtractor](https://qtractor.org/) - Multi-track DAW for Linux for audio and MIDI recording. 🐧
+- [Stargate DAW](https://github.com/stargatedaw/stargate) - Innovation-first DAW, instrument and effect plugins. 🪟 🍎 🐧 🟢
 - [Tracktion T7](https://tracktion.com/products/t7-daw) - DAW for music production with advanced editing features. 🪟 🍎 🐧
 - [Zrythm](https://zrythm.org/) - DAW for music production with an easy-to-use interface. 🪟 🍎 🐧
-- [Qtractor](https://qtractor.org/) - Multi-track DAW for Linux for audio and MIDI recording. 🐧
-- [Cakewalk](https://bandlab.com/products/cakewalk) - Full-featured DAW for music recording and editing by BandLab. 🪟
-- [Stargate DAW](https://github.com/stargatedaw/stargate) - Innovation-first DAW, instrument and effect plugins. 🪟 🍎 🐧 🟢
-- [Furnace](https://github.com/tildearrow/furnace) - Multi-system chiptune tracker. 🪟 🍎 🐧 🟢
-- [OpenMPT](https://openmpt.org/) - Modren tracker software that can open multiple tracker formats. 🪟
-- [MilkyTracker](https://github.com/milkytracker/MilkyTracker) - Cross platform XM tracker. 🪟 🍎 🐧 🟢
 
 ## Browsers
 
@@ -169,35 +169,37 @@
 
 ### Email Clients
 
-- [CanaryMail](https://canarymail.io/) - Secure email app with PGP support and AI assistance. 🍎 🐧
-- [ElectronMail](https://github.com/vladimiry/ElectronMail) - Electron-based desktop client for ProtonMail. 🪟 🍎 🐧 🟢
-- [Foxmail](http://www.foxmail.com/mac/en) - Fast, user-friendly email client. 🍎 🐧
-- [Mailspring](https://getmailspring.com/) - Beautiful, fast email client. 🪟 🍎 🐧 🟢
 - [BlueMail](https://bluemail.me/desktop/) - Cross-platform email client with modern interface. 🪟 🍎 🐧
+- [CanaryMail](https://canarymail.io/) - Secure email app with PGP support and AI assistance. 🍎 🐧
+- [Edison Mail](https://mail.edison.tech/mac) - Customizable, intuitive email client with smart features. 🪟 🍎 🐧
+- [ElectronMail](https://github.com/vladimiry/ElectronMail) - Electron-based desktop client for ProtonMail. 🪟 🍎 🐧 🟢
+- [eM Client](https://emclient.com/) - Modern client to boost your productivity. 🪟
+- [Foxmail](http://www.foxmail.com/mac/en) - Fast, user-friendly email client. 🍎 🐧
+- [Mailbird](https://mailbird.com/) - IMAP/POP3 client with customization options. 🪟
+- [Mailspring](https://getmailspring.com/) - Beautiful, fast email client. 🪟 🍎 🐧 🟢
 - [Nylas Mail](https://nylas.com/nylas-mail/) - Extensible desktop email app based on web technologies. 🪟 🍎 🐧
 - [Postbox](https://postbox-inc.com/) - Advanced email management with productivity focus. 🪟 🍎
 - [Polymail](https://polymail.io/) - Simple, powerful email client with modern features. 🪟 🍎 🐧
 - [Wino Mail](https://apps.microsoft.com/detail/9ncrcvjc50wl?hl=en-US&gl=BD) - Fluent design email client with Mica effect. 🪟
 - [Spark](https://sparkmailapp.com/) - Fast email client with team collaboration features. 🍎 🐧
-- [ThunderBird](https://thunderbird.net/) - Email client for easier management. 🪟 🍎 🐧 🟢
-- [Mailbird](https://mailbird.com/) - IMAP/POP3 client with customization options. 🪟
-- [Tutanota](https://tutanota.com/) - Encrypted service focused on privacy. 🪟 🍎 🐧
-- [Edison Mail](https://mail.edison.tech/mac) - Customizable, intuitive email client with smart features. 🪟 🍎 🐧
 - [Skiff Mail](https://skiff.com/mail) - Encrypted, decentralized email service. 🪟 🍎 🐧
-- [eM Client](https://emclient.com/) - Modern client to boost your productivity. 🪟
+- [ThunderBird](https://thunderbird.net/) - Email client for easier management. 🪟 🍎 🐧 🟢
+- [Tutanota](https://tutanota.com/) - Encrypted service focused on privacy. 🪟 🍎 🐧
+
 
 ## Compression and Archiving
 
 - [7-Zip](https://7-zip.org/download.html) - Archive manager supporting 7z, ZIP, and other formats. 🪟 🟢 ⭐
 - [Bandizip](https://bandisoft.com/bandizip/) - Fast, lightweight archive manager with extensive format support. 🪟
-- [NanaZip](https://apps.microsoft.com/detail/9n8g7tscl18r?hl=en-us&gl=US) - 7-Zip derivative optimized for Windows 10/11 with added functionality. 🪟
-- [PeaZip](https://peazip.github.io/) - Archive manager supporting 180+ formats with encryption and compression. 🪟 🐧 🟢
 - [Keka](https://keka.io) - Archive manager supporting ZIP, 7Z, TAR, GZIP, and RAR. 🍎
-- [WinRAR](https://rarlab.com/) - Popular archive manager with an unlimited free tier. 🪟
 - [muCommander](http://www.mucommander.com) - Lightweight dual-pane file manager with archive support. 🍎
+- [NanaZip](https://apps.microsoft.com/detail/9n8g7tscl18r?hl=en-us&gl=US) - 7-Zip derivative optimized for Windows 10/11 with added functionality. 🪟
+- [PDF Archiver](https://github.com/JulianKahnert/PDF-Archiver) - Tool for tagging and organizing PDFs. 🍎 🟢
+- [PeaZip](https://peazip.github.io/) - Archive manager supporting 180+ formats with encryption and compression. 🪟 🐧 🟢
 - [The Unarchiver](https://theunarchiver.com/) - Simple tool for extracting ZIP, RAR, ISO, and other formats. 🍎
 - [Unarchive One](https://cleanerone.trendmicro.com/unarchiver-one/?utm_source=github&utm_medium=referral&utm_campaign=githubproject) - Multi-format decompression tool with QuickLook integration. 🍎
-- [PDF Archiver](https://github.com/JulianKahnert/PDF-Archiver) - Tool for tagging and organizing PDFs. 🍎 🟢
+- [WinRAR](https://rarlab.com/) - Popular archive manager with an unlimited free tier. 🪟
+
 
 ## Customize
 
@@ -232,6 +234,7 @@
 ### Copy and Move
 
 - [TeraCopy](https://codesector.com/teracopy) - Copy and move multiple files. 🪟 🍎
+- [FastCopy](https://fastcopy.jp) - Copy and move files in batch. 🪟
 
 ### Sync and Clone
 

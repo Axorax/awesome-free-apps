@@ -272,6 +272,7 @@
 
 - [DBeaver](https://dbeaver.io) - Universal database tool for SQL databases like MySQL, MariaDB, PostgreSQL, SQLite, Apache Family, and more. 🪟 🍎 🐧 ⭐
 - [Beekeeper Studio](https://beekeeperstudio.io) - Modern, lightweight SQL client supporting MySQL, Postgres, SQLite, SQL Server, etc. 🪟 🍎 🐧
+- [Dateflare](https://dataflare.app) - Minimal lightweight database client supporting all major DBs written in tauri. 🪟 🍎 🐧
 
 ### Network Analysis
 

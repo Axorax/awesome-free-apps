@@ -177,6 +177,7 @@
 - [CanaryMail](https://canarymail.io) - Secure email app with PGP support and AI assistance. 🍎 🐧
 - [Edison Mail](https://mail.edison.tech/mac) - Customizable, intuitive email client with smart features. 🪟 🍎 🐧
 - [ElectronMail](https://github.com/vladimiry/ElectronMail) - Electron-based desktop client for ProtonMail. 🪟 🍎 🐧 🟢
+- [Eppie Mail](https://github.com/Eppie-io/Eppie-App) - Open-source email client with local AI agents and full support for Gmail, Outlook, and Proton Mail. 🪟 🍎 🐧 🟢
 - [eM Client](https://emclient.com) - Modern client to boost your productivity. 🪟
 - [Foxmail](https://www.foxmail.com) - Fast, user-friendly email client. 🪟 🍎
 - [Mailbird](https://mailbird.com) - IMAP/POP3 client with customization options. 🪟

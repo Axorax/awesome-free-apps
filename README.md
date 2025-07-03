@@ -374,6 +374,7 @@
 - [Craft Docs](https://craft.do) - Beautiful and powerful tool for creating and organizing documents and notes. 🪟 🍎
 - [Joplin](https://joplinapp.org) - Capture your thoughts and securely access them from any device. 🪟 🍎 🐧 [🟢](https://github.com/laurent22/joplin)
 - [Logseq](https://github.com/logseq/logseq) - Privacy-first, open-source platform for knowledge management and collaboration. 🪟 🍎 🐧 [🟢](https://github.com/logseq/logseq)
+- [Notely Voice](https://github.com/tosinonikute/NotelyVoice) - 100% private notes and free AI voice-to-text transcription. [🟢](https://github.com/tosinonikute/NotelyVoice)
 - [Notion](https://notion.so) - All-in-one workspace for notes, tasks, databases, and collaboration. 🪟 🍎 🐧
 - [Plain Text Editor](https://sindresorhus.com/plain-text-editor) - Simple, distraction-free text editor for quick note-taking. 🍎
 - [Tot](https://tot.rocks) - Simple, elegant app for collecting and editing text snippets. 🍎

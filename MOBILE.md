@@ -234,6 +234,7 @@
 - [Joplin](https://joplinapp.org) - Open-source note-taking app with end-to-end encryption. 🤖 🍎 🟢
 - [Google Keep](https://keep.google.com) - Simple and colorful note-taking app with reminders. 🤖 🍎
 - [Bear](https://bear.app) - Minimalist note-taking app with powerful markdown support. 🍎
+- [Notely Voice](https://github.com/tosinonikute/NotelyVoice) - 100% private notes and free AI voice-to-text transcription. [🟢](https://github.com/tosinonikute/NotelyVoice)
 
 ## Text Editors
 

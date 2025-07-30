@@ -523,6 +523,7 @@
 - [Bitdefender](https://bitdefender.com/solutions/free.html) - Lightweight and powerful antivirus for essential protection. 🪟 🍎
 - [ClamAV](https://www.clamav.net) - Antivirus engine for detecting malware, viruses, and other threats. 🪟 🍎 🐧 🟢
 - [Malwarebytes](https://malwarebytes.com) - Malware removal tool offering real-time protection and cleanup. 🪟 🍎
+- [Pareto Security](https://paretosecurity.com/apps) - Check for basic security hygiene of any Windows, Mac or Linux desktop. 🪟 🍎 🐧 [🟢](https://github.com/paretoSecurity/agent)
 
 ### Password Managers
 

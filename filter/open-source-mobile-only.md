@@ -21,7 +21,7 @@
 
 ## Contents
 
-<!-- AF-TOC : Sunday, June 29, 2025 at 09:55:21 AM UTC -->
+<!-- AF-TOC : Wednesday, August 13, 2025 at 09:57:23 AM UTC -->
 
 - [Audio](#audio)
   - [Audio Players](#audio-players)
@@ -170,6 +170,7 @@
 ## Note Taking
 
 - [Joplin](https://joplinapp.org) - Open-source note-taking app with end-to-end encryption. 🤖 🍎 🟢
+- [Notely Voice](https://github.com/tosinonikute/NotelyVoice) - 100% private notes and free AI voice-to-text transcription. [🟢](https://github.com/tosinonikute/NotelyVoice)
 
 ## Text Editors
 

@@ -25,7 +25,7 @@
 
 ## Contents
 
-<!-- AF-TOC : Sunday, June 29, 2025 at 09:55:20 AM UTC -->
+<!-- AF-TOC : Wednesday, August 13, 2025 at 09:57:23 AM UTC -->
 
 - [Audio](#audio)
   - [Audio Players](#audio-players)
@@ -398,6 +398,7 @@
 
 - [Avast](https://avast.com/free-antivirus-download) - Antivirus to help detect and isolate potential cyberthreats. 🪟 🍎 🐧
 - [ClamAV](https://www.clamav.net) - Antivirus engine for detecting malware, viruses, and other threats. 🪟 🍎 🐧 🟢
+- [Pareto Security](https://paretosecurity.com/apps) - Check for basic security hygiene of any Windows, Mac or Linux desktop. 🪟 🍎 🐧 [🟢](https://github.com/paretoSecurity/agent)
 
 ### Password Managers
 

@@ -226,6 +226,7 @@
 - [SoapUI Open Source](https://soapui.org) - For testing REST and SOAP APIs with scripting support. 🪟 🍎 🐧 [🟢](https://github.com/SmartBear/soapui)
 - [Paw](https://paw.cloud) - Advanced HTTP client. 🍎
 - [Yaak](https://yaak.app) - An offline and Git friendly API tester for HTTP, GraphQL, WebSockets, SSE, and gRPC. 🪟 🍎 🐧 [🟢](https://github.com/mountain-loop/yaak)
+- [Endpoint](https://apps.apple.com/tr/app/endpoint-http-client/id6755891816?mt=12) - Native macOS API client with WebSocket support, performance testing, and customizable themes. 🍎. [🟢]
 
 ### Database
 

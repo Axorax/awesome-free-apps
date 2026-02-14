@@ -347,6 +347,7 @@
 - [iChm](https://github.com/NSGod/ichm) - CHM reader. 🍎 [🟢](https://github.com/NSGod/ichm)
 - [Kindle App](https://amazon.com/l/16571048011) - Official Kindle reader app. 🪟 🍎
 - [Klib](https://klib.me) - Manage Kindle and iBooks highlights. 🍎
+- [IReader](https://github.com/IReaderorg/IReader) Free and open source novel reader for Android and Desktop
 - [Koodo Reader](https://koodoreader.com/en) - EBook reader supporting 15+ formats. 🪟 🍎 🐧 [🟢](https://github.com/koodo-reader/koodo-reader)
 - [Naps2](https://naps2.com) - Scan documents to PDF and more, as simply as possible. 🪟 🍎 🐧 [🟢](https://github.com/cyanfish/naps2)
 - [Readest](https://readest.com) - Cross-platform eBook reader with tools. 🪟 🍎 🐧 [🟢](https://github.com/readest/readest)

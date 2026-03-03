@@ -328,6 +328,10 @@
 - [Windscribe](https://windscribe.com) - Privacy-focused VPN with a free option and wide server coverage. 🤖 🍎 🟢
 - [Betternet](https://www.betternet.co) - Fast, free VPN for browsing securely and privately. 🤖 🍎
 
+## Health and Wellness
+
+- [Paula](https://trypaula.com) - Free AI mental health companion using CBT and DBT techniques, with voice sessions, mood tracking, and journaling. 🤖 🍎
+
 ## Utility
 
 ### Clipboard Management

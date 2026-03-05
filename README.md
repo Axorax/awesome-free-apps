@@ -538,6 +538,10 @@
 - [RoboForm](https://roboform.com) - Password manager and form filler with multi-platform synchronization. 🪟 🍎 🐧
 - [ProtonPass](https://proton.me/pass) - Free password manager with end-to-end encryption based in Switzerland. 🪟 🍎 🐧 [🟢](https://github.com/protonpass)
 
+### Ad & Tracker Blocking
+
+- [SaneHosts](https://sanehosts.com) - macOS hosts file manager for system-wide ad and tracker blocking. 🍎 [🟢](https://github.com/sane-apps/SaneHosts)
+
 ## Image Viewers
 
 - [ImageGlass](https://imageglass.org) - Lightweight, versatile image viewer. 🪟 🟢 ⭐

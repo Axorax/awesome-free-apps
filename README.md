@@ -180,6 +180,7 @@
 - [Eppie Mail](https://github.com/Eppie-io/Eppie-App) - Open-source email client with local AI agents and full support for Gmail, Outlook, and Proton Mail. 🪟 🍎 🐧 🟢
 - [eM Client](https://emclient.com) - Modern client to boost your productivity. 🪟
 - [Foxmail](https://www.foxmail.com) - Fast, user-friendly email client. 🪟 🍎
+- [HeyRobyn](https://heyrobyn.ai) - Native Mac unified inbox for email, Slack, and GitHub in one window. 🍎
 - [Mailbird](https://mailbird.com) - IMAP/POP3 client with customization options. 🪟
 - [Mailspring](https://getmailspring.com) - Beautiful, fast email client. 🪟 🍎 🐧 🟢
 - [Nylas Mail](https://nylas.com/nylas-mail) - Extensible desktop email app based on web technologies. 🪟 🍎 🐧

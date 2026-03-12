@@ -189,6 +189,7 @@
 - [Spark](https://sparkmailapp.com) - Fast email client with team collaboration features. 🍎 🐧
 - [ThunderBird](https://thunderbird.net) - Email client for easier management. 🪟 🍎 🐧 🟢
 - [Tutanota](https://tutanota.com) - Encrypted service focused on privacy. 🪟 🍎 🐧
+- [HeyRobyn](https://heyrobyn.ai) - Native Mac unified inbox for email, Slack, and GitHub in one window. 🍎
 
 ## Compression and Archiving
 

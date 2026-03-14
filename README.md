@@ -251,6 +251,7 @@
 - [TkForge](https://github.com/Axorax/tkforge) - Drag & drop in Figma to create a Python GUI with ease. 🪟 🍎 🐧 🟢 ⭐
 - [WinMerge](https://sourceforge.net/projects/winmerge) - Windows visual diff and merge for files and directories. 🪟 🟢
 - [x64dbg](https://x64dbg.com) - Debugger for Windows. 🪟 🟢
+- [ZapTools](https://zaptools.web.app) - 114+ free browser-based developer tools. 🪟 🍎 🐧
 
 ### API Development
 
@@ -327,6 +328,7 @@
 ## Documents
 
 - [CDisplayEx](https://www.cdisplayex.com) - Lightweight comic book reader (.cbr, .cbz, .pdf, manga). 🪟
+- [ZapInvoice](https://zapinvoice.web.app) - Free invoice generator with PDF export, multi-currency, and client management. 🪟 🍎 🐧
 
 ### Office Suites
 

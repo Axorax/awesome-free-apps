@@ -368,6 +368,7 @@
 - [Xournal++](https://xournalpp.github.io) - Handwriting and annotation tool for PDFs. 🪟 🍎 🐧 [🟢](https://github.com/xournalpp/xournalpp)
 - [PDFGear](https://www.pdfgear.com) - Read, edit, convert, merge, and sign PDF files across devices. 🪟 🍎
 - [PDFsam](https://pdfsam.org) - Extract pages, split, merge, mix and rotate PDF files. 🪟 🍎 🐧 [🟢](https://github.com/torakiki/pdfsam)
+- [PDFGem](https://pdfgem.io) - Browser-based PDF tools to merge, split, compress, OCR, sign and convert. Client-side via WebAssembly with no uploads required.
 
 ## Note Taking
 
@@ -507,6 +508,7 @@
 - [PhotoFiltre](https://photofiltre-studio.com/pf7-en.htm) - Complete image retouching program. 🪟
 - [Pencil2D](https://pencil2d.org) - Simple and intuitive tool for creating 2D hand-drawn animations. 🪟 🍎 🐧
 - [Pixen](https://pixenapp.com/mac) - Native pixel art and animation editor designed. 🍎
+- [Vizua](https://vizua.io) - Browser-based image tools to compress, resize, convert, remove backgrounds, upscale and OCR. All processing runs client-side.
 
 ## 3D Modeling and Animation
 

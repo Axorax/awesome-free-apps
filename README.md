@@ -106,6 +106,7 @@
 - [Audacity](https://audacityteam.org/download) - Audio editor for recording and editing sounds. 🪟 🍎 🐧 🟢 ⭐
 - [Ocenaudio](https://ocenaudio.com) - Easy-to-use audio editor for recording and analyzing sounds. 🪟 🍎 🐧
 - [Wavosaur](https://www.wavosaur.com) - Simple audio editor for recording, editing, and processing sound. 🪟
+- [Vocova](https://vocova.app) - AI-powered transcription tool for meetings and interviews with speaker diarization and subtitle export. 🪟 🍎 🐧
 
 ### DJ Software
 

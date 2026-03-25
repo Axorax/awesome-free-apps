@@ -314,6 +314,7 @@
 - [Docker](https://docker.com) - Containerization platform for operating-system-level virtualization. 🪟 🍎 🐧 🟢 ⭐
 - [VirtualBox](https://www.virtualbox.org) - Virtualization software for creating and managing virtual machines. 🪟 🍎 🐧 ⭐
 - [Lima](https://github.com/lima-vm/lima) - Tool for launching Linux VMs with file sharing and port forwarding. 🍎 🟢
+- [Mocker](https://github.com/us/mocker) - Docker-compatible container management tool built natively on Apple's Containerization framework. 🍎 [🟢](https://github.com/us/mocker)
 - [Multipass](https://multipass.run) - Quickly launch and manage Ubuntu virtual machines on demand. 🪟 🍎 🐧
 - [OrbStack](https://orbstack.dev) - Lightweight and fast virtualization for running Docker containers and Linux machines. 🍎
 - [Podman Desktop](https://podman.io) - Desktop alternative to Docker for managing containers. 🪟 🍎 🐧

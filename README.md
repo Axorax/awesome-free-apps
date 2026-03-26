@@ -632,7 +632,7 @@
 - [Shutter Encoder](https://shutterencoder.com) - Supports video, audio, and image conversion with extra processing tools. 🪟 🍎
 - [XMedia Recode](https://xmedia-recode.de/en) - Multi-format converter with advanced video editing features. 🪟
 - [VidCoder](https://vidcoder.net) - User-friendly HandBrake-based transcoder with batch processing. 🪟 🍎 🟢
-- [CloudConvert](https://cloudconvert.com/) - Online file converter supporting video, audio, document, image, and archive formats. 🪟 🍎 🐧 ⭐
+- [Adapter](https://macroplant.com/adapter/video-converter) - Media converter app for video, audio, and images on Mac and Windows. 🪟 🍎
 
 ## VPN and Proxy Tools
 

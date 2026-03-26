@@ -241,6 +241,7 @@
 
 - [FastCopy](https://fastcopy.jp) - Copy and move files in batch. 🪟
 - [TeraCopy](https://codesector.com/teracopy) - Copy and move multiple files. 🪟 🍎
+- [Blip](https://blip.net) - Direct file transfer app with unlimited file sizes, folder support, and transfer resume. 🪟 🍎 ⭐
 
 ### Sync and Clone
 

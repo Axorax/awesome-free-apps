@@ -25,7 +25,7 @@
 
 ## Contents
 
-<!-- AF-TOC : Wednesday, August 13, 2025 at 09:57:23 AM UTC -->
+<!-- AF-TOC : Thursday, March 26, 2026 at 06:32:49 PM UTC -->
 
 - [Audio](#audio)
   - [Audio Players](#audio-players)
@@ -66,6 +66,7 @@
 - [Security](#security)
   - [Antivirus](#antivirus)
   - [Password Managers](#password-managers)
+  - [Ad & Tracker Blocking](#ad-tracker-blocking)
 - [Image Viewers](#image-viewers)
 - [Remote Access](#remote-access)
 - [Video](#video)
@@ -82,6 +83,7 @@
   - [Application Management](#application-management)
   - [Screenshot](#screenshot)
   - [Space Visualizer](#space-visualizer)
+  - [Trackpad](#trackpad)
 
 <!-- AF-END -->
 
@@ -276,6 +278,7 @@
 ### E-book
 
 - [Calibre](https://calibre-ebook.com) - Powerful e-book manager. 🪟 🍎 🐧 [🟢](https://github.com/kovidgoyal/calibre) ⭐
+- [IReader](https://github.com/IReaderorg/IReader) Free and open source novel reader for Android and Desktop
 - [Koodo Reader](https://koodoreader.com/en) - EBook reader supporting 15+ formats. 🪟 🍎 🐧 [🟢](https://github.com/koodo-reader/koodo-reader)
 - [Naps2](https://naps2.com) - Scan documents to PDF and more, as simply as possible. 🪟 🍎 🐧 [🟢](https://github.com/cyanfish/naps2)
 - [Readest](https://readest.com) - Cross-platform eBook reader with tools. 🪟 🍎 🐧 [🟢](https://github.com/readest/readest)
@@ -411,6 +414,9 @@
 - [RoboForm](https://roboform.com) - Password manager and form filler with multi-platform synchronization. 🪟 🍎 🐧
 - [ProtonPass](https://proton.me/pass) - Free password manager with end-to-end encryption based in Switzerland. 🪟 🍎 🐧 [🟢](https://github.com/protonpass)
 
+### Ad & Tracker Blocking
+
+
 ## Image Viewers
 
 - [qView](https://interversehq.com/qview) - Visually minimal and space efficient. 🪟 🍎 🐧
@@ -483,6 +489,7 @@
 ## Utility
 
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) - Command-line tool for downloading audio and video. 🪟 🍎 🐧 [🟢](https://github.com/yt-dlp/yt-dlp) ⭐
+- [CookCLI](https://github.com/cooklang/CookCLI) - Recipe manager with web server, shopping lists, and meal planning. 🪟 🍎 🐧 🟢
 - [LocalSend](https://localsend.org) - Share files instantly to nearby devices. 🪟 🍎 🐧
 - [SpeedCrunch](https://heldercorreia.bitbucket.io/speedcrunch) - Fast, high-precision scientific calculator with keyboard shortcuts. 🪟 🍎 🐧
 - [Windterm](https://github.com/kingToolbox/WindTerm) - SSH/Telnet/Serial/Shell/Sftp client for DevOps.  🪟 🍎 🐧 🟢
@@ -525,3 +532,6 @@
 
 - [Filelight](https://kde.org/applications/utilities/org.kde.filelight) - Visualizer with a circular sunburst chart. 🪟 🍎 🐧
 - [JDiskReport](https://www.jgoodies.com/freeware/jdiskreport) - Tool for visualizing disk usage with a variety of charts and graphs. 🪟 🐧
+
+### Trackpad
+

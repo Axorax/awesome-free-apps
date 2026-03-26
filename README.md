@@ -25,7 +25,7 @@
 
 ## Contents
 
-<!-- AF-TOC : Wednesday, August 13, 2025 at 09:57:23 AM UTC -->
+<!-- AF-TOC : Thursday, March 26, 2026 at 06:32:49 PM UTC -->
 
 - [Audio](#audio)
   - [Audio Players](#audio-players)
@@ -66,6 +66,7 @@
 - [Security](#security)
   - [Antivirus](#antivirus)
   - [Password Managers](#password-managers)
+  - [Ad & Tracker Blocking](#ad-tracker-blocking)
 - [Image Viewers](#image-viewers)
 - [Remote Access](#remote-access)
 - [Video](#video)
@@ -82,6 +83,7 @@
   - [Application Management](#application-management)
   - [Screenshot](#screenshot)
   - [Space Visualizer](#space-visualizer)
+  - [Trackpad](#trackpad)
 
 <!-- AF-END -->
 

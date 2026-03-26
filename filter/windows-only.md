@@ -25,7 +25,7 @@
 
 ## Contents
 
-<!-- AF-TOC : Wednesday, August 13, 2025 at 09:57:23 AM UTC -->
+<!-- AF-TOC : Thursday, March 26, 2026 at 06:32:49 PM UTC -->
 
 - [Audio](#audio)
   - [Audio Players](#audio-players)
@@ -66,6 +66,7 @@
 - [Security](#security)
   - [Antivirus](#antivirus)
   - [Password Managers](#password-managers)
+  - [Ad & Tracker Blocking](#ad-tracker-blocking)
 - [Image Viewers](#image-viewers)
 - [Remote Access](#remote-access)
 - [Video](#video)
@@ -82,6 +83,7 @@
   - [Application Management](#application-management)
   - [Screenshot](#screenshot)
   - [Space Visualizer](#space-visualizer)
+  - [Trackpad](#trackpad)
 
 <!-- AF-END -->
 
@@ -322,6 +324,7 @@
 
 - [Calibre](https://calibre-ebook.com) - Powerful e-book manager. 🪟 🍎 🐧 [🟢](https://github.com/kovidgoyal/calibre) ⭐
 - [Kindle App](https://amazon.com/l/16571048011) - Official Kindle reader app. 🪟 🍎
+- [IReader](https://github.com/IReaderorg/IReader) Free and open source novel reader for Android and Desktop
 - [Koodo Reader](https://koodoreader.com/en) - EBook reader supporting 15+ formats. 🪟 🍎 🐧 [🟢](https://github.com/koodo-reader/koodo-reader)
 - [Naps2](https://naps2.com) - Scan documents to PDF and more, as simply as possible. 🪟 🍎 🐧 [🟢](https://github.com/cyanfish/naps2)
 - [Readest](https://readest.com) - Cross-platform eBook reader with tools. 🪟 🍎 🐧 [🟢](https://github.com/readest/readest)
@@ -373,6 +376,7 @@
 - [Sublime Text](https://www.sublimetext.com) - Fast text editor with powerful search, multi-caret editing, and a strong plugin ecosystem. 🪟 🍎 🐧
 - [Kate](https://kate-editor.org) - Editor with plugins, split-view and more by KDE. 🪟 🍎 🐧
 - [Vim](https://www.vim.org) - Efficient command-line editor with powerful keyboard shortcuts and multi-file editing. 🪟 🍎 🐧 [🟢](https://github.com/vim/vim)
+- [MDLook](https://mdlook.com) - Portable offline Markdown editor using WebView2 with live preview, dark mode, and diagram support. 🪟
 
 ## Download Managers
 
@@ -489,6 +493,9 @@
 - [RoboForm](https://roboform.com) - Password manager and form filler with multi-platform synchronization. 🪟 🍎 🐧
 - [ProtonPass](https://proton.me/pass) - Free password manager with end-to-end encryption based in Switzerland. 🪟 🍎 🐧 [🟢](https://github.com/protonpass)
 
+### Ad & Tracker Blocking
+
+
 ## Image Viewers
 
 - [ImageGlass](https://imageglass.org) - Lightweight, versatile image viewer. 🪟 🟢 ⭐
@@ -588,12 +595,14 @@
 - [PowerToys](https://learn.microsoft.com/en-us/windows/powertoys) - Utilities for file renaming, resizing, and productivity tools. 🪟 [🟢](https://github.com/microsoft/PowerToys) ⭐
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) - Command-line tool for downloading audio and video. 🪟 🍎 🐧 [🟢](https://github.com/yt-dlp/yt-dlp) ⭐
 - [Advanced IP Scanner](https://advanced-ip-scanner.com) - Network scanner for detecting and analyzing devices on LAN. 🪟
+- [CookCLI](https://github.com/cooklang/CookCLI) - Recipe manager with web server, shopping lists, and meal planning. 🪟 🍎 🐧 🟢
 - [Fan Control](https://getfancontrol.com) - Software for managing and controlling system fans. 🪟
 - [Keylock](https://github.com/Axorax/keylock) - Lock your keyboard with a click. 🪟 🟢
 - [Legacy Update](https://legacyupdate.net) - Installs updates to fix Windows Update access on unsupported versions. 🪟
 - [Locale Emulator](https://github.com/xupefei/Locale-Emulator) - Simulate different system regions and languages. 🪟 🟢
 - [LocalSend](https://localsend.org) - Share files instantly to nearby devices. 🪟 🍎 🐧
 - [Nirsoft](https://nirsoft.net/utils/index.html) - Collection of small utilities for various tasks. 🪟
+- [PeakFlow](https://getpeakflow.pro) - Seven productivity tools with screen dimming, clipboard manager, volume mixer, and meeting alerts. 🪟 [🟢](https://github.com/inchwormz/peakflow-electron)
 - [PuTTY](https://putty.org) - SSH and Telnet client for remote connections. 🪟
 - [SpeedCrunch](https://heldercorreia.bitbucket.io/speedcrunch) - Fast, high-precision scientific calculator with keyboard shortcuts. 🪟 🍎 🐧
 - [Twinkle Tray](https://twinkletray.com) - Simple tool to manage brightness across multiple monitors. 🪟
@@ -601,9 +610,11 @@
 - [Windterm](https://github.com/kingToolbox/WindTerm) - SSH/Telnet/Serial/Shell/Sftp client for DevOps.  🪟 🍎 🐧 🟢
 - [UniGetUI](https://www.marticliment.com/unigetui) - UI for popular package managers like  Winget, NPM, and more. 🪟 [🟢](https://github.com/marticliment/UniGetUI)
 - [Saga Reader](https://github.com/sopaco/saga-reader) - Blazing-Fast AI Reader that supports sources based on search engines and RSS. 🪟 🍎 [🟢](https://github.com/sopaco/saga-reader)
+- [KaiROS AI](https://github.com/avikeid2007/Kairos.local) - Local AI assistant with GPU acceleration and model catalog. 🪟 [🟢](https://github.com/avikeid2007/Kairos.local)
 
 ### Clipboard Management
 
+- [Beetroot](https://max.nardit.com/beetroot) - Clipboard manager with AI text transforms and OCR extraction. 🪟
 - [ClipAngel](https://sourceforge.net/projects/clip-angel) - Clipboard manager supporting rich text and images. 🪟
 - [Clipboard Fusion](https://clipboardfusion.com) - Clipboard manager with data transformation features. 🪟 🍎
 - [CopyQ](https://hluk.github.io/CopyQ) - Clipboard manager with editing and scripting features. 🪟 🍎 🐧 🟢
@@ -667,3 +678,6 @@
 - [JDiskReport](https://www.jgoodies.com/freeware/jdiskreport) - Tool for visualizing disk usage with a variety of charts and graphs. 🪟 🐧
 - [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer) - Identify large files and folders with an intuitive tree map. 🪟
 - [TreeSize Free](https://jam-software.com/treesize_free) - Visualizes disk space usage in a tree-like structure for easy file management. 🪟
+
+### Trackpad
+

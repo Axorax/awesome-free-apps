@@ -25,7 +25,7 @@
 
 ## Contents
 
-<!-- AF-TOC : Wednesday, August 13, 2025 at 09:57:23 AM UTC -->
+<!-- AF-TOC : Thursday, March 26, 2026 at 06:32:49 PM UTC -->
 
 - [Audio](#audio)
   - [Audio Players](#audio-players)
@@ -66,6 +66,7 @@
 - [Security](#security)
   - [Antivirus](#antivirus)
   - [Password Managers](#password-managers)
+  - [Ad & Tracker Blocking](#ad-tracker-blocking)
 - [Image Viewers](#image-viewers)
 - [Remote Access](#remote-access)
 - [Video](#video)
@@ -82,6 +83,7 @@
   - [Application Management](#application-management)
   - [Screenshot](#screenshot)
   - [Space Visualizer](#space-visualizer)
+  - [Trackpad](#trackpad)
 
 <!-- AF-END -->
 
@@ -189,6 +191,9 @@
 - [Hidden Bar](https://github.com/dwarvesf/hidden) - Simple app to organize and declutter your menu bar. 🍎 [🟢](https://github.com/dwarvesf/hidden)
 - [MacPilot](https://koingosw.com/products/macpilot) - Unlock hidden settings and system tweaks. 🍎
 - [TinkerTool](https://bresink.com/osx/TinkerTool.html) - Utility for enabling hidden system preferences. 🍎
+- [SaneBar](https://sanebar.com) - Menu bar icon manager and organizer. Local-only alternative to Bartender. 🍎 [🟢](https://github.com/sane-apps/SaneBar)
+- [SaneClick](https://saneclick.com) - Finder toolbar customizer for adding quick actions. 🍎 [🟢](https://github.com/sane-apps/SaneClick)
+- [Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for hiding, arranging, and customizing menu bar items. 🍎 [🟢](https://github.com/stonerl/Thaw)
 
 ### Wallpaper Tools
 
@@ -226,6 +231,7 @@
 - [SoapUI Open Source](https://soapui.org) - For testing REST and SOAP APIs with scripting support. 🪟 🍎 🐧 [🟢](https://github.com/SmartBear/soapui)
 - [Paw](https://paw.cloud) - Advanced HTTP client. 🍎
 - [Yaak](https://yaak.app) - An offline and Git friendly API tester for HTTP, GraphQL, WebSockets, SSE, and gRPC. 🪟 🍎 🐧 [🟢](https://github.com/mountain-loop/yaak)
+- [Endpoint](https://apps.apple.com/tr/app/endpoint-http-client/id6755891816?mt=12) - Native macOS API client with WebSocket support, performance testing, and customizable themes. 🍎
 
 ### Database
 
@@ -278,6 +284,7 @@
 - [UTM](https://mac.getutm.app) - GUI for QEMU to run various VMs including ARM64 and x64. 🍎
 - [Vagrant](https://vagrantup.com) - Tool for managing reproducible development environments using virtual machines. 🪟 🍎 🐧 🟢
 - [VMWare Workstation](https://vmware.com/products/desktop-hypervisor/workstation-and-fusion) - Virtualization software with advanced features. 🪟 🍎 🐧
+- [Mocker](https://github.com/us/mocker) - Docker-compatible container CLI for macOS built on Apple's Containerization framework. 🍎 [🟢](https://github.com/us/mocker)
 
 ## Documents
 
@@ -301,6 +308,7 @@
 - [iChm](https://github.com/NSGod/ichm) - CHM reader. 🍎 [🟢](https://github.com/NSGod/ichm)
 - [Kindle App](https://amazon.com/l/16571048011) - Official Kindle reader app. 🪟 🍎
 - [Klib](https://klib.me) - Manage Kindle and iBooks highlights. 🍎
+- [IReader](https://github.com/IReaderorg/IReader) Free and open source novel reader for Android and Desktop
 - [Koodo Reader](https://koodoreader.com/en) - EBook reader supporting 15+ formats. 🪟 🍎 🐧 [🟢](https://github.com/koodo-reader/koodo-reader)
 - [Naps2](https://naps2.com) - Scan documents to PDF and more, as simply as possible. 🪟 🍎 🐧 [🟢](https://github.com/cyanfish/naps2)
 - [Readest](https://readest.com) - Cross-platform eBook reader with tools. 🪟 🍎 🐧 [🟢](https://github.com/readest/readest)
@@ -461,6 +469,10 @@
 - [RoboForm](https://roboform.com) - Password manager and form filler with multi-platform synchronization. 🪟 🍎 🐧
 - [ProtonPass](https://proton.me/pass) - Free password manager with end-to-end encryption based in Switzerland. 🪟 🍎 🐧 [🟢](https://github.com/protonpass)
 
+### Ad & Tracker Blocking
+
+- [SaneHosts](https://sanehosts.com) - macOS hosts file manager for system-wide ad and tracker blocking. 🍎 [🟢](https://github.com/sane-apps/SaneHosts)
+
 ## Image Viewers
 
 - [FlowVision](https://github.com/netdcy/FlowVision) - Waterfall-style image viewer. 🍎 🟢
@@ -546,6 +558,7 @@
 ## Utility
 
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) - Command-line tool for downloading audio and video. 🪟 🍎 🐧 [🟢](https://github.com/yt-dlp/yt-dlp) ⭐
+- [CookCLI](https://github.com/cooklang/CookCLI) - Recipe manager with web server, shopping lists, and meal planning. 🪟 🍎 🐧 🟢
 - [LocalSend](https://localsend.org) - Share files instantly to nearby devices. 🪟 🍎 🐧
 - [ProcessSpy](https://process-spy.app) - Native process monitor for macOS. 🍎
 - [SpeedCrunch](https://heldercorreia.bitbucket.io/speedcrunch) - Fast, high-precision scientific calculator with keyboard shortcuts. 🪟 🍎 🐧
@@ -561,6 +574,7 @@
 - [EcoPaste](https://github.com/EcoPasteHub/EcoPaste) - Cross-platform modern clipboard management tool.  🪟 🍎 🐧 🟢
 - [Maccy](https://maccy.app) - Minimal clipboard manager. 🍎 🟢
 - [Qopy](https://github.com/0pandadev/qopy) - Minimalist clipboard manager with unique features. 🪟 🍎 🐧 🟢
+- [SaneClip](https://saneclip.com) - Clipboard manager that keeps all history local with search and formatting tools. 🍎 [🟢](https://github.com/sane-apps/SaneClip)
 
 ### Metadata
 
@@ -590,4 +604,9 @@
 
 ### Space Visualizer
 
+- [ClearDisk](https://github.com/bysiber/cleardisk) - macOS menu bar app to visualize and clean developer caches (Xcode, node_modules, CocoaPods, Docker, pip, Cargo). 🍎 [🟢](https://github.com/bysiber/cleardisk)
 - [Filelight](https://kde.org/applications/utilities/org.kde.filelight) - Visualizer with a circular sunburst chart. 🪟 🍎 🐧
+
+### Trackpad
+
+- [MiddleDrag](https://middledrag.app) - Three-finger trackpad gestures for middle-click and middle-drag on macOS. 🍎 [🟢](https://github.com/NullPointerDepressiveDisorder/MiddleDrag)

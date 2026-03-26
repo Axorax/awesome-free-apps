@@ -21,7 +21,7 @@
 
 ## Contents
 
-<!-- AF-TOC : Wednesday, August 13, 2025 at 09:57:23 AM UTC -->
+<!-- AF-TOC : Thursday, March 26, 2026 at 06:32:49 PM UTC -->
 
 - [Audio](#audio)
   - [Audio Players](#audio-players)
@@ -66,6 +66,7 @@
   - [Video Streaming and Recording](#video-streaming-and-recording)
   - [Video Converters and Compressors](#video-converters-and-compressors)
 - [VPN and Proxy Tools](#vpn-and-proxy-tools)
+- [Health and Wellness](#health-and-wellness)
 - [Utility](#utility)
   - [Clipboard Management](#clipboard-management)
   - [Metadata](#metadata)
@@ -311,6 +312,10 @@
 - [TunnelBear](https://www.tunnelbear.com) - Simple VPN app with a friendly interface and a free plan. 🤖 🍎
 - [Windscribe](https://windscribe.com) - Privacy-focused VPN with a free option and wide server coverage. 🤖 🍎 🟢
 - [Betternet](https://www.betternet.co) - Fast, free VPN for browsing securely and privately. 🤖 🍎
+
+## Health and Wellness
+
+- [Paula](https://trypaula.com) - Free AI mental health companion using CBT and DBT techniques, with voice sessions, mood tracking, and journaling. 🤖 🍎
 
 ## Utility
 

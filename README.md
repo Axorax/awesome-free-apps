@@ -682,6 +682,7 @@
 - [Maccy](https://maccy.app) - Minimal clipboard manager. 🍎 🟢
 - [Parcellite](https://parcellite.sourceforge.io) - Basic clipboard manager. 🐧
 - [Qopy](https://github.com/0pandadev/qopy) - Minimalist clipboard manager with unique features. 🪟 🍎 🐧 🟢
+- [SaneClip](https://saneclip.com) - Clipboard manager that keeps all history local with search and formatting tools. 🍎 [🟢](https://github.com/sane-apps/SaneClip)
 
 ### Metadata
 

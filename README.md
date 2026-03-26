@@ -219,6 +219,7 @@
 - [Sizer](https://brianapps.net/sizer) - Resize any window to a predefined size. 🪟
 - [Sophia Script for Windows](https://github.com/farag2/Sophia-Script-for-Windows) - The most powerful PowerShell module for fine-tuning Windows showing how Windows can be configured without making any harm to it. 🪟 [🟢](https://github.com/farag2/Sophia-Script-for-Windows)
 - [RetroBar](https://github.com/dremin/RetroBar) - Classic Windows 95, 98, Me, 2000, XP, Vista taskbar for modern versions of Windows. 🪟 [🟢](https://github.com/dremin/RetroBar)
+- [SaneClick](https://saneclick.com) - Finder toolbar customizer for adding quick actions. 🍎 [🟢](https://github.com/sane-apps/SaneClick)
 - [Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for hiding, arranging, and customizing menu bar items. 🍎 [🟢](https://github.com/stonerl/Thaw)
 
 ### Wallpaper Tools

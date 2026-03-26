@@ -414,6 +414,7 @@
 - [Vim](https://www.vim.org) - Efficient command-line editor with powerful keyboard shortcuts and multi-file editing. 🪟 🍎 🐧 [🟢](https://github.com/vim/vim)
 - [Vimr](http://vimr.org) - Editor offering a refined Vim experience with enhanced UI and modern features. 🍎 [🟢](https://github.com/qvacua/vimr)
 - [Zed](https://zed.dev) - High-performance, collaborative editor designed for speed, real-time collaboration, and custom workflows. 🍎 🐧 [🟢](https://github.com/zed-industries/zed)
+- [MDLook](https://mdlook.com) - Portable offline Markdown editor using WebView2 with live preview, dark mode, and diagram support. 🪟
 
 ## Download Managers
 

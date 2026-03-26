@@ -659,6 +659,7 @@
 - [Locale Emulator](https://github.com/xupefei/Locale-Emulator) - Simulate different system regions and languages. 🪟 🟢
 - [LocalSend](https://localsend.org) - Share files instantly to nearby devices. 🪟 🍎 🐧
 - [Nirsoft](https://nirsoft.net/utils/index.html) - Collection of small utilities for various tasks. 🪟
+- [PeakFlow](https://getpeakflow.pro) - Seven productivity tools with screen dimming, clipboard manager, volume mixer, and meeting alerts. 🪟 [🟢](https://github.com/inchwormz/peakflow-electron)
 - [ProcessSpy](https://process-spy.app) - Native process monitor for macOS. 🍎
 - [PuTTY](https://putty.org) - SSH and Telnet client for remote connections. 🪟
 - [SpeedCrunch](https://heldercorreia.bitbucket.io/speedcrunch) - Fast, high-precision scientific calculator with keyboard shortcuts. 🪟 🍎 🐧

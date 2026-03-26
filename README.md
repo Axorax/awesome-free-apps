@@ -744,6 +744,7 @@
 ### Space Visualizer
 
 - [WizTree](https://diskanalyzer.com) - Fast disk space analyzer that scans drives and shows file size distribution. 🪟 ⭐
+- [ClearDisk](https://github.com/bysiber/cleardisk) - macOS menu bar app to visualize and clean developer caches (Xcode, node_modules, CocoaPods, Docker, pip, Cargo). 🍎 [🟢](https://github.com/bysiber/cleardisk)
 - [DiskSavvy](https://disksavvy.com) - Disk space analyzer with various reporting and filtering options. 🪟
 - [Filelight](https://kde.org/applications/utilities/org.kde.filelight) - Visualizer with a circular sunburst chart. 🪟 🍎 🐧
 - [JDiskReport](https://www.jgoodies.com/freeware/jdiskreport) - Tool for visualizing disk usage with a variety of charts and graphs. 🪟 🐧

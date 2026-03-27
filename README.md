@@ -12,15 +12,11 @@
 | 🐧   | Available on Linux   |      |                               |
 
 > [!IMPORTANT]
-> Maintaining this project requires a lot of time. [Donate to support me!](https://patreon.com/axorax) ❤️
+> Maintaining this project requires a lot of time. [**Donate to support me!**](https://patreon.com/axorax) ❤️
 >
-> [Discord server](https://discord.gg/nKUFghjXQu) — [Patreon](https://patreon.com/axorax)
+> Want to add something? [contributing.md](contributing.md) <br>
+> Want to become a maintainer? [Help maintain the project](https://github.com/Axorax/awesome-free-apps/issues/28)
 >
-> Want to add something to the list? Check -> [contributing.md](contributing.md)
->
-> If you want to become a maintainer, check this -> https://github.com/Axorax/awesome-free-apps/issues/28
-
-> [!IMPORTANT]
 > **Looking for the mobile version of this list?** -> [MOBILE.md](MOBILE.md)
 
 ## Contents
@@ -97,7 +93,6 @@
 ### Audio Players
 
 - [Foobar2000](https://foobar2000.org) - Lightweight and highly customizable audio player with support for many formats. 🪟 🍎 ⭐
-- [AIMP](https://aimp.ru) - Music player with a clean interface and powerful features. 🪟
 - [Audacious](https://github.com/audacious-media-player/audacious) - Lightweight audio player for simple music playback. 🪟 🐧 🟢
 - [Karafun](https://karafun.com) - Collection of karaoke songs across multiple genres. Play your own CDG files or use downloads from YouTube. 🪟
 - [MusicBee](https://getmusicbee.com) - Feature-rich music player and manager. 🪟
@@ -136,7 +131,6 @@
 - [Qtractor](https://qtractor.org) - Multi-track DAW for Linux for audio and MIDI recording. 🐧
 - [Stargate DAW](https://github.com/stargatedaw/stargate) - Innovation-first DAW, instrument and effect plugins. 🪟 🍎 🐧 🟢
 - [Tracktion T7](https://tracktion.com/products/t7-daw) - DAW for music production with advanced editing features. 🪟 🍎 🐧
-- [Zrythm](https://zrythm.org) - DAW for music production with an easy-to-use interface. 🪟 🍎 🐧
 
 ## Browsers
 
@@ -394,7 +388,6 @@
 
 - [Visual Studio Code](https://code.visualstudio.com) - Code editor with debugging, integrated Git support, and a vast extension marketplace. 🪟 🍎 🐧 [🟢](https://github.com/microsoft/vscode) ⭐
 - [Atom](https://atom.io) - Highly customizable editor with Git integration, real-time collaboration, and extensive plugins. 🪟 🍎 🐧 [🟢](https://github.com/atom/atom)
-- [Aurora Editor](https://auroraeditor.com) - Fast, lightweight editor with modern design and syntax highlighting. 🍎 [🟢](https://github.com/AuroraEditor/AuroraEditor)
 - [Bluefish](https://bluefish.openoffice.nl/index.html) - Web developer editor supporting HTML, CSS, JavaScript, and PHP with built-in preview. 🪟 🍎 🐧 [🟢](https://sourceforge.net/p/bluefish/code/HEAD/tree/trunk/bluefish)
 - [Brackets](https://brackets.io) - Web-focused editor with live preview, CSS preprocessor support, and inline editing for HTML. 🪟 🍎 🐧 [🟢](https://github.com/brackets-cont/brackets)
 - [CodeEdit](https://codeedit.app) - Native macOS editor with live preview, Git integration, and Markdown support. 🍎 [🟢](https://github.com/CodeEditApp/CodeEdit)
@@ -448,7 +441,7 @@
 - [Origin](https://origin.com) - EA game launcher. 🪟 🍎
 - [Riot Client](https://riotgames.com/en) - Launcher for League of Legends and more. 🪟 🍎
 - [Rockstar Games Launcher](https://socialclub.rockstargames.com/rockstar-games-launcher) - Launcher for Rockstar games. 🪟
-- [Playnite](https://playnite.link) - Unified game library manager. 🪟 [🟢](https://github.com/JosefNemec/Playnite/)
+- [Playnite](https://playnite.link) - Unified game library manager. 🪟 [🟢](https://github.com/JosefNemec/Playnite)
 - [ProtonUp-Qt](https://davidotek.github.io/protonup-qt) - Tool for managing Proton/Wine compatibility. 🐧 [🟢](https://github.com/DavidoTek/ProtonUp-Qt)
 - [Porting Kit](https://portingkit.com) - Install Windows games on Mac. 🍎
 - [Ubisoft Connect](https://ubisoftconnect.com) - Game launcher for Ubisoft titles. 🪟 🍎
@@ -486,7 +479,6 @@
 - [Citra](https://citra-emu.org) - Nintendo 3DS emulator with great compatibility and performance. 🪟 🍎 🐧
 - [OpenEmu](https://openemu.org) - Multi-system emulator with a clean interface and support for a variety of retro systems. 🍎
 - [xemu](https://xemu.app) - Original Xbox emulator for playing classic Xbox games on modern systems. 🪟 🍎 🐧
-- [higan](https://higan.dev) - Multi-system emulator with high accuracy, supporting consoles like SNES and GBA. 🪟 🍎 🐧
 - [PCSX-Redux](https://github.com/grumpycoders/pcsx-redux) - PlayStation 1 emulator aimed at advanced debugging and better game compatibility. 🪟 🐧 🟢
 - [Mednafen](https://mednafen.github.io) - Multi-system emulator with a focus on precision and compatibility. 🪟 🐧
 - [MelonDS](https://melonds.kuribo64.net) - Nintendo DS emulator with accurate performance and Wi-Fi support. 🪟 🍎 🐧
@@ -593,7 +585,7 @@
 
 ### Video Players
 
-- [PotPlayer](https://potplayer.daum.net) - Feature-rich video player with advanced playback options. 🪟 ⭐
+- [PotPlayer](https://potplayer.tv/) - Feature-rich video player with advanced playback options. 🪟 ⭐
 - [Bomi Player](https://bomi-player.github.io) - Advanced media player that supports a variety of video formats. 🐧
 - [Clementine Player](https://www.clementine-player.org) - Music and video player with a user-friendly interface. 🪟 🍎 🐧
 - [GOM Player](https://gomlab.com/gomplayer-media-player) - Popular media player with support for most video formats and customizable features. 🪟 🍎
@@ -621,7 +613,7 @@
 - [Zoom](https://zoom.us) - Video meetings with streaming, recording, and screen sharing. 🪟 🍎 🐧
 - [GPU Screen Recorder](https://flathub.org/apps/com.dec05eba.gpu_screen_recorder) - Shadowplay-like screen recorder that is fast. 🐧
 - [Shadowplay](https://www.nvidia.com/en-ph/geforce/geforce-experience/shadowplay) - Record gameplay videos, screenshots, and livestreams. 🪟
-- [ScreenToGif](https://www.screentogif.com/) - Record, edit, and create animated GIFs from your screen. 🪟 [🟢](https://github.com/NickeManarin/ScreenToGif)
+- [ScreenToGif](https://www.screentogif.com) - Record, edit, and create animated GIFs from your screen. 🪟 [🟢](https://github.com/NickeManarin/ScreenToGif)
 
 ### Video Converters and Compressors
 
@@ -671,7 +663,7 @@
 - [Nirsoft](https://nirsoft.net/utils/index.html) - Collection of small utilities for various tasks. 🪟
 - [PeakFlow](https://getpeakflow.pro) - Seven productivity tools with screen dimming, clipboard manager, volume mixer, and meeting alerts. 🪟 [🟢](https://github.com/inchwormz/peakflow-electron)
 - [ProcessSpy](https://process-spy.app) - Native process monitor for macOS. 🍎
-- [PuTTY](https://putty.org) - SSH and Telnet client for remote connections. 🪟
+- [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/) - SSH and Telnet client for remote connections. 🪟
 - [SpeedCrunch](https://heldercorreia.bitbucket.io/speedcrunch) - Fast, high-precision scientific calculator with keyboard shortcuts. 🪟 🍎 🐧
 - [Twinkle Tray](https://twinkletray.com) - Simple tool to manage brightness across multiple monitors. 🪟
 - [Rocket](https://matthewpalmer.net/rocket) - Type and insert emojis anywhere using a colon (:). 🍎

@@ -672,6 +672,7 @@
 - [UniGetUI](https://www.marticliment.com/unigetui) - UI for popular package managers like  Winget, NPM, and more. 🪟 [🟢](https://github.com/marticliment/UniGetUI)
 - [Saga Reader](https://github.com/sopaco/saga-reader) - Blazing-Fast AI Reader that supports sources based on search engines and RSS. 🪟 🍎 [🟢](https://github.com/sopaco/saga-reader)
 - [KaiROS AI](https://github.com/avikeid2007/Kairos.local) - Local AI assistant with GPU acceleration and model catalog. 🪟 [🟢](https://github.com/avikeid2007/Kairos.local)
+- [RightLayout](https://alexchernysh.com/rightlayout) - AI keyboard layout fixer for macOS that auto-corrects wrong layout (EN/RU/HE) as you type using local CoreML. 🍎
 
 ### Clipboard Management
 

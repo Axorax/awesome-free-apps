@@ -491,6 +491,7 @@
 - [Krita](https://krita.org) - Digital painting software designed for illustrators and concept artists. 🪟 🍎 🐧 🟢 ⭐
 - [Aspect](https://aspect.bildhuus.com) - Photo organizer with peer-to-peer synchronization for secure image storage. 🪟 🍎 🐧
 - [pngquant](https://pngquant.org) - Command-line tool for compressing PNG images without losing quality. 🪟 🍎 🐧
+- [SammaPix](https://www.sammapix.com) - 27 browser-based image tools: compress, resize, convert, remove background, passport photos, AI rename. Privacy-first — all processing runs client-side. 🌐
 - [Alchemy](https://al.chemy.org) - Experimental drawing application focused on conceptual art creation. 🪟 🍎 🐧
 - [Amadine](https://amadine.com) - Intuitive vector drawing app aimed at graphic designers. 🍎
 - [Colorpicker](https://colorpicker.fr) - Color manipulation tool for picking and modifying colors. 🪟 🍎 🐧 🟢

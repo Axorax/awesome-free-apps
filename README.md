@@ -490,6 +490,7 @@
 - [GIMP](https://gimp.org) - Versatile image editor for tasks like photo manipulation and graphic design. 🪟 🍎 🐧 🟢 ⭐
 - [Inkscape](https://inkscape.org/en) - Vector graphics editor used for creating logos, illustrations, and more. 🪟 🍎 🐧 🟢 ⭐
 - [Krita](https://krita.org) - Digital painting software designed for illustrators and concept artists. 🪟 🍎 🐧 🟢 ⭐
+- [Affinity](https://www.affinity.studio/) - Professional creative suite for photo editing, graphic design, and desktop publishing. 🪟 🍎 🐧
 - [Aspect](https://aspect.bildhuus.com) - Photo organizer with peer-to-peer synchronization for secure image storage. 🪟 🍎 🐧
 - [pngquant](https://pngquant.org) - Command-line tool for compressing PNG images without losing quality. 🪟 🍎 🐧
 - [Alchemy](https://al.chemy.org) - Experimental drawing application focused on conceptual art creation. 🪟 🍎 🐧

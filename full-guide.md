@@ -2,7 +2,7 @@
 
 Please note that this project is released with a [Contributor Code of Conduct](code-of-conduct.md). By participating in this project you agree to abide by its terms.
 
-Read these rules first and then make a PR or contribute. If you don't know how to do that, then check [how-to-contribute.md](how-to-contribute.md)
+Read these rules first and then make a PR or contribute. If you don't know how to do that, then check [how-to-make-a-pr.md](how-to-make-a-pr.md)
 
 - [Suggesting an app or any support](#-suggesting-an-app-or-any-support)
 - [Editing the list](#-editing-the-list)

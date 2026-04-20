@@ -252,6 +252,8 @@
 - [WinMerge](https://sourceforge.net/projects/winmerge) - Windows visual diff and merge for files and directories. 🪟 🟢
 - [WhereMyTokens](https://github.com/jeongwookie/WhereMyTokens) - Windows system tray app for monitoring Claude Code token usage in real time. Displays per-session token counts, costs, context window usage, and rate limits. 🪟 [🟢](https://github.com/jeongwookie/WhereMyTokens)
 - [x64dbg](https://x64dbg.com) - Debugger for Windows. 🪟 🟢
+- [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) - Library of 50,000+ expert AI agent skills for Claude Code, Cursor, Cline, and Windsurf with visual dashboard and single-click install. 🪟 🍎 🐧 [🟢](https://github.com/theihtisham/omni-skills-forge)
+- [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) - Zero-config AI coding intelligence layer with infinite memory, cross-agent learning, MCP server, built-in LSP, and 60+ CLI commands. 🪟 🍎 🐧 [🟢](https://github.com/theihtisham/agent-shadow-brain)
 
 ### API Development
 

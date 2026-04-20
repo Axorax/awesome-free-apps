@@ -551,6 +551,7 @@
 - [Irfanview](https://irfanview.com) - Simple image viewer with some editing abilities. 🪟
 - [JPEGView](https://sourceforge.net/projects/jpegview) - Lean, fast and highly configurable viewer/editor for JPEG, BMP, PNG, WEBP, TGA, GIF and TIFF images. 🪟
 - [qView](https://interversehq.com/qview) - Visually minimal and space efficient. 🪟 🍎 🐧
+- [WobblePic](https://wobblepic.com) - Image viewer with soft-body physics and SAM2 segmentation; drag images and they jiggle. 🪟 🍎
 - [XnView](https://xnview.com/en) - Image resizer, batch image converter. 🪟 🍎 🐧
 
 ## Remote Access

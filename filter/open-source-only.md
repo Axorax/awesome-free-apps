@@ -468,6 +468,7 @@
 
 - [Files](https://files.community/download) - Modern file manager for easy file organization. 🪟 [🟢](https://github.com/files-community/Files)
 - [WinSCP](https://winscp.net) - Easy-to-use SFTP, FTP, and WebDAV client. 🪟 🟢
+- [Sigma File Manager](https://github.com/aleksey-hoffman/sigma-file-manager) - Modern file manager with advanced features. 🪟 🐧 [🟢](https://github.com/aleksey-hoffman/sigma-file-manager)
 
 ### Application Management
 

@@ -518,6 +518,7 @@
 
 - [Double Commander](https://doublecmd.sourceforge.io) - Dual-pane manager with built-in editor and advanced search. 🪟 🍎 🐧
 - [FileZilla](https://filezilla-project.org) - Reliable FTP, FTPS, and SFTP client for remote management. 🪟 🍎 🐧
+- [Sigma File Manager](https://github.com/aleksey-hoffman/sigma-file-manager) - Modern file manager with advanced features. 🪟 🐧 [🟢](https://github.com/aleksey-hoffman/sigma-file-manager)
 
 ### Application Management
 

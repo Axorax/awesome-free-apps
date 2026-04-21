@@ -653,6 +653,7 @@
 - [Q-Dir](https://softwareok.com/?seite=Freeware/Q-Dir) - Multi-pane file manager with up to four directory views. 🪟
 - [WinSCP](https://winscp.net) - Easy-to-use SFTP, FTP, and WebDAV client. 🪟 🟢
 - [Xftp 7](https://netsarang.com/en/xftp) - Flexible SFTP/FTP client for efficient file transfers. 🪟
+- [Sigma File Manager](https://github.com/aleksey-hoffman/sigma-file-manager) - Modern file manager with advanced features. 🪟 🐧 [🟢](https://github.com/aleksey-hoffman/sigma-file-manager)
 
 ### Application Management
 

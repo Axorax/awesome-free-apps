@@ -381,7 +381,6 @@
 - [Notion](https://notion.so) - All-in-one workspace for notes, tasks, databases, and collaboration. 🪟 🍎 🐧
 - [Plain Text Editor](https://sindresorhus.com/plain-text-editor) - Simple, distraction-free text editor for quick note-taking. 🍎
 - [Tot](https://tot.rocks) - Simple, elegant app for collecting and editing text snippets. 🍎
-- [不拖 (Butuo)](https://apps.apple.com/app/id6761042128) - Minimalist to-do app for iPhone and iPad. No account, no server, no sync. Data stored locally only. 🍎
 - [RemNote](https://remnote.io) - Knowledge management app with note-taking and spaced repetition features. 🪟 🍎 🐧
 - [Simplenote](https://simplenote.com) - Minimalist note-taking app that syncs across devices. 🪟 🍎 🐧 [🟢](https://github.com/Automattic/simplenote-electron)
 - [fylepad](https://fylepad.vercel.app) - Lightweight notepad with powerful rich-text editing. 🪟 🍎 🐧 [🟢](https://github.com/imrofayel/fylepad)

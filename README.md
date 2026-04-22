@@ -370,6 +370,7 @@
 - [Xournal++](https://xournalpp.github.io) - Handwriting and annotation tool for PDFs. 🪟 🍎 🐧 [🟢](https://github.com/xournalpp/xournalpp)
 - [PDFGear](https://www.pdfgear.com) - Read, edit, convert, merge, and sign PDF files across devices. 🪟 🍎
 - [PDFsam](https://pdfsam.org) - Extract pages, split, merge, mix and rotate PDF files. 🪟 🍎 🐧 [🟢](https://github.com/torakiki/pdfsam)
+- [NoCodeVista](https://nocodevista.com/tools) - Free web app with 110+ tools including PDF compressor, splitter, image compressor, background remover, and more.
 
 ## Note Taking
 

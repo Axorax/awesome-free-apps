@@ -715,6 +715,7 @@
 - [XMonad](https://xmonad.org) - Customizable tiling window manager. 🐧
 - [YASB](https://github.com/amnweb/yasb) - Highly configurable Windows status bar. 🪟 🟢
 - [Komorebi](https://github.com/LGUG2Z/komorebi) - Tiling window manager for Windows. 🪟 🟢
+- [Niri](https://github.com/niri-wm/niri) - Scrollable-tiling Wayland compositor written in Rust. 🐧 🟢
 
 ### File Management
 

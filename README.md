@@ -660,6 +660,7 @@
 - [CookCLI](https://github.com/cooklang/CookCLI) - Recipe manager with web server, shopping lists, and meal planning. 🪟 🍎 🐧 🟢
 - [Fan Control](https://getfancontrol.com) - Software for managing and controlling system fans. 🪟
 - [Keylock](https://github.com/Axorax/keylock) - Lock your keyboard with a click. 🪟 🟢
+- [InstallerClean](https://github.com/no-faff/InstallerClean) - Open-source replacement for PatchCleaner. Cleans orphaned MSI/MSP files from C:\Windows\Installer. 🪟 [🟢](https://github.com/no-faff/InstallerClean)
 - [Legacy Update](https://legacyupdate.net) - Installs updates to fix Windows Update access on unsupported versions. 🪟
 - [Locale Emulator](https://github.com/xupefei/Locale-Emulator) - Simulate different system regions and languages. 🪟 🟢
 - [LocalSend](https://localsend.org) - Share files instantly to nearby devices. 🪟 🍎 🐧

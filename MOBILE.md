@@ -246,7 +246,7 @@
 
 ## Finance
 
-- [BeeCount](https://github.com/TNT-Likely/BeeCount) - Privacy-first cross-platform expense tracker with self-hostable cloud sync (BeeCount Cloud, iCloud, Supabase, WebDAV, S3) and offline-first design. 🤖 🍎
+- [BeeCount](https://github.com/TNT-Likely/BeeCount/blob/main/README_EN.md) - Privacy-first cross-platform expense tracker with self-hostable cloud sync (BeeCount Cloud, iCloud, Supabase, WebDAV, S3) and offline-first design. 🤖 🍎
 
 ## Download Managers
 

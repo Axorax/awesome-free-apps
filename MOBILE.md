@@ -244,6 +244,10 @@
 - [Textastic](https://textasticapp.com) - Code and text editor with syntax support for numerous languages. 🍎
 - [AIDE](https://play.google.com/store/apps/details?id=com.aide.ui) - Mobile IDE to code and build Android apps on the go. 🤖
 
+## Finance
+
+- [BeeCount](https://github.com/TNT-Likely/BeeCount/blob/main/README_EN.md) - Privacy-first cross-platform expense tracker with self-hostable cloud sync (BeeCount Cloud, iCloud, Supabase, WebDAV, S3) and offline-first design. 🤖 🍎
+
 ## Download Managers
 
 - [IDM](https://play.google.com/store/apps/details?id=com.downloadmanager.app&hl=en) - Accelerates downloads with advanced scheduling and queuing. 🤖

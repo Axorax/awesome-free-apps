@@ -89,6 +89,7 @@
 - [JACK Audio](https://jackaudio.org) - Audio server for routing and mixing sound between programs. 🪟 🍎 🐧
 - [EarTrumpet](https://eartrumpet.app) - Advanced volume control for Windows, offering app-specific audio management. 🪟
 - [Ambie](https://github.com/jenius-apps/ambie) - Use white noise, nature sounds, & more to boost your productivity. 🪟 🟢
+- [BlackHole](https://github.com/ExistentialAudio/BlackHole) - Virtual audio loopback driver for routing audio between macOS applications. 🍎 🟢
 
 ### Audio Players
 
@@ -196,6 +197,7 @@
 - [PeaZip](https://peazip.github.io) - Archive manager supporting 180+ formats with encryption and compression. 🪟 🐧 🟢
 - [The Unarchiver](https://theunarchiver.com) - Simple tool for extracting ZIP, RAR, ISO, and other formats. 🍎
 - [Unarchive One](https://cleanerone.trendmicro.com/unarchiver-one/?utm_source=github&utm_medium=referral&utm_campaign=githubproject) - Multi-format decompression tool with QuickLook integration. 🍎
+- [Keka](https://www.keka.io) - File archiver for compressing and extracting common archive formats. 🍎 [🟢](https://github.com/aonez/Keka)
 
 ## Customize
 
@@ -252,6 +254,12 @@
 - [WinMerge](https://sourceforge.net/projects/winmerge) - Windows visual diff and merge for files and directories. 🪟 🟢
 - [WhereMyTokens](https://github.com/jeongwookie/WhereMyTokens) - Windows system tray app for monitoring Claude Code token usage in real time. Displays per-session token counts, costs, context window usage, and rate limits. 🪟 [🟢](https://github.com/jeongwookie/WhereMyTokens)
 - [x64dbg](https://x64dbg.com) - Debugger for Windows. 🪟 🟢
+- [Ghostty](https://ghostty.org) - Fast native terminal emulator with GPU acceleration, tabs, splits, and modern terminal features. 🍎 🐧 [🟢](https://github.com/ghostty-org/ghostty)
+- [iTerm2](https://iterm2.com) - Terminal replacement for macOS with split panes, profiles, search, and extensive customization. 🍎 [🟢](https://github.com/gnachman/iTerm2)
+- [Ollama](https://ollama.com) - Runs and manages local AI models with desktop and command-line tools. 🪟 🍎 🐧 [🟢](https://github.com/ollama/ollama)
+- [Android Studio](https://developer.android.com/studio) - Official IDE for Android development with emulator, code editor, and build tools. 🪟 🍎 🐧
+- [GitHub Desktop](https://desktop.github.com) - Graphical Git client for cloning repositories, reviewing changes, and syncing with GitHub. 🪟 🍎 [🟢](https://github.com/desktop/desktop)
+- [WezTerm](https://wezterm.org) - GPU-accelerated terminal emulator and multiplexer with tabs, panes, SSH, and Lua configuration. 🪟 🍎 🐧 [🟢](https://github.com/wezterm/wezterm)
 
 ### API Development
 
@@ -274,6 +282,7 @@
 
 - [DBeaver](https://dbeaver.io) - Universal database tool for SQL databases like MySQL, MariaDB, PostgreSQL, SQLite, Apache Family, and more. 🪟 🍎 🐧 ⭐
 - [Beekeeper Studio](https://beekeeperstudio.io) - Modern, lightweight SQL client supporting MySQL, Postgres, SQLite, SQL Server, etc. 🪟 🍎 🐧
+- [DB Browser for SQLite](https://sqlitebrowser.org) - Visual tool for creating, browsing, and editing SQLite database files. 🪟 🍎 🐧 [🟢](https://github.com/sqlitebrowser/sqlitebrowser)
 
 ### Network Analysis
 
@@ -415,6 +424,8 @@
 - [Vimr](http://vimr.org) - Editor offering a refined Vim experience with enhanced UI and modern features. 🍎 [🟢](https://github.com/qvacua/vimr)
 - [Zed](https://zed.dev) - High-performance, collaborative editor designed for speed, real-time collaboration, and custom workflows. 🍎 🐧 [🟢](https://github.com/zed-industries/zed)
 - [MDLook](https://mdlook.com) - Portable offline Markdown editor using WebView2 with live preview, dark mode, and diagram support. 🪟
+- [VSCodium](https://vscodium.com) - Community-built VS Code binaries without Microsoft branding, telemetry, or licensing changes. 🪟 🍎 🐧 [🟢](https://github.com/VSCodium/vscodium)
+- [MarkEdit](https://github.com/MarkEdit-app/MarkEdit) - Native Markdown editor for macOS with a TextEdit-like workflow and local-file editing. 🍎 🟢
 
 ## Download Managers
 
@@ -426,6 +437,7 @@
 - [Motrix](https://motrix.app) - Simple and clean download manager with cross-platform support. 🪟 🍎 🐧 [🟢](https://github.com/agalwood/Motrix)
 - [Persepolis Download Manager](https://persepolisdm.github.io) - GUI for Aria2, providing an intuitive interface. 🪟 🍎 🐧 [🟢](https://github.com/persepolisdm/persepolis)
 - [Xtreme Download Manager (XDM)](https://xtremedownloadmanager.com) - Powerful tool to increase download speed. 🪟 🍎 🐧 [🟢](https://github.com/subhra74/xdm)
+- [Transmission](https://transmissionbt.com) - Lightweight BitTorrent client with native desktop, daemon, and web interfaces. 🪟 🍎 🐧 [🟢](https://github.com/transmission/transmission)
 
 ## Games
 
@@ -650,6 +662,7 @@
 - [Tunnelblick](https://github.com/Tunnelblick/Tunnelblick) - Easy-to-use OpenVPN client with a macOS-friendly interface. 🍎 🟢
 - [v2rayN](https://github.com/2dust/v2rayN) - Open source GUI for Xray and Sing-box. 🪟 🍎 🐧 🟢
 - [WireGuard](https://wireguard.com) - Fast, secure VPN protocol designed for simplicity. 🪟 🍎 🐧 [🟢](https://www.wireguard.com/repositories)
+- [Tailscale](https://tailscale.com) - Mesh VPN client for secure private networks using WireGuard. 🪟 🍎 🐧
 
 ## Utility
 
@@ -676,6 +689,12 @@
 - [Saga Reader](https://github.com/sopaco/saga-reader) - Blazing-Fast AI Reader that supports sources based on search engines and RSS. 🪟 🍎 [🟢](https://github.com/sopaco/saga-reader)
 - [KaiROS AI](https://github.com/avikeid2007/Kairos.local) - Local AI assistant with GPU acceleration and model catalog. 🪟 [🟢](https://github.com/avikeid2007/Kairos.local)
 - [RightLayout](https://alexchernysh.com/rightlayout) - AI keyboard layout fixer for macOS that auto-corrects wrong layout (EN/RU/HE) as you type using local CoreML. 🍎
+- [Stats](https://mac-stats.com) - Menu bar system monitor showing CPU, memory, disk, network, sensors, battery, and fan data. 🍎 [🟢](https://github.com/exelban/stats)
+- [XQuartz](https://www.xquartz.org) - X.Org X Window System server for running X11 applications on macOS. 🍎 [🟢](https://github.com/XQuartz/XQuartz)
+- [Hammerspoon](https://www.hammerspoon.org) - macOS automation tool for scripting windows, input devices, menus, and system behavior with Lua. 🍎 [🟢](https://github.com/Hammerspoon/hammerspoon)
+- [SwiftBar](https://swiftbar.app) - Menu bar customization tool that turns script output into macOS menu bar items. 🍎 [🟢](https://github.com/swiftbar/SwiftBar)
+- [MonitorControl](https://monitorcontrol.app) - Controls external display brightness, volume, and contrast from macOS keyboard shortcuts and menu bar. 🍎 [🟢](https://github.com/MonitorControl/MonitorControl)
+- [balenaEtcher](https://etcher.balena.io) - Tool for safely flashing OS images to SD cards and USB drives. 🪟 🍎 🐧 [🟢](https://github.com/balena-io/etcher)
 
 ### Clipboard Management
 
@@ -717,6 +736,7 @@
 - [YASB](https://github.com/amnweb/yasb) - Highly configurable Windows status bar. 🪟 🟢
 - [Komorebi](https://github.com/LGUG2Z/komorebi) - Tiling window manager for Windows. 🪟 🟢
 - [Niri](https://github.com/niri-wm/niri) - Scrollable-tiling Wayland compositor written in Rust. 🐧 🟢
+- [AltTab](https://alt-tab.app) - Window switcher that brings Windows-style alt-tab previews and controls to macOS. 🍎 [🟢](https://github.com/lwouis/alt-tab-macos)
 
 ### File Management
 
@@ -731,6 +751,7 @@
 - [WinSCP](https://winscp.net) - Easy-to-use SFTP, FTP, and WebDAV client. 🪟 🟢
 - [Xftp 7](https://netsarang.com/en/xftp) - Flexible SFTP/FTP client for efficient file transfers. 🪟
 - [Sigma File Manager](https://github.com/aleksey-hoffman/sigma-file-manager) - Modern file manager with advanced features. 🪟 🐧 [🟢](https://github.com/aleksey-hoffman/sigma-file-manager)
+- [Cyberduck](https://cyberduck.io) - File transfer client for FTP, SFTP, WebDAV, S3, Azure, OneDrive, and other storage services. 🪟 🍎 [🟢](https://github.com/iterate-ch/cyberduck)
 
 ### Application Management
 
@@ -762,3 +783,5 @@
 ### Trackpad
 
 - [MiddleDrag](https://middledrag.app) - Three-finger trackpad gestures for middle-click and middle-drag on macOS. 🍎 [🟢](https://github.com/NullPointerDepressiveDisorder/MiddleDrag)
+- [LinearMouse](https://linearmouse.app) - Mouse and trackpad utility for pointer acceleration, scrolling, button mapping, and per-device settings. 🍎 [🟢](https://github.com/linearmouse/linearmouse)
+- [Mos](https://mos.caldis.me) - Mouse utility for smooth scrolling and independent scroll direction settings on macOS. 🍎 [🟢](https://github.com/Caldis/Mos)

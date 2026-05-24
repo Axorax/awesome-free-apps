@@ -197,7 +197,7 @@
 - [PeaZip](https://peazip.github.io) - Archive manager supporting 180+ formats with encryption and compression. 🪟 🐧 🟢
 - [The Unarchiver](https://theunarchiver.com) - Simple tool for extracting ZIP, RAR, ISO, and other formats. 🍎
 - [Unarchive One](https://cleanerone.trendmicro.com/unarchiver-one/?utm_source=github&utm_medium=referral&utm_campaign=githubproject) - Multi-format decompression tool with QuickLook integration. 🍎
-- [Keka](https://www.keka.io) - File archiver for compressing and extracting common archive formats. 🍎 [🟢](https://github.com/aonez/Keka)
+- [Keka](https://www.keka.io) - File archiver for compressing and extracting common archive formats. 🍎
 
 ## Customize
 

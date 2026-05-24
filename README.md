@@ -557,6 +557,10 @@
 
 - [SaneHosts](https://sanehosts.com) - macOS hosts file manager for system-wide ad and tracker blocking. 🍎 [🟢](https://github.com/sane-apps/SaneHosts)
 
+### Firewall
+
+- [PureSnitch](https://github.com/momenbasel/puresnitch) - Open-source application firewall for macOS. Little Snitch-style world map, rules manager, DNS over HTTPS, pf-based blocking, no telemetry. 🍎 [🟢](https://github.com/momenbasel/puresnitch)
+
 ## Image Viewers
 
 - [ImageGlass](https://imageglass.org) - Lightweight, versatile image viewer. 🪟 🟢 ⭐

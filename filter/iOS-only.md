@@ -83,7 +83,7 @@
 
 - [VLC for Mobile](https://www.videolan.org/vlc) - Supports a wide range of audio formats and offers powerful playback controls. 🤖 🍎
 - [Foobar2000](https://foobar2000.org) - Minimalist player supporting advanced playback features and customization. 🤖 🍎
-- [Music Speed Changer](https://musicspeedchanger.com) - A Music player with mainly speed controls, eq options, and mores. 🤖 🍎
+- [Music Speed Changer](https://musicspeedchanger.com) - A music player with mainly speed controls, eq options, and mores. 🤖 🍎
 
 ### Audio Recording
 

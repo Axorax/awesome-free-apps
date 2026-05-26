@@ -214,7 +214,7 @@
 
 ## Other Emulators
 
-- [RetroArch](https://github.com/libretro/RetroArch) - Open-source, cross-platform emulator that allows to play games from a wide variety of retro gaming consoles and platforms. 🪟 🍎 🐧 🟢 ⭐
+- [RetroArch](https://github.com/libretro/RetroArch) - Open-source, cross-platform emulator that allow you to play games from a wide variety of retro gaming consoles and platforms. 🪟 🍎 🐧 🟢 ⭐
 
 ## Graphics Tools
 

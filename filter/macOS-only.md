@@ -409,7 +409,7 @@
 
 ## Other Emulators
 
-- [RetroArch](https://github.com/libretro/RetroArch) - Open-source, cross-platform emulator that allows to play games from a wide variety of retro gaming consoles and platforms. 🪟 🍎 🐧 🟢 ⭐
+- [RetroArch](https://github.com/libretro/RetroArch) - Open-source, cross-platform emulator that allow you to play games from a wide variety of retro gaming consoles and platforms. 🪟 🍎 🐧 🟢 ⭐
 - [PPSSPP](https://ppsspp.org) - PSP emulator for any OS. 🪟 🍎 🐧
 - [Dolphin](https://dolphin-emu.org) - GameCube and Wii emulator. 🪟 🍎 🐧
 - [PCSX2](https://pcsx2.net) - PlayStation 2 emulator with compatibility for most games. 🪟 🍎 🐧

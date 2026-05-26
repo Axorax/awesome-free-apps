@@ -394,6 +394,7 @@
 - [Simplenote](https://simplenote.com) - Minimalist note-taking app that syncs across devices. 🪟 🍎 🐧 [🟢](https://github.com/Automattic/simplenote-electron)
 - [qnote](https://github.com/Omibranch/qnote) - Minimal frameless notepad with Markdown preview, real PDF export via Typst, OCR via Tesseract, and automatic version history. 🐧 [🟢](https://github.com/Omibranch/qnote)
 - [fylepad](https://fylepad.vercel.app) - Lightweight notepad with powerful rich-text editing. 🪟 🍎 🐧 [🟢](https://github.com/imrofayel/fylepad)
+- [plumio](https://plumio.app) - Privacy-first, open-source, self-hostable notes-taking app. 🪟 🍎 🐧 [🟢](https://github.com/albertasaftei/plumio)
 
 ## Text Editors
 

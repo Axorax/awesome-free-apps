@@ -19,7 +19,7 @@
 
 ## Contents
 
-<!-- AF-TOC : Thursday, March 26, 2026 at 06:32:49 PM UTC -->
+<!-- AF-TOC : Tuesday, May 26, 2026 at 07:53:21 AM UTC -->
 
 - [Audio](#audio)
   - [Audio Players](#audio-players)
@@ -50,6 +50,7 @@
   - [PDF Tools](#pdf-tools)
 - [Note Taking](#note-taking)
 - [Text Editors](#text-editors)
+- [Finance](#finance)
 - [Download Managers](#download-managers)
 - [Graphics Tools](#graphics-tools)
 - [3D Modeling and Animation](#3d-modeling-and-animation)

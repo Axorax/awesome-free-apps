@@ -120,7 +120,8 @@
 - [Brave](https://brave.com) - Ad-blocking browser with built-in privacy tools and rewards system. 🤖 🍎
 - [DuckDuckGo Privacy Browser](https://duckduckgo.com/app) - Focuses on privacy with no tracking and private search. 🤖 🍎
 - [Opera](https://www.opera.com/mobile) - Built-in ad blocker, VPN, and offline file sharing. 🤖 🍎
-- [Kiwi Browser](https://kiwibrowser.com) - Lightweight browser supporting Chrome extensions on mobile. 🤖
+- [Cromite](https://www.cromite.org) - Privacy-focused Chromium fork with ad-blocking and anti-tracking defaults. 🤖
+- [Microsoft Edge](https://www.microsoft.com/edge/mobile) - Cross-platform browser with sync, privacy controls, and AI-assisted tools. 🤖 🍎
 
 ## Communication
 

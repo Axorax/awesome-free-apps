@@ -368,6 +368,7 @@
 
 - [AppMgr III](https://play.google.com/store/apps/details?id=com.a0soft.gphone.app2sd) - Move apps to external storage and manage installed apps. 🤖
 - [Titanium Backup](https://play.google.com/store/apps/details?id=com.keramidas.TitaniumBackup) - Advanced app backup and restore tool (root required). 🤖
+- [Universal Installer](https://github.com/pass-with-high-score/universal-installer) - Install split APKs, XAPK, APKM, and APKS bundles with Shizuku silent installs and VirusTotal scans. 🤖 🟢
 
 ### Screenshot
 

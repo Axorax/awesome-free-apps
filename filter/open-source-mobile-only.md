@@ -79,71 +79,113 @@
 
 ## Audio
 
+[Move to top](#contents)
+
 ### Audio Players
 
+
+[Move to top](#contents)
 
 ### Audio Recording
 
 
+[Move to top](#contents)
+
 ### DJ Software
 
+
+[Move to top](#contents)
 
 ### Music Notation
 
 - [MuseScore](https://musescore.com) - Open-source notation app for composing and sharing sheet music. 🤖 🍎 🟢
 
+[Move to top](#contents)
+
 ### Music Production
 
 
+
+[Move to top](#contents)
 
 ## Browsers
 
 - [Firefox](https://www.mozilla.org/firefox) - Privacy-focused browser with customizable extensions and tracking protection. 🤖 🍎 🟢
 
+[Move to top](#contents)
+
 ## Communication
+
+[Move to top](#contents)
 
 ### Messaging
 
 - [Signal](https://signal.org) - Encrypted messaging app with privacy-first design. 🤖 🍎 🟢
 - [Element](https://element.io) - Secure messaging with Matrix protocol and decentralized features. 🤖 🍎 🟢
 
+[Move to top](#contents)
+
 ### Email Clients
 
 - [Proton Mail](https://proton.me/mail) - Encrypted email with no ads and advanced privacy tools. 🤖 🍎 🟢
 - [FairEmail](https://email.faircode.eu) - Lightweight open-source email client with strong privacy features. 🤖 🟢
 
+[Move to top](#contents)
+
 ## Compression and Archiving
 
 
+[Move to top](#contents)
+
 ## Customize
+
+[Move to top](#contents)
 
 ### System Customization
 
+
+[Move to top](#contents)
 
 ### Wallpaper Tools
 
 - [Resplash](https://unsplash.com) - Access Unsplash’s library for stunning, free wallpapers. 🤖 🍎 🟢
 
+[Move to top](#contents)
+
 ## Data Management
+
+[Move to top](#contents)
 
 ### Copy and Move
 
 
+[Move to top](#contents)
+
 ### Sync and Clone
 
+
+[Move to top](#contents)
 
 ## Developer Tools
 
 - [Termux](https://termux.dev) - Terminal emulator with Linux packages for development. 🤖 🟢
 
+[Move to top](#contents)
+
 ### API Development
 
+
+[Move to top](#contents)
 
 ### Database
 
 
+[Move to top](#contents)
+
 ### Network Analysis
 
+
+[Move to top](#contents)
 
 ### Game Engines
 
@@ -151,21 +193,33 @@
 - [Pocket Code](https://www.catrobat.org) - Build simple games and apps using visual programming. 🤖 🍎 🟢
 - [GDevelop](https://gdevelop.io) - Open-source game engine to create games without coding. 🤖 🟢
 
+[Move to top](#contents)
+
 ### Virtualization
 
 - [Linux Deploy](https://github.com/meefik/linuxdeploy) - Install and run Linux distributions on your mobile device. 🤖 🟢
 - [UTM](https://github.com/utmapp/UTM) - Load virtual machines on your iPhone or iPad. 🍎 🟢
 
+[Move to top](#contents)
+
 ## Documents
+
+[Move to top](#contents)
 
 ### Office Suites
 
 
+[Move to top](#contents)
+
 ### E-book
 
 
+[Move to top](#contents)
+
 ### PDF Tools
 
+
+[Move to top](#contents)
 
 ## Note Taking
 
@@ -173,79 +227,129 @@
 - [Notely Voice](https://github.com/tosinonikute/NotelyVoice) - 100% private notes and free AI voice-to-text transcription. [🟢](https://github.com/tosinonikute/NotelyVoice)
 - [DailyVox](https://getdailyvox.com) - Free AI voice diary with on-device transcription, mood tracking, and Digital Twin. No cloud, no accounts. 🍎 [🟢](https://github.com/intrepidkarthi/dailyvox)
 
+[Move to top](#contents)
+
 ## Text Editors
 
+
+[Move to top](#contents)
 
 ## Finance
 
 
+[Move to top](#contents)
+
 ## Download Managers
 
+
+[Move to top](#contents)
 
 ## Graphics Tools
 
 
+[Move to top](#contents)
+
 ## 3D Modeling and Animation
 
 
+[Move to top](#contents)
+
 ## Security
+
+[Move to top](#contents)
 
 ### Antivirus
 
+
+[Move to top](#contents)
 
 ### Password Managers
 
 - [Bitwarden](https://bitwarden.com) - Open-source password manager with end-to-end encryption. 🤖 🍎 🟢
 
+[Move to top](#contents)
+
 ## Image Viewers
 
 - [Simple Gallery](https://simplemobiletools.com/gallery) - Lightweight image viewer with sorting and editing options. 🤖 🟢
 
+[Move to top](#contents)
+
 ## Remote Access
 
 
+[Move to top](#contents)
+
 ## Video
+
+[Move to top](#contents)
 
 ### Video Editors
 
 
+[Move to top](#contents)
+
 ### Video Players
 
+
+[Move to top](#contents)
 
 ### Video Streaming and Recording
 
 
+[Move to top](#contents)
+
 ### Video Converters and Compressors
 
+
+[Move to top](#contents)
 
 ## VPN and Proxy Tools
 
 - [ProtonVPN](https://protonvpn.com) - Secure, encrypted VPN with no logs policy and high-speed servers. 🤖 🍎 🟢
 - [Windscribe](https://windscribe.com) - Privacy-focused VPN with a free option and wide server coverage. 🤖 🍎 🟢
 
+[Move to top](#contents)
+
 ## Health and Wellness
 
 - [Euki](https://eukiapp.org) - Privacy-first period tracker with sexual health resources and local-only data storage. 🤖 🍎 [🟢](https://github.com/Euki-Inc/Euki-Android)
 
+[Move to top](#contents)
+
 ## Utility
+
+[Move to top](#contents)
 
 ### Clipboard Management
 
 
+[Move to top](#contents)
+
 ### Metadata
 
+
+[Move to top](#contents)
 
 ### Window Management
 
 
+[Move to top](#contents)
+
 ### File Management
 
+
+[Move to top](#contents)
 
 ### Application Management
 
 
+[Move to top](#contents)
+
 ### Screenshot
 
+
+[Move to top](#contents)
 
 ### Space Visualizer
 

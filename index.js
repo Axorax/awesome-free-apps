@@ -1,6 +1,43 @@
 const fs = require('fs');
 const { execSync, spawn } = require('child_process');
 
+const MOVE_TO_TOP_LINK = '[Move to top](#contents)';
+
+function isMoveToTopLine(line) {
+  const trimmed = line.trim();
+  return trimmed === 'Move to top'
+    || trimmed === MOVE_TO_TOP_LINK
+    || trimmed === '[Back to contents](#contents)'
+    || trimmed === '[Back to top](#contents)';
+}
+
+function insertMoveToTopLinks(lines) {
+  const out = [];
+  let contentsSeen = false;
+
+  for (const line of lines) {
+    if (isMoveToTopLine(line)) {
+      continue;
+    }
+
+    if (/^#{2,3}\s+/.test(line) && line.trim() !== '## Contents') {
+      if (contentsSeen) {
+        if (out.length && out[out.length - 1] !== '') {
+          out.push('');
+        }
+        out.push(MOVE_TO_TOP_LINK);
+        out.push('');
+      } else {
+        contentsSeen = true;
+      }
+    }
+
+    out.push(line);
+  }
+
+  return out;
+}
+
 function create(file, fileName, emoji) {
   const startTime = Date.now();
   let data = fs.readFileSync(file, 'utf8');
@@ -28,7 +65,13 @@ function create(file, fileName, emoji) {
     result.push(lines[i]);
   }
 
-  fs.writeFileSync(`${outputDir}/${fileName}.md`, result.join('\n').replaceAll('./filter/', '').replaceAll('href="./', 'href="../').replaceAll('src="./', 'src="../'));
+  const output = insertMoveToTopLinks(result)
+    .join('\n')
+    .replaceAll('./filter/', '')
+    .replaceAll('href="./', 'href="../')
+    .replaceAll('src="./', 'src="../');
+
+  fs.writeFileSync(`${outputDir}/${fileName}.md`, output);
   console.log(`${fileName} time: \x1b[32m${Date.now() - startTime}ms\x1b[0m`);
 }
 

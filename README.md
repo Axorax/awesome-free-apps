@@ -533,6 +533,7 @@
 - [Pencil2D](https://pencil2d.org) - Simple and intuitive tool for creating 2D hand-drawn animations. 🪟 🍎 🐧
 - [Pixen](https://pixenapp.com/mac) - Native pixel art and animation editor designed. 🍎
 - [Affinity](https://www.affinity.studio/) - Professional creative suite for photo editing, graphic design, and desktop publishing. 🪟 🍎
+- [Open Photo AI](https://github.com/vegidio/open-photo-ai) - An open source alternative to the popular photo AI editor. 🪟 🍎 🐧 🟢
 
 ## 3D Modeling and Animation
 

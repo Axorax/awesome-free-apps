@@ -534,6 +534,7 @@
 - [Pixen](https://pixenapp.com/mac) - Native pixel art and animation editor designed. 🍎
 - [Affinity](https://www.affinity.studio/) - Professional creative suite for photo editing, graphic design, and desktop publishing. 🪟 🍎
 - [Open Photo AI](https://github.com/vegidio/open-photo-ai) - An open source alternative to the popular photo AI editor. 🪟 🍎 🐧 🟢
+- [igly.ai](https://igly.ai) - AI image editor for background removal, inpainting, upscaling, and generative fill. 🪟 🍎 🐧
 
 ## 3D Modeling and Animation
 

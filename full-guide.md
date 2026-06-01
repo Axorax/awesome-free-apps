@@ -99,7 +99,7 @@ Remove (MOBILE): Spotify
 
 ## — Code contributions
 
-If you make code contributions like modifying the CLI helper app, then follow these rules. You contribution won't be accepted if it:
+If you make code contributions like modifying the CLI helper app, then follow these rules. Your contribution won't be accepted if it:
 
 - Breaks the code of conduct.
 - Is only a code refactor.
@@ -129,4 +129,4 @@ If you become a maintainer (make an issue if you want to become one), here's a f
 - You should follow the rules here as well.
 - Make sure you abide by the code of conduct.
 - In the actions tab, there's an action called `Update main file`. It auto-generates the ToC, filters and a lot more. So, you don't have to do any of that. This action should be run once a week to keep everything upto date.
-- You can join the Discord server to make communications easier. [Click here to join.](https://discord.com/invite/nKUFghjXQu)
+- You can join the Discord server to make communication easier. [Click here to join.](https://discord.com/invite/nKUFghjXQu)

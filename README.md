@@ -129,7 +129,7 @@
 - [Cakewalk](https://bandlab.com/products/cakewalk) - Full-featured DAW for music recording and editing by BandLab. 🪟
 - [Furnace](https://github.com/tildearrow/furnace) - Multi-system chiptune tracker. 🪟 🍎 🐧 🟢
 - [MilkyTracker](https://github.com/milkytracker/MilkyTracker) - Cross platform XM tracker. 🪟 🍎 🐧 🟢
-- [OpenMPT](https://openmpt.org) - Modren tracker software that can open multiple tracker formats. 🪟
+- [OpenMPT](https://openmpt.org) - Moderntracker software that can open multiple tracker formats. 🪟
 - [Qtractor](https://qtractor.org) - Multi-track DAW for Linux for audio and MIDI recording. 🐧
 - [Stargate DAW](https://github.com/stargatedaw/stargate) - Innovation-first DAW, instrument and effect plugins. 🪟 🍎 🐧 🟢
 - [Tracktion T7](https://tracktion.com/products/t7-daw) - DAW for music production with advanced editing features. 🪟 🍎 🐧
@@ -491,7 +491,7 @@
 
 ## Other Emulators
 
-- [RetroArch](https://github.com/libretro/RetroArch) - Open-source, cross-platform emulator that allows to play games from a wide variety of retro gaming consoles and platforms. 🪟 🍎 🐧 🟢 ⭐
+- [RetroArch](https://github.com/libretro/RetroArch) - Open-source, cross-platform emulator that allow you to play games from a wide variety of retro gaming consoles and platforms. 🪟 🍎 🐧 🟢 ⭐
 - [PPSSPP](https://ppsspp.org) - PSP emulator for any OS. 🪟 🍎 🐧
 - [Dolphin](https://dolphin-emu.org) - GameCube and Wii emulator. 🪟 🍎 🐧
 - [PCSX2](https://pcsx2.net) - PlayStation 2 emulator with compatibility for most games. 🪟 🍎 🐧

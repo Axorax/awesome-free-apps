@@ -678,6 +678,7 @@
 
 ## Utility
 
+- [TinyTools](https://tinytools-smoky.vercel.app/) - Free single-purpose web utilities, all browser-based, no signup. Includes domain name generator, OG image generator, AI background remover (runs locally), favicon generator, color palette generator, SEO meta tag generator, AI cost calculator, AI content disclosure generator (EU AI Act compliant), AI robots.txt generator. Open source. 🪟 🍎 🐧 [🟢](https://github.com/alfredoautomatizaloconia-cloud/tinytools)
 - [AutoHotkey](https://autohotkey.com) - Scripting language for task automation and custom hotkeys. 🪟 [🟢](https://github.com/AutoHotkey/AutoHotkey) ⭐
 - [PowerToys](https://learn.microsoft.com/en-us/windows/powertoys) - Utilities for file renaming, resizing, and productivity tools. 🪟 [🟢](https://github.com/microsoft/PowerToys) ⭐
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) - Command-line tool for downloading audio and video. 🪟 🍎 🐧 [🟢](https://github.com/yt-dlp/yt-dlp) ⭐

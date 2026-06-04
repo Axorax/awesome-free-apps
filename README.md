@@ -770,6 +770,7 @@
 - [Bulk Crap Uninstaller](https://www.bcuninstaller.com) - Powerful tool for uninstalling multiple applications and cleaning leftovers. 🪟 🟢 ⭐
 - [Revo Uninstaller](https://www.revouninstaller.com/revo-uninstaller-free-download) - Advanced uninstaller to remove programs and residual files with free tier. 🪟
 - [PureMac](https://github.com/momenbasel/PureMac) - macOS app manager and system cleaner for uninstalling apps, removing orphaned files, and cleaning caches. 🍎 🟢
+- [Dusty](https://github.com/yagcioglutoprak/dusty) - macOS menu bar cleaner for reclaiming space from safe caches, logs, and developer artifacts. 🍎 🟢
 
 ### Screenshot
 
@@ -792,7 +793,6 @@
 - [JDiskReport](https://www.jgoodies.com/freeware/jdiskreport) - Tool for visualizing disk usage with a variety of charts and graphs. 🪟 🐧
 - [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer) - Identify large files and folders with an intuitive tree map. 🪟
 - [TreeSize Free](https://jam-software.com/treesize_free) - Visualizes disk space usage in a tree-like structure for easy file management. 🪟
-- [Dusty](https://github.com/yagcioglutoprak/dusty) - Menu bar disk cleaner for reclaiming space from safe macOS and developer caches. 🍎 🟢
 
 ### Trackpad
 

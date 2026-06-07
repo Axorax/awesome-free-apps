@@ -19,7 +19,7 @@
 
 ## Contents
 
-<!-- AF-TOC : Tuesday, May 26, 2026 at 07:53:21 AM UTC -->
+<!-- AF-TOC : Sunday, June 7, 2026 at 10:37:55 AM UTC -->
 
 - [Audio](#audio)
   - [Audio Players](#audio-players)
@@ -93,6 +93,7 @@
 - [Easy Voice Recorder](https://www.digipom.com/portfolio-items/easy-voice-recorder) - High-quality voice recording with playback features for notes and interviews. 🤖 🍎
 - [Dolby On](https://www.dolby.com/apps/dolby-on) - Enhances audio recordings with noise reduction and spatial sound effects. 🤖 🍎
 - [Otter](https://otter.ai) - Transcribes audio in real-time while recording. 🤖 🍎
+- [ShizuCallRecorder](https://github.com/kitsumed/ShizuCallRecorder) - Empowers ADB through Shizuku to record phone calls on non-rooted device. 🤖 🟢
 
 ### DJ Software
 
@@ -319,6 +320,7 @@
 
 ## Health and Wellness
 
+- [Trider](https://play.google.com/store/apps/details?id=dev.trider.app) - AI habit tracker with journal, mood tracking, Pomodoro timer, and accountability squads. Free, no ads. 🤖
 - [Paula](https://trypaula.com) - Free AI mental health companion using CBT and DBT techniques, with voice sessions, mood tracking, and journaling. 🤖 🍎
 - [Euki](https://eukiapp.org) - Privacy-first period tracker with sexual health resources and local-only data storage. 🤖 🍎 [🟢](https://github.com/Euki-Inc/Euki-Android)
 
@@ -348,6 +350,7 @@
 
 - [AppMgr III](https://play.google.com/store/apps/details?id=com.a0soft.gphone.app2sd) - Move apps to external storage and manage installed apps. 🤖
 - [Titanium Backup](https://play.google.com/store/apps/details?id=com.keramidas.TitaniumBackup) - Advanced app backup and restore tool (root required). 🤖
+- [Universal Installer](https://github.com/pass-with-high-score/universal-installer) - Install split APKs, XAPK, APKM, and APKS bundles with Shizuku silent installs and VirusTotal scans. 🤖 🟢
 
 ### Screenshot
 

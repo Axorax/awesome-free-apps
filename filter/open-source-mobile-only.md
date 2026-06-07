@@ -19,7 +19,7 @@
 
 ## Contents
 
-<!-- AF-TOC : Tuesday, May 26, 2026 at 07:53:21 AM UTC -->
+<!-- AF-TOC : Sunday, June 7, 2026 at 10:37:55 AM UTC -->
 
 - [Audio](#audio)
   - [Audio Players](#audio-players)
@@ -84,6 +84,7 @@
 
 ### Audio Recording
 
+- [ShizuCallRecorder](https://github.com/kitsumed/ShizuCallRecorder) - Empowers ADB through Shizuku to record phone calls on non-rooted device. 🤖 🟢
 
 ### DJ Software
 
@@ -243,6 +244,7 @@
 
 ### Application Management
 
+- [Universal Installer](https://github.com/pass-with-high-score/universal-installer) - Install split APKs, XAPK, APKM, and APKS bundles with Shizuku silent installs and VirusTotal scans. 🤖 🟢
 
 ### Screenshot
 

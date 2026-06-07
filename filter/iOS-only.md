@@ -19,7 +19,7 @@
 
 ## Contents
 
-<!-- AF-TOC : Tuesday, May 26, 2026 at 07:53:21 AM UTC -->
+<!-- AF-TOC : Sunday, June 7, 2026 at 10:37:55 AM UTC -->
 
 - [Audio](#audio)
   - [Audio Players](#audio-players)
@@ -116,6 +116,7 @@
 - [Brave](https://brave.com) - Ad-blocking browser with built-in privacy tools and rewards system. 🤖 🍎
 - [DuckDuckGo Privacy Browser](https://duckduckgo.com/app) - Focuses on privacy with no tracking and private search. 🤖 🍎
 - [Opera](https://www.opera.com/mobile) - Built-in ad blocker, VPN, and offline file sharing. 🤖 🍎
+- [Microsoft Edge](https://www.microsoft.com/edge/mobile) - Cross-platform browser with sync, privacy controls, and AI-assisted tools. 🤖 🍎
 
 ## Communication
 

@@ -703,6 +703,7 @@
 - [UniGetUI](https://www.marticliment.com/unigetui) - UI for popular package managers like  Winget, NPM, and more. 🪟 [🟢](https://github.com/marticliment/UniGetUI)
 - [Saga Reader](https://github.com/sopaco/saga-reader) - Blazing-Fast AI Reader that supports sources based on search engines and RSS. 🪟 🍎 [🟢](https://github.com/sopaco/saga-reader)
 - [KaiROS AI](https://github.com/avikeid2007/Kairos.local) - Local AI assistant with GPU acceleration and model catalog. 🪟 [🟢](https://github.com/avikeid2007/Kairos.local)
+- [Whisper by Remskill](https://whisper.remskill.com) - Voice-to-text dictation that types your speech at the cursor in any app, fully offline with local Whisper or via OpenAI cloud. 🪟 🍎
 - [RightLayout](https://alexchernysh.com/rightlayout) - AI keyboard layout fixer for macOS that auto-corrects wrong layout (EN/RU/HE) as you type using local CoreML. 🍎
 - [Stats](https://mac-stats.com) - Menu bar system monitor showing CPU, memory, disk, network, sensors, battery, and fan data. 🍎 [🟢](https://github.com/exelban/stats)
 - [XQuartz](https://www.xquartz.org) - X.Org X Window System server for running X11 applications on macOS. 🍎 [🟢](https://github.com/XQuartz/XQuartz)

@@ -341,6 +341,7 @@
 - [Trider](https://play.google.com/store/apps/details?id=dev.trider.app) - AI habit tracker with journal, mood tracking, Pomodoro timer, and accountability squads. Free, no ads. 🤖
 - [Paula](https://trypaula.com) - Free AI mental health companion using CBT and DBT techniques, with voice sessions, mood tracking, and journaling. 🤖 🍎
 - [Euki](https://eukiapp.org) - Privacy-first period tracker with sexual health resources and local-only data storage. 🤖 🍎 [🟢](https://github.com/Euki-Inc/Euki-Android)
+- [LogZero](https://logzero.app) - Privacy-first habit and health tracker with mood, medication, food, exercise, and weight logs, plus on-device correlation insights. No account, no ads, no trackers. 🍎
 
 ## Utility
 

@@ -29,6 +29,7 @@
   - [DJ Software](#dj-software)
   - [Music Notation](#music-notation)
   - [Music Production](#music-production)
+  - [Speech 2 Text](#speech-2-text)
 - [Browsers](#browsers)
 - [Communication](#communication)
   - [Messaging](#messaging)
@@ -133,6 +134,9 @@
 - [Qtractor](https://qtractor.org) - Multi-track DAW for Linux for audio and MIDI recording. 🐧
 - [Stargate DAW](https://github.com/stargatedaw/stargate) - Innovation-first DAW, instrument and effect plugins. 🪟 🍎 🐧 🟢
 - [Tracktion T7](https://tracktion.com/products/t7-daw) - DAW for music production with advanced editing features. 🪟 🍎 🐧
+
+### Speech 2 Text
+- [Handy](https://handy.computer) - The free and open source app for speech to text. 🪟 🍎 🐧[🟢](https://github.com/cjpais/Handy)
 
 ## Browsers
 

@@ -389,6 +389,10 @@
 - [Stirling-PDF](https://stirling.com) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere. 🪟 🍎 🐧 [🟢](https://github.com/Stirling-Tools/Stirling-PDF)
 - [pdftk](https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit) - PDFtk is a simple tool for doing everyday things with PDF documents. 🪟 🍎 🐧
 
+### Utils
+
+- [harper](https://writewithharper.com) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered. 🪟 🍎 🐧 [🟢](https://github.com/Automattic/harper)
+
 ## Note Taking
 
 - [Inkless](https://github.com/Axorax/inkless) - Minimal, shortcut based app to take notes and use for light coding. 🪟 [🟢](https://github.com/Axorax/inkless) ⭐

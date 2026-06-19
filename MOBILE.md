@@ -228,6 +228,10 @@
 - [Adobe Acrobat Reader](https://www.adobe.com/acrobat/mobile-app.html) - View, annotate, and sign PDFs with advanced tools. 🤖 🍎
 - [Xodo PDF Reader](https://www.xodo.com) - Edit, annotate, and collaborate on PDFs in real time. 🤖 🍎
 - [Foxit PDF Reader](https://www.foxit.com/pdf-reader-mobile) - Lightweight PDF viewer with editing and security tools. 🤖 🍎
+- [Document Reader](https://play.google.com/store/apps/details?id=com.ltsoft.ltdocsviewer) - View PDF, Word, Excel, PowerPoint and text files in one lightweight reader. 🤖
+- [AnyPDF](https://play.google.com/store/apps/details?id=com.mobileups.anypdf) - Fast, ad-light PDF reader and viewer for Android. 🤖
+- [PDF to Word](https://play.google.com/store/apps/details?id=com.mobileups.pdftowordconverter) - Convert PDF documents to editable Word files on-device. 🤖
+- [DocLens Pro](https://play.google.com/store/apps/details?id=com.mobileups.doclenspro) - Scan documents and run OCR to extract text from images and PDFs. 🤖
 
 ## Note Taking
 

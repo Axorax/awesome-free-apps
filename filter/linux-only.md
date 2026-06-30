@@ -21,7 +21,7 @@
 
 ## Contents
 
-<!-- AF-TOC : Sunday, June 7, 2026 at 10:37:54 AM UTC -->
+<!-- AF-TOC : Tuesday, June 30, 2026 at 10:52:23 AM UTC -->
 
 - [Audio](#audio)
   - [Audio Players](#audio-players)
@@ -335,6 +335,7 @@
 - [Vim](https://www.vim.org) - Efficient command-line editor with powerful keyboard shortcuts and multi-file editing. 🪟 🍎 🐧 [🟢](https://github.com/vim/vim)
 - [Zed](https://zed.dev) - High-performance, collaborative editor designed for speed, real-time collaboration, and custom workflows. 🍎 🐧 [🟢](https://github.com/zed-industries/zed)
 - [VSCodium](https://vscodium.com) - Community-built VS Code binaries without Microsoft branding, telemetry, or licensing changes. 🪟 🍎 🐧 [🟢](https://github.com/VSCodium/vscodium)
+- [Cate](https://cate.cero-ai.com) - Code editor on an infinite zoomable canvas where editors, terminals, browsers, and AI agent panels float in a spatial workspace, with docking, detachable windows, and per-project layout persistence. 🪟 🍎 🐧 [🟢](https://github.com/0-AI-UG/cate)
 
 ## Download Managers
 
@@ -509,6 +510,7 @@
 - [SpeedCrunch](https://heldercorreia.bitbucket.io/speedcrunch) - Fast, high-precision scientific calculator with keyboard shortcuts. 🪟 🍎 🐧
 - [Windterm](https://github.com/kingToolbox/WindTerm) - SSH/Telnet/Serial/Shell/Sftp client for DevOps.  🪟 🍎 🐧 🟢
 - [balenaEtcher](https://etcher.balena.io) - Tool for safely flashing OS images to SD cards and USB drives. 🪟 🍎 🐧 [🟢](https://github.com/balena-io/etcher)
+- [Meander](https://everydays.tools/meander) - AI voice-to-text dictation with a free tier: push-to-talk, AI cleanup, and speak-one-language-output-another translation, with native Linux support. 🪟 🐧
 
 ### Clipboard Management
 

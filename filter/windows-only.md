@@ -21,7 +21,7 @@
 
 ## Contents
 
-<!-- AF-TOC : Sunday, June 7, 2026 at 10:37:54 AM UTC -->
+<!-- AF-TOC : Tuesday, June 30, 2026 at 10:52:23 AM UTC -->
 
 - [Audio](#audio)
   - [Audio Players](#audio-players)
@@ -391,6 +391,7 @@
 - [Vim](https://www.vim.org) - Efficient command-line editor with powerful keyboard shortcuts and multi-file editing. 🪟 🍎 🐧 [🟢](https://github.com/vim/vim)
 - [MDLook](https://mdlook.com) - Portable offline Markdown editor using WebView2 with live preview, dark mode, and diagram support. 🪟
 - [VSCodium](https://vscodium.com) - Community-built VS Code binaries without Microsoft branding, telemetry, or licensing changes. 🪟 🍎 🐧 [🟢](https://github.com/VSCodium/vscodium)
+- [Cate](https://cate.cero-ai.com) - Code editor on an infinite zoomable canvas where editors, terminals, browsers, and AI agent panels float in a spatial workspace, with docking, detachable windows, and per-project layout persistence. 🪟 🍎 🐧 [🟢](https://github.com/0-AI-UG/cate)
 
 ## Download Managers
 
@@ -629,7 +630,9 @@
 - [UniGetUI](https://www.marticliment.com/unigetui) - UI for popular package managers like  Winget, NPM, and more. 🪟 [🟢](https://github.com/marticliment/UniGetUI)
 - [Saga Reader](https://github.com/sopaco/saga-reader) - Blazing-Fast AI Reader that supports sources based on search engines and RSS. 🪟 🍎 [🟢](https://github.com/sopaco/saga-reader)
 - [KaiROS AI](https://github.com/avikeid2007/Kairos.local) - Local AI assistant with GPU acceleration and model catalog. 🪟 [🟢](https://github.com/avikeid2007/Kairos.local)
+- [Whisper by Remskill](https://whisper.remskill.com) - Voice-to-text dictation that types your speech at the cursor in any app, fully offline with local Whisper or via OpenAI cloud. 🪟 🍎
 - [balenaEtcher](https://etcher.balena.io) - Tool for safely flashing OS images to SD cards and USB drives. 🪟 🍎 🐧 [🟢](https://github.com/balena-io/etcher)
+- [Meander](https://everydays.tools/meander) - AI voice-to-text dictation with a free tier: push-to-talk, AI cleanup, and speak-one-language-output-another translation, with native Linux support. 🪟 🐧
 
 ### Clipboard Management
 

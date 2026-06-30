@@ -21,7 +21,7 @@
 
 ## Contents
 
-<!-- AF-TOC : Sunday, June 7, 2026 at 10:37:54 AM UTC -->
+<!-- AF-TOC : Tuesday, June 30, 2026 at 10:52:23 AM UTC -->
 
 - [Audio](#audio)
   - [Audio Players](#audio-players)
@@ -214,6 +214,7 @@
 
 - [Meld](https://meldmerge.org) - Tool for visual file, directory, and version control comparison. 🪟 🍎 🐧 🟢
 - [TkForge](https://github.com/Axorax/tkforge) - Drag & drop in Figma to create a Python GUI with ease. 🪟 🍎 🐧 🟢 ⭐
+- [Headroom](https://headroom.walls.sh) - Native macOS menu bar app showing Claude Code's session (5h) and weekly (7d) rate-limit usage as a live %, with color-coded alerts, reset countdowns, context window fill, active model name, and session cost. Zero network calls. 🍎 [🟢](https://github.com/patwalls/headroom)
 - [Ghostty](https://ghostty.org) - Fast native terminal emulator with GPU acceleration, tabs, splits, and modern terminal features. 🍎 🐧 [🟢](https://github.com/ghostty-org/ghostty)
 - [iTerm2](https://iterm2.com) - Terminal replacement for macOS with split panes, profiles, search, and extensive customization. 🍎 [🟢](https://github.com/gnachman/iTerm2)
 - [Ollama](https://ollama.com) - Runs and manages local AI models with desktop and command-line tools. 🪟 🍎 🐧 [🟢](https://github.com/ollama/ollama)
@@ -379,6 +380,7 @@
 - [Zed](https://zed.dev) - High-performance, collaborative editor designed for speed, real-time collaboration, and custom workflows. 🍎 🐧 [🟢](https://github.com/zed-industries/zed)
 - [VSCodium](https://vscodium.com) - Community-built VS Code binaries without Microsoft branding, telemetry, or licensing changes. 🪟 🍎 🐧 [🟢](https://github.com/VSCodium/vscodium)
 - [MarkEdit](https://github.com/MarkEdit-app/MarkEdit) - Native Markdown editor for macOS with a TextEdit-like workflow and local-file editing. 🍎 🟢
+- [Cate](https://cate.cero-ai.com) - Code editor on an infinite zoomable canvas where editors, terminals, browsers, and AI agent panels float in a spatial workspace, with docking, detachable windows, and per-project layout persistence. 🪟 🍎 🐧 [🟢](https://github.com/0-AI-UG/cate)
 
 ## Download Managers
 
@@ -585,6 +587,7 @@
 - [Rocket](https://matthewpalmer.net/rocket) - Type and insert emojis anywhere using a colon (:). 🍎
 - [Windterm](https://github.com/kingToolbox/WindTerm) - SSH/Telnet/Serial/Shell/Sftp client for DevOps.  🪟 🍎 🐧 🟢
 - [Saga Reader](https://github.com/sopaco/saga-reader) - Blazing-Fast AI Reader that supports sources based on search engines and RSS. 🪟 🍎 [🟢](https://github.com/sopaco/saga-reader)
+- [Whisper by Remskill](https://whisper.remskill.com) - Voice-to-text dictation that types your speech at the cursor in any app, fully offline with local Whisper or via OpenAI cloud. 🪟 🍎
 - [RightLayout](https://alexchernysh.com/rightlayout) - AI keyboard layout fixer for macOS that auto-corrects wrong layout (EN/RU/HE) as you type using local CoreML. 🍎
 - [Stats](https://mac-stats.com) - Menu bar system monitor showing CPU, memory, disk, network, sensors, battery, and fan data. 🍎 [🟢](https://github.com/exelban/stats)
 - [XQuartz](https://www.xquartz.org) - X.Org X Window System server for running X11 applications on macOS. 🍎 [🟢](https://github.com/XQuartz/XQuartz)
@@ -602,6 +605,7 @@
 - [Maccy](https://maccy.app) - Minimal clipboard manager. 🍎 🟢
 - [Qopy](https://github.com/0pandadev/qopy) - Minimalist clipboard manager with unique features. 🪟 🍎 🐧 🟢
 - [SaneClip](https://saneclip.com) - Clipboard manager that keeps all history local with search and formatting tools. 🍎 [🟢](https://github.com/sane-apps/SaneClip)
+- [Pesty](https://www.moamenbasel.com/pesty/) - Native clipboard manager with a color-coded history strip, pinboards, instant search, and keyboard-driven pasting. 🍎 [🟢](https://github.com/momenbasel/pesty)
 
 ### Metadata
 

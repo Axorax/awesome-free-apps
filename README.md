@@ -155,6 +155,7 @@
 - [Mullvad Browser](https://mullvad.net/en/download/browser) - Privacy browser with Tor, anti-fingerprinting, and Mullvad VPN. 🪟 🍎 🐧 [🟢](https://github.com/mullvad/mullvad-browser)
 - [Vivaldi](https://vivaldi.com) - Customizable browser putting you in control. 🪟 🍎 🐧
 - [Zen Browser](https://zen-browser.app) - Beautifully designed, privacy-focused browser with custom mods. 🪟 🍎 🐧 [🟢](https://github.com/zen-browser/desktop)
+- [Nav0](https://nav0.org) - Minimal, privacy-focused browser with zero telemetry, tracking, or data collection. 🪟 🍎 🐧 [🟢](https://github.com/nav0-org/nav0-browser)
 
 ## Communication
 

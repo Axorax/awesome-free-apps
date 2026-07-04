@@ -664,6 +664,7 @@
 - [Cloudflare WARP](https://developers.cloudflare.com/cloudflare-one/connections/connect-devices/warp/download-warp) - VPN and DNS service enhancing privacy and security. 🪟 🍎 🐧
 - [FlClash](https://github.com/chen08209/FlClash) - Multi-platform proxy client based on ClashMeta.  🪟 🍎 🐧 🟢
 - [Hiddify](https://github.com/hiddify/hiddify-app) - Multi-platform proxy toolchain.  🪟 🍎 🐧 🟢
+- [MoonProxy](https://moonproxy.app) - Free open-source desktop GUI client for FRP (fast reverse proxy) to expose local services to the internet. 🪟 🍎 [🟢](https://github.com/MoonProxyHQ/moonproxy-desktop)
 - [rvc-mac](https://github.com/riboseinc/cryptode-mac) - Secure VPN client from Ribose. 🍎 🟢
 - [Lantern](https://getlantern.org) - Internet freedom tool to bypass restrictions. 🪟 🍎 🐧
 - [OpenVPN](https://openvpn.net/community-downloads) - VPN solution for secure internet connections with customizable settings. 🪟 🟢

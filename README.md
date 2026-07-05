@@ -90,6 +90,7 @@
 - [EarTrumpet](https://eartrumpet.app) - Advanced volume control for Windows, offering app-specific audio management. 🪟
 - [Ambie](https://github.com/jenius-apps/ambie) - Use white noise, nature sounds, & more to boost your productivity. 🪟 🟢
 - [BlackHole](https://github.com/ExistentialAudio/BlackHole) - Virtual audio loopback driver for routing audio between macOS applications. 🍎 🟢
+- [Mechvibes X](https://github.com/FytikProdd/mechvibes-x) - Play mechanical keyboard sounds as you type with 3D Spatial Audio and pitch/volume randomization. 🪟 [🟢](https://github.com/FytikProdd/mechvibes-x)
 
 ### Audio Players
 

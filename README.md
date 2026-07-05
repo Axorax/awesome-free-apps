@@ -21,7 +21,7 @@
 
 ## Contents
 
-<!-- AF-TOC : Sunday, June 7, 2026 at 10:37:54 AM UTC -->
+<!-- AF-TOC : Tuesday, June 30, 2026 at 10:52:23 AM UTC -->
 
 - [Audio](#audio)
   - [Audio Players](#audio-players)
@@ -50,6 +50,7 @@
   - [Office Suites](#office-suites)
   - [E-book](#e-book)
   - [PDF Tools](#pdf-tools)
+- [ConvertTool](https://converttool.org) - Free online file converter with 300+ tools for PDF, images, audio, and video. Convert instantly in your browser — no ...
 - [Note Taking](#note-taking)
 - [Text Editors](#text-editors)
 - [Download Managers](#download-managers)
@@ -712,6 +713,7 @@
 - [SwiftBar](https://swiftbar.app) - Menu bar customization tool that turns script output into macOS menu bar items. 🍎 [🟢](https://github.com/swiftbar/SwiftBar)
 - [MonitorControl](https://monitorcontrol.app) - Controls external display brightness, volume, and contrast from macOS keyboard shortcuts and menu bar. 🍎 [🟢](https://github.com/MonitorControl/MonitorControl)
 - [balenaEtcher](https://etcher.balena.io) - Tool for safely flashing OS images to SD cards and USB drives. 🪟 🍎 🐧 [🟢](https://github.com/balena-io/etcher)
+- [Meander](https://everydays.tools/meander) - AI voice-to-text dictation with a free tier: push-to-talk, AI cleanup, and speak-one-language-output-another translation, with native Linux support. 🪟 🐧
 
 ### Clipboard Management
 

@@ -50,7 +50,6 @@
   - [Office Suites](#office-suites)
   - [E-book](#e-book)
   - [PDF Tools](#pdf-tools)
-- [EditTools](https://edittools.org) - All-in-one browser-based file editor for PDF, images, audio, and video. Hundreds of free tools to edit and convert fi...
 - [Note Taking](#note-taking)
 - [Text Editors](#text-editors)
 - [Download Managers](#download-managers)
@@ -83,6 +82,7 @@
   - [Trackpad](#trackpad)
 
 <!-- AF-END -->
+- [PicTranslate](https://pictranslate.net) - AI image translator and OCR tool. Extract and translate text from photos, manga, menus, and documents in 40+ language...
 
 ## Audio
 

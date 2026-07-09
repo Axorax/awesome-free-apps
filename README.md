@@ -54,7 +54,7 @@
 - [Text Editors](#text-editors)
 - [Download Managers](#download-managers)
 - [Games](#games)
-- [Plinko Game](https://plinkogame.plus) - Drop the ball and watch it bounce through pegs in Plinko — casual arcade fun with satisfying physics. Play free onlin...
+- [Life Simulator](https://lifesimulator.net) - Live another life in browser-based life simulation games — make choices, build careers, and explore alternate paths. ...
   - [Cloud Gaming](#cloud-gaming)
 - [Mobile Emulators](#mobile-emulators)
 - [Other Emulators](#other-emulators)

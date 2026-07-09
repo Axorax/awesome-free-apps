@@ -54,7 +54,6 @@
 - [Text Editors](#text-editors)
 - [Download Managers](#download-managers)
 - [Games](#games)
-- [Subway Surfers Game](https://subwaysurfersgame.online) - Run, dodge, and surf the subway in this endless runner — collect coins, unlock characters, and chase high scores. Fre...
   - [Cloud Gaming](#cloud-gaming)
 - [Mobile Emulators](#mobile-emulators)
 - [Other Emulators](#other-emulators)
@@ -134,6 +133,7 @@
 - [Qtractor](https://qtractor.org) - Multi-track DAW for Linux for audio and MIDI recording. 🐧
 - [Stargate DAW](https://github.com/stargatedaw/stargate) - Innovation-first DAW, instrument and effect plugins. 🪟 🍎 🐧 🟢
 - [Tracktion T7](https://tracktion.com/products/t7-daw) - DAW for music production with advanced editing features. 🪟 🍎 🐧
+- [Spranki](https://spranki.org) - Create beats and mix characters in Sprunki-style music games online. Drag-and-drop rhythm fun with quirky sounds — pl...
 
 ## Browsers
 

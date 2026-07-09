@@ -54,7 +54,7 @@
 - [Text Editors](#text-editors)
 - [Download Managers](#download-managers)
 - [Games](#games)
-- [Life Simulator](https://lifesimulator.net) - Live another life in browser-based life simulation games — make choices, build careers, and explore alternate paths. ...
+- [Level Devil](https://leveldevil.games) - Play Level Devil — the tricky platformer full of traps, trolls, and rage-inducing levels. Test your patience free in ...
   - [Cloud Gaming](#cloud-gaming)
 - [Mobile Emulators](#mobile-emulators)
 - [Other Emulators](#other-emulators)

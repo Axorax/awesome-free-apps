@@ -54,6 +54,7 @@
 - [Text Editors](#text-editors)
 - [Download Managers](#download-managers)
 - [Games](#games)
+- [Subway Surfers Game](https://subwaysurfersgame.online) - Run, dodge, and surf the subway in this endless runner — collect coins, unlock characters, and chase high scores. Fre...
   - [Cloud Gaming](#cloud-gaming)
 - [Mobile Emulators](#mobile-emulators)
 - [Other Emulators](#other-emulators)
@@ -82,9 +83,6 @@
   - [Trackpad](#trackpad)
 
 <!-- AF-END -->
-- [Color Block Jam](https://colorblockjam.games) - Play Color Block Jam puzzle games online — match colors, clear blocks, and beat challenging levels. Casual brain-teas...
-- [HeyCalc](https://heycalc.org) - Online calculator hub for education and finance — GPA, salary tax, loan, BMI, and math formulas. Accurate instant res...
-- [PicTranslate](https://pictranslate.net) - AI image translator and OCR tool. Extract and translate text from photos, manga, menus, and documents in 40+ language...
 
 ## Audio
 

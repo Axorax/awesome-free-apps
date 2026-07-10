@@ -54,7 +54,7 @@
 - [Text Editors](#text-editors)
 - [Download Managers](#download-managers)
 - [Games](#games)
-- [Level Devil](https://leveldevil.games) - Play Level Devil — the tricky platformer full of traps, trolls, and rage-inducing levels. Test your patience free in ...
+- [Color Block Jam](https://colorblockjam.games) - Play Color Block Jam puzzle games online — match colors, clear blocks, and beat challenging levels. Casual brain-teas...
   - [Cloud Gaming](#cloud-gaming)
 - [Mobile Emulators](#mobile-emulators)
 - [Other Emulators](#other-emulators)

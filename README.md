@@ -54,6 +54,7 @@
 - [Text Editors](#text-editors)
 - [Download Managers](#download-managers)
 - [Games](#games)
+- [SonicGames](https://sonicgames.org) - Play Sonic the Hedgehog games online — speed runs, classic platformers, and fan favorites. Free browser-based Sonic a...
   - [Cloud Gaming](#cloud-gaming)
 - [Mobile Emulators](#mobile-emulators)
 - [Other Emulators](#other-emulators)
@@ -133,7 +134,6 @@
 - [Qtractor](https://qtractor.org) - Multi-track DAW for Linux for audio and MIDI recording. 🐧
 - [Stargate DAW](https://github.com/stargatedaw/stargate) - Innovation-first DAW, instrument and effect plugins. 🪟 🍎 🐧 🟢
 - [Tracktion T7](https://tracktion.com/products/t7-daw) - DAW for music production with advanced editing features. 🪟 🍎 🐧
-- [Spranki](https://spranki.org) - Create beats and mix characters in Sprunki-style music games online. Drag-and-drop rhythm fun with quirky sounds — pl...
 
 ## Browsers
 

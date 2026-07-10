@@ -54,7 +54,7 @@
 - [Text Editors](#text-editors)
 - [Download Managers](#download-managers)
 - [Games](#games)
-- [Color Block Jam](https://colorblockjam.games) - Play Color Block Jam puzzle games online — match colors, clear blocks, and beat challenging levels. Casual brain-teas...
+- [Subway Surfers Game](https://subwaysurfersgame.online) - Run, dodge, and surf the subway in this endless runner — collect coins, unlock characters, and chase high scores. Fre...
   - [Cloud Gaming](#cloud-gaming)
 - [Mobile Emulators](#mobile-emulators)
 - [Other Emulators](#other-emulators)

@@ -713,6 +713,7 @@
 - [MonitorControl](https://monitorcontrol.app) - Controls external display brightness, volume, and contrast from macOS keyboard shortcuts and menu bar. 🍎 [🟢](https://github.com/MonitorControl/MonitorControl)
 - [balenaEtcher](https://etcher.balena.io) - Tool for safely flashing OS images to SD cards and USB drives. 🪟 🍎 🐧 [🟢](https://github.com/balena-io/etcher)
 - [Meander](https://everydays.tools/meander) - AI voice-to-text dictation with a free tier: push-to-talk, AI cleanup, and speak-one-language-output-another translation, with native Linux support. 🪟 🐧
+- [Off Grid AI Desktop](https://getoffgridai.co/desktop) - Local AI suite that runs entirely on your Mac: LLM chat, image generation, voice dictation with Whisper, memory and RAG search, clipboard manager, encrypted vault, and MCP connectors, with no account or telemetry. 🍎 [🟢](https://github.com/off-grid-ai/off-grid-ai-desktop)
 
 ### Clipboard Management
 

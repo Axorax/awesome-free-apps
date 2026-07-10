@@ -54,7 +54,7 @@
 - [Text Editors](#text-editors)
 - [Download Managers](#download-managers)
 - [Games](#games)
-- [SonicGames](https://sonicgames.org) - Play Sonic the Hedgehog games online — speed runs, classic platformers, and fan favorites. Free browser-based Sonic a...
+- [Plinko Game](https://plinkogame.plus) - Drop the ball and watch it bounce through pegs in Plinko — casual arcade fun with satisfying physics. Play free onlin...
   - [Cloud Gaming](#cloud-gaming)
 - [Mobile Emulators](#mobile-emulators)
 - [Other Emulators](#other-emulators)

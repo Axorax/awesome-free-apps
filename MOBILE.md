@@ -197,6 +197,7 @@
 - [PingTools](https://pingtools.org) - Includes ping, traceroute, port scanner, and more for network diagnostics. 🤖
 - [Network Analyzer](https://apps.apple.com/us/app/network-analyzer/id562315041) - Diagnose Wi-Fi and network problems with detailed insights. 🍎
 - [NetMonster](https://play.google.com/store/apps/details?id=cz.mroczis.netmonster) - Displays detailed information about cellular networks. 🤖
+- [Moni Proxy](https://moniproxy.com) - Capture, inspect, mock, and replay HTTPS API traffic directly on your device. 🤖 🍎
 
 ### Game Engines
 

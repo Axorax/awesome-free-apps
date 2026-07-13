@@ -388,6 +388,7 @@
 - [pdfcpu](https://pdfcpu.io) - A PDF processor written in Go. 🪟 🍎 🐧 [🟢](https://github.com/pdfcpu/pdfcpu)
 - [Stirling-PDF](https://stirling.com) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere. 🪟 🍎 🐧 [🟢](https://github.com/Stirling-Tools/Stirling-PDF)
 - [pdftk](https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit) - PDFtk is a simple tool for doing everyday things with PDF documents. 🪟 🍎 🐧
+- [Slay PDF](https://slaypdf.com/) - Local browser PDF editor for splitting, merging, signing, resizing, OCR, and page editing. 🪟 🍎 🐧 [🟢](https://github.com/emileakbarzadeh/slay-pdf)
 
 ## Note Taking
 

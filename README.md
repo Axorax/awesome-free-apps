@@ -23,6 +23,7 @@
 
 <!-- AF-TOC : Tuesday, June 30, 2026 at 10:52:23 AM UTC -->
 
+- [AI Chatbots](#ai-chatbots)
 - [Audio](#audio)
   - [Audio Players](#audio-players)
   - [Audio Recording](#audio-recording)
@@ -82,6 +83,8 @@
   - [Trackpad](#trackpad)
 
 <!-- AF-END -->
+
+## AI Chatbots
 
 ## Audio
 

@@ -85,6 +85,8 @@
 <!-- AF-END -->
 
 ## AI Chatbots
+- [[Ambient HybridAI]](https://techambient.github.io/HybridAI/) - Free & Unlimited latest model usage AI Chatbot. Has a beautiful modern UI. 🪟 ⭐ 🍎 🟢
+
 
 ## Audio
 

@@ -808,3 +808,6 @@
 - [MiddleDrag](https://middledrag.app) - Three-finger trackpad gestures for middle-click and middle-drag on macOS. 🍎 [🟢](https://github.com/NullPointerDepressiveDisorder/MiddleDrag)
 - [LinearMouse](https://linearmouse.app) - Mouse and trackpad utility for pointer acceleration, scrolling, button mapping, and per-device settings. 🍎 [🟢](https://github.com/linearmouse/linearmouse)
 - [Mos](https://mos.caldis.me) - Mouse utility for smooth scrolling and independent scroll direction settings on macOS. 🍎 [🟢](https://github.com/Caldis/Mos)
+
+- - [BudgetWise AI](https://microsoft.com) - A lightweight, privacy-focused desktop PWA featuring secure local storage, voice-command expense logging, and budget grading.
+

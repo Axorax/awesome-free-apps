@@ -410,6 +410,7 @@
 - [Trilium Notes](https://triliumnotes.org) - Organize your thoughts. Build your personal knowledge base. 🪟 🍎 🐧 [🟢](https://github.com/TriliumNext/Trilium)
 - [Snoq](https://snoq.io) - Secure, offline-first note-taking app with AES-256 encryption. 🪟
 - [Knopo](https://github.com/alkalim/Knopo) - Local-first outliner for plain Markdown notes with backlinks, page/block references, and graph-friendly files. 🍎 [🟢](https://github.com/alkalim/Knopo)
+- [Bangle.io](https://bangle.io) - Local-first WYSIWYG note-taking app that keeps notes as portable Markdown files. 🪟 🍎 🐧 [🟢](https://github.com/bangle-io/bangle-io)
 
 ## Text Editors
 

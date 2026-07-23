@@ -719,6 +719,7 @@
 - [Meander](https://everydays.tools/meander) - AI voice-to-text dictation with a free tier: push-to-talk, AI cleanup, and speak-one-language-output-another translation, with native Linux support. 🪟 🐧
 - [Burrete](https://burrete-landing.vercel.app) - Molecular file workspace with Finder Quick Look previews, Mol* 3D, and chemistry grids. 🍎 [🟢](https://github.com/SergeiNikolenko/Burrete)
 - [Off Grid AI Desktop](https://getoffgridai.co/desktop) - Local AI suite for Mac: chat, image generation, dictation, and memory search, all on-device with no account. 🍎 [🟢](https://github.com/off-grid-ai/off-grid-ai-desktop)
+- [Core-Monitor](https://offyotto.github.io/Core-Monitor/) - Apple Silicon system monitor showing CPU, GPU, memory, battery, power, temperatures, storage, and fan data with optional fan control. 🍎 [🟢](https://github.com/offyotto/Core-Monitor)
 
 ### Clipboard Management
 

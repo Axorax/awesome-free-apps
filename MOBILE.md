@@ -262,6 +262,7 @@
 - [ADM (Advanced Download Manager)](https://play.google.com/store/apps/details?id=com.dv.adm) - Powerful download manager with split download support. 🤖
 - [iDownloader](https://apps.apple.com/us/app/idownloader-pro/id657087236) - Download manager with browser integration and video support. 🍎
 - [MyJDownloader](https://my.jdownloader.org) - Remotely manage downloads from your desktop JDownloader. 🤖 🍎
+- [FluxDown](https://fluxdown.zerx.dev) - Multi-protocol download manager with IDM-style dynamic segmentation, covering HTTP, FTP, BitTorrent, eD2K, HLS and DASH. 🤖 [🟢](https://github.com/zerx-lab/FluxDown)
 
 ## Graphics Tools
 

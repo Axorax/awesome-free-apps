@@ -158,8 +158,8 @@
 
 ## Communication
 
-### Messaging
-
+- [VideoDownloaderBot](https://github.com/Avazbek22/VideoDownloaderBot) - Self-hosted Telegram media downloader with video, original-file, and MP3 delivery, simple Docker installation, and rollback-safe updates.  [](https://github.com/Avazbek22/VideoDownloaderBot)
+- [LinkDownloaderBotForGroups](https://github.com/Avazbek22/LinkDownloaderBotForGroups) - Automatically turns shared video links into native Telegram posts with media reuse and quiet reactions.  [](https://github.com/Avazbek22/LinkDownloaderBotForGroups)
 - [Discord](https://discord.com) - Communication platform for text, voice, and video, popular with gamers. 🪟 🍎 🐧 ⭐
 - [Telegram](https://telegram.org) - Cloud-based messaging app known for speed, security, and group chats. 🪟 🍎 🐧
 - [WhatsApp](https://whatsapp.com) - Free messaging app with text, voice, video calls, and multimedia sharing. 🪟 🍎

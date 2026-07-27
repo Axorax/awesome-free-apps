@@ -158,8 +158,11 @@
 
 ## Communication
 
-- [VideoDownloaderBot](https://github.com/Avazbek22/VideoDownloaderBot) - Self-hosted Telegram media downloader with video, original-file, and MP3 delivery, simple Docker installation, and rollback-safe updates.  [](https://github.com/Avazbek22/VideoDownloaderBot)
-- [LinkDownloaderBotForGroups](https://github.com/Avazbek22/LinkDownloaderBotForGroups) - Automatically turns shared video links into native Telegram posts with media reuse and quiet reactions.  [](https://github.com/Avazbek22/LinkDownloaderBotForGroups)
+### Messaging
+
+
+- [LinkDownloaderBotForGroups](https://github.com/Avazbek22/LinkDownloaderBotForGroups) - Turns supported video links shared in Telegram groups into native posts with quiet reactions, media reuse, and rollback-safe Docker updates.  [](https://github.com/Avazbek22/LinkDownloaderBotForGroups)
+
 - [Discord](https://discord.com) - Communication platform for text, voice, and video, popular with gamers. 🪟 🍎 🐧 ⭐
 - [Telegram](https://telegram.org) - Cloud-based messaging app known for speed, security, and group chats. 🪟 🍎 🐧
 - [WhatsApp](https://whatsapp.com) - Free messaging app with text, voice, video calls, and multimedia sharing. 🪟 🍎
@@ -455,7 +458,8 @@
 - [JDownloader](https://jdownloader.org) - Popular download manager. 🪟 🍎 🐧 [🟢](https://support.jdownloader.org/en/knowledgebase/article/setup-ide-eclipse)
 - [Motrix](https://motrix.app) - Simple and clean download manager with cross-platform support. 🪟 🍎 🐧 [🟢](https://github.com/agalwood/Motrix)
 - [Persepolis Download Manager](https://persepolisdm.github.io) - GUI for Aria2, providing an intuitive interface. 🪟 🍎 🐧 [🟢](https://github.com/persepolisdm/persepolis)
-- [Xtreme Download Manager (XDM)](https://xtremedownloadmanager.com) - Powerful tool to increase download speed. 🪟 🍎 🐧 [🟢](https://github.com/subhra74/xdm)
+ - [Xtreme Download Manager (XDM)](https://xtremedownloadmanager.com) - Powerful tool to increase download speed. 🪟 🍎 🐧 [🟢](https://github.com/subhra74/xdm)
+ - [VideoDownloaderBot](https://github.com/Avazbek22/VideoDownloaderBot) - Self-hosted Telegram media downloader with video, original-file, and MP3 delivery, Docker installation, nightly yt-dlp updates, and rollback.  [](https://github.com/Avazbek22/VideoDownloaderBot)
 - [Transmission](https://transmissionbt.com) - Lightweight BitTorrent client with native desktop, daemon, and web interfaces. 🪟 🍎 🐧 [🟢](https://github.com/transmission/transmission)
 - [FluxDown](https://fluxdown.zerx.dev) - Multi-protocol download manager with IDM-style dynamic segmentation, covering HTTP, FTP, BitTorrent, eD2K, HLS and DASH. 🪟 🍎 🐧 [🟢](https://github.com/zerx-lab/FluxDown)
 

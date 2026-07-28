@@ -698,6 +698,7 @@
 - [Legacy Update](https://legacyupdate.net) - Installs updates to fix Windows Update access on unsupported versions. 🪟
 - [Locale Emulator](https://github.com/xupefei/Locale-Emulator) - Simulate different system regions and languages. 🪟 🟢
 - [LocalSend](https://localsend.org) - Share files instantly to nearby devices. 🪟 🍎 🐧
+- [MultiDrive](https://multidrive.io) - Clone, erase, back up one or more drives simultaneously. 🪟 
 - [Nirsoft](https://nirsoft.net/utils/index.html) - Collection of small utilities for various tasks. 🪟
 - [PeakFlow](https://getpeakflow.pro) - Seven productivity tools with screen dimming, clipboard manager, volume mixer, and meeting alerts. 🪟 [🟢](https://github.com/inchwormz/peakflow-electron)
 - [ProcessSpy](https://process-spy.app) - Native process monitor for macOS. 🍎

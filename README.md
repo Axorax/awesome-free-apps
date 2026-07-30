@@ -151,7 +151,6 @@
 - [Orion](https://browser.kagi.com) - Lightweight WebKit browser with Chrome/Firefox extension support. 🍎 🐧
 - [qutebrowser](https://qutebrowser.org) - Keyboard-driven, vim-like browser in Python and Qt. 🪟 🍎 🐧 [🟢](https://github.com/qutebrowser/qutebrowser)
 - [Safari](https://apple.com/safari) - Native Mac browser with Apple device integration. 🍎
-- [Station](https://getstation.com) - Browser centralizing web apps in one workspace. 🪟 🍎 🐧
 - [Mullvad Browser](https://mullvad.net/en/download/browser) - Privacy browser with Tor, anti-fingerprinting, and Mullvad VPN. 🪟 🍎 🐧 [🟢](https://github.com/mullvad/mullvad-browser)
 - [Vivaldi](https://vivaldi.com) - Customizable browser putting you in control. 🪟 🍎 🐧
 - [Zen Browser](https://zen-browser.app) - Beautifully designed, privacy-focused browser with custom mods. 🪟 🍎 🐧 [🟢](https://github.com/zen-browser/desktop)
@@ -167,7 +166,6 @@
 - [Slack](https://slack.com) - Collaboration hub for teams with messaging, file sharing, and integrations. 🪟 🍎 🐧
 - [Viber](https://viber.com) - Free messaging app with text, voice, video calls, and file sharing. 🪟 🍎 🐧
 - [Microsoft Teams](https://microsoft.com/en-us/microsoft-teams/group-chat-software) - Team communication platform with chat, file sharing, and video conferencing. 🪟 🍎 🐧
-- [Skype](https://skype.com) - Messaging and video call service supporting text, voice, and video. 🪟 🍎 🐧
 
 ### Email Clients
 

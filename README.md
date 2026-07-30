@@ -262,6 +262,7 @@
 - [GitHub Desktop](https://desktop.github.com) - Graphical Git client for cloning repositories, reviewing changes, and syncing with GitHub. 🪟 🍎 [🟢](https://github.com/desktop/desktop)
 - [WezTerm](https://wezterm.org) - GPU-accelerated terminal emulator and multiplexer with tabs, panes, SSH, and Lua configuration. 🪟 🍎 🐧 [🟢](https://github.com/wezterm/wezterm)
 - [Tura](https://turaai.net/) - Local-first AI coding agent with persistent parallel sessions, desktop and terminal interfaces, and local-model support. 🪟 🍎 🐧 [🟢](https://github.com/Tura-AI/tura)
+- [DevProjex](https://github.com/Avazbek22/DevProjex) - Build structured, token-counted project context with visual file selection, Smart Ignore, preview, and multiple output formats.    🪟 🍎 🐧 [🟢](https://github.com/Avazbek22/DevProjex)
 
 ### API Development
 

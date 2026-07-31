@@ -764,6 +764,7 @@
 - [Komorebi](https://github.com/LGUG2Z/komorebi) - Tiling window manager for Windows. 🪟 🟢
 - [Niri](https://github.com/niri-wm/niri) - Scrollable-tiling Wayland compositor written in Rust. 🐧 🟢
 - [AltTab](https://alt-tab.app) - Window switcher that brings Windows-style alt-tab previews and controls to macOS. 🍎 [🟢](https://github.com/lwouis/alt-tab-macos)
+- [Waindow](https://www.waindow.app/) - Arranges and restores Mac windows, links local Markdown memos to them, captures long pages, and prevents idle sleep. 🍎
 
 ### File Management
 

@@ -104,6 +104,7 @@
 - [Audacity](https://audacityteam.org/download) - Audio editor for recording and editing sounds. 🪟 🍎 🐧 🟢 ⭐
 - [Ocenaudio](https://ocenaudio.com) - Easy-to-use audio editor for recording and analyzing sounds. 🪟 🍎 🐧
 - [Wavosaur](https://www.wavosaur.com) - Simple audio editor for recording, editing, and processing sound. 🪟
+- [echo99](https://www.echo99.app/) - Private call recorder with on-device transcription and speaker labels. 🍎
 
 ### DJ Software
 

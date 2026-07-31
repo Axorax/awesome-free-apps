@@ -389,6 +389,7 @@
 - [Stirling-PDF](https://stirling.com) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere. 🪟 🍎 🐧 [🟢](https://github.com/Stirling-Tools/Stirling-PDF)
 - [pdftk](https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit) - PDFtk is a simple tool for doing everyday things with PDF documents. 🪟 🍎 🐧
 - [PDFluent](https://pdfluent.com/download/) - Offline PDF editor for forms, OCR, redaction, signatures, conversion, and page management on Windows and macOS. 🪟 🍎
+- [PDF Mavericks](https://www.pdfmavericks.com) - Compress, merge, split, sign, convert and add passwords to PDFs entirely in the browser, with no upload and no account. 🪟 🍎 🐧
 
 ## Note Taking
 

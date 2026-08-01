@@ -1,5 +1,5 @@
 const fs = require('fs');
-const { execSync, spawn } = require('child_process');
+const { execSync, execFileSync, spawn } = require('child_process');
 
 function create(file, fileName, emoji) {
   const startTime = Date.now();
@@ -151,7 +151,7 @@ async function testLinksInAllFiles() {
 function fastGit(message = "update") {
   try {
     execSync('git add -A', { stdio: 'inherit' });
-    execSync(`git commit -m "${message}"`, { stdio: 'inherit' });
+    execFileSync('git', ['commit', '-m', message], { stdio: 'inherit' });
     execSync('git push', { stdio: 'inherit' });
     console.log('Changes have been committed and pushed.');
   } catch (error) {

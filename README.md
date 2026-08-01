@@ -801,6 +801,7 @@
 - [Pixpin](https://pixpin.cn) - Elegant screen capture with an integrated editor. 🪟
 - [Shutter](https://launchpad.net/shutter) - Feature-rich screenshot tool for Linux with an integrated editor for quick annotations. 🐧
 - [Snipaste](https://snipaste.com) - Free, Customizable, Portable snipping tool.
+- [Keyty](https://keyty.app) - Keyboard and mouse visualizer that displays your keystrokes and clicks in real time for demos, recordings, and livestreams. 🍎 [🟢](https://github.com/keytyapp/Keyty)
 
 ### Space Visualizer
 

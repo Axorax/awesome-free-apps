@@ -371,6 +371,7 @@
 - [Sigil](https://sigil-ebook.com) - EPUB editor. 🪟 🍎 🐧 [🟢](https://github.com/Sigil-Ebook/Sigil)
 - [Simple Comic](https://apps.apple.com/us/app/simple-comic/id1497435571?mt=12) - Reader for PDF, CBZ, and CBR formats. 🍎
 - [KOReader](https://koreader.rocks) - KOReader is a document viewer for E Ink devices. 🐧 [🟢](https://github.com/koreader/koreader)
+- [Torto](https://github.com/L-Chris/torto) - Native local-first e-book reader for Windows and macOS with two-page reading, highlights, translation, AI assistance, WebDAV sync, and no WebView. 🪟 🍎 [🟢](https://github.com/L-Chris/torto)
 
 ### PDF Tools
 

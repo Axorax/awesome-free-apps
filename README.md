@@ -90,6 +90,7 @@
 - [EarTrumpet](https://eartrumpet.app) - Advanced volume control for Windows, offering app-specific audio management. 🪟
 - [Ambie](https://github.com/jenius-apps/ambie) - Use white noise, nature sounds, & more to boost your productivity. 🪟 🟢
 - [BlackHole](https://github.com/ExistentialAudio/BlackHole) - Virtual audio loopback driver for routing audio between macOS applications. 🍎 🟢
+- [BluetoothHandsFreeToggle](https://github.com/Avazbek22/BluetoothHandsFreeToggle) - Fixes Bluetooth headsets stuck in low-quality Hands-Free mode. 🪟 [🟢](https://github.com/Avazbek22/BluetoothHandsFreeToggle)
 
 ### Audio Players
 

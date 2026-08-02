@@ -19,7 +19,7 @@
 
 ## Contents
 
-<!-- AF-TOC : Tuesday, June 30, 2026 at 10:52:23 AM UTC -->
+<!-- AF-TOC : Sunday, August 2, 2026 at 10:57:05 AM UTC -->
 
 - [Audio](#audio)
   - [Audio Players](#audio-players)
@@ -182,6 +182,7 @@
 
 ## Download Managers
 
+- [FluxDown](https://fluxdown.zerx.dev) - Multi-protocol download manager with IDM-style dynamic segmentation, covering HTTP, FTP, BitTorrent, eD2K, HLS and DASH. 🤖 [🟢](https://github.com/zerx-lab/FluxDown)
 
 ## Graphics Tools
 

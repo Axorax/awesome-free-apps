@@ -19,7 +19,7 @@
 
 ## Contents
 
-<!-- AF-TOC : Tuesday, June 30, 2026 at 10:52:23 AM UTC -->
+<!-- AF-TOC : Sunday, August 2, 2026 at 10:57:05 AM UTC -->
 
 - [Audio](#audio)
   - [Audio Players](#audio-players)
@@ -177,6 +177,7 @@
 ### Network Analysis
 
 - [Network Analyzer](https://apps.apple.com/us/app/network-analyzer/id562315041) - Diagnose Wi-Fi and network problems with detailed insights. 🍎
+- [Moni Proxy](https://moniproxy.com) - Capture, inspect, mock, and replay HTTPS API traffic directly on your device. 🤖 🍎
 
 ### Game Engines
 

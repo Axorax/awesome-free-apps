@@ -19,7 +19,7 @@
 
 ## Contents
 
-<!-- AF-TOC : Tuesday, June 30, 2026 at 10:52:23 AM UTC -->
+<!-- AF-TOC : Sunday, August 2, 2026 at 10:57:05 AM UTC -->
 
 - [Audio](#audio)
   - [Audio Players](#audio-players)
@@ -190,6 +190,7 @@
 
 - [PingTools](https://pingtools.org) - Includes ping, traceroute, port scanner, and more for network diagnostics. 🤖
 - [NetMonster](https://play.google.com/store/apps/details?id=cz.mroczis.netmonster) - Displays detailed information about cellular networks. 🤖
+- [Moni Proxy](https://moniproxy.com) - Capture, inspect, mock, and replay HTTPS API traffic directly on your device. 🤖 🍎
 
 ### Game Engines
 
@@ -246,6 +247,7 @@
 - [IDM](https://play.google.com/store/apps/details?id=com.downloadmanager.app&hl=en) - Accelerates downloads with advanced scheduling and queuing. 🤖
 - [ADM (Advanced Download Manager)](https://play.google.com/store/apps/details?id=com.dv.adm) - Powerful download manager with split download support. 🤖
 - [MyJDownloader](https://my.jdownloader.org) - Remotely manage downloads from your desktop JDownloader. 🤖 🍎
+- [FluxDown](https://fluxdown.zerx.dev) - Multi-protocol download manager with IDM-style dynamic segmentation, covering HTTP, FTP, BitTorrent, eD2K, HLS and DASH. 🤖 [🟢](https://github.com/zerx-lab/FluxDown)
 
 ## Graphics Tools
 

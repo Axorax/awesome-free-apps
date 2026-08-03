@@ -341,6 +341,7 @@
 - [TunnelBear](https://www.tunnelbear.com) - Simple VPN app with a friendly interface and a free plan. 🤖 🍎
 - [Windscribe](https://windscribe.com) - Privacy-focused VPN with a free option and wide server coverage. 🤖 🍎 🟢
 - [Betternet](https://www.betternet.co) - Fast, free VPN for browsing securely and privately. 🤖 🍎
+- [Traveler's VPN](https://travelersvpn.com) - Travel VPN with automatic split-tunnel routing over your own Outline, WireGuard, Shadowsocks, or Trojan server, built on the open-source sing-box engine. 🍎
 
 ## Health and Wellness
 

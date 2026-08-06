@@ -106,6 +106,7 @@
 - [Ocenaudio](https://ocenaudio.com) - Easy-to-use audio editor for recording and analyzing sounds. 🪟 🍎 🐧
 - [Wavosaur](https://www.wavosaur.com) - Simple audio editor for recording, editing, and processing sound. 🪟
 - [echo99](https://www.echo99.app/) - Private call recorder with on-device transcription and speaker labels. 🍎
+- [Sonor](https://github.com/sonor-studio/Sonor) - Privacy-first, on-device voice intelligence and transcription tool. 🍎 🟢
 
 ### DJ Software
 

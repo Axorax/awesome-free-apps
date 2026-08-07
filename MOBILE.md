@@ -348,6 +348,7 @@
 - [Paula](https://trypaula.com) - Free AI mental health companion using CBT and DBT techniques, with voice sessions, mood tracking, and journaling. 🤖 🍎
 - [Euki](https://eukiapp.org) - Privacy-first period tracker with sexual health resources and local-only data storage. 🤖 🍎 [🟢](https://github.com/Euki-Inc/Euki-Android)
 - [LogZero](https://logzero.app) - Privacy-first habit and health tracker with mood, medication, food, exercise, and weight logs, plus on-device correlation insights. No account, no ads, no trackers. 🍎
+- [Push or Pay](https://pushorpay.netlify.app) - Free accountability game for two: protect a daily habit streak or your partner collects a playful "Lazy Tax" and gets to cheer or tease you. No sign-up, no ads. 🤖 🍎
 
 ## Utility
 

@@ -610,6 +610,7 @@
 
 ### Video Editors
 
+- [Video Glitcher](https://github.com/non-npc/Video-Glitcher) - Turn video clips and music into glitch videos 🪟 🐧 [🟢](https://github.com/non-npc/Video-Glitcher)
 - [DaVinci Resolve](https://blackmagicdesign.com/products/davinciresolve) - Professional video editor with advanced color correction and effects. 🪟 🍎 🐧 ⭐
 - [Capcut Desktop](https://capcut.com/tools/desktop-video-editor) - Simple video editor with many builtin effects. 🪟 🍎
 - [Shotcut](https://shotcut.org) - Video editor with a wide range of features. 🪟 🍎 🐧 [🟢](https://github.com/mltframework/shotcut)

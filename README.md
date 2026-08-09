@@ -6,7 +6,7 @@
 <p align="center"><a href="./MOBILE.md">Mobile version</a> — <a href="./filter/android-only.md">Android Only</a> — <a href="./filter/iOS-only.md">iOS Only</a></p>
 
 | Icon | Meaning              | Icon | Meaning                       |
-|------|----------------------|------|-------------------------------|
+| ---- | -------------------- | ---- | ----------------------------- |
 | 🪟   | Available on Windows | 🟢   | Open-source (Repository Link) |
 | 🍎   | Available on macOS   | ⭐   | Recommended by us             |
 | 🐧   | Available on Linux   |      |                               |
@@ -24,62 +24,63 @@
 <!-- AF-TOC : Sunday, August 2, 2026 at 10:57:05 AM UTC -->
 
 - [Audio](#audio)
-  - [Audio Players](#audio-players)
-  - [Audio Recording](#audio-recording)
-  - [DJ Software](#dj-software)
-  - [Music Notation](#music-notation)
-  - [Music Production](#music-production)
+    - [Audio Players](#audio-players)
+    - [Audio Recording](#audio-recording)
+    - [DJ Software](#dj-software)
+    - [Music Notation](#music-notation)
+    - [Music Production](#music-production)
 - [Browsers](#browsers)
 - [Communication](#communication)
-  - [Messaging](#messaging)
-  - [Email Clients](#email-clients)
+    - [Messaging](#messaging)
+    - [Email Clients](#email-clients)
 - [Compression and Archiving](#compression-and-archiving)
 - [Customize](#customize)
-  - [System Customization](#system-customization)
-  - [Wallpaper Tools](#wallpaper-tools)
+    - [System Customization](#system-customization)
+    - [Wallpaper Tools](#wallpaper-tools)
 - [Data Management](#data-management)
-  - [Copy and Move](#copy-and-move)
-  - [Sync and Clone](#sync-and-clone)
+    - [Copy and Move](#copy-and-move)
+    - [Sync and Clone](#sync-and-clone)
 - [Developer Tools](#developer-tools)
-  - [API Development](#api-development)
-  - [Database](#database)
-  - [Network Analysis](#network-analysis)
-  - [Game Engines](#game-engines)
-  - [Virtualization](#virtualization)
+    - [API Development](#api-development)
+    - [Database](#database)
+    - [Network Analysis](#network-analysis)
+    - [Game Engines](#game-engines)
+    - [Virtualization](#virtualization)
 - [Documents](#documents)
-  - [Office Suites](#office-suites)
-  - [E-book](#e-book)
-  - [PDF Tools](#pdf-tools)
+    - [Office Suites](#office-suites)
+    - [E-book](#e-book)
+    - [PDF Tools](#pdf-tools)
 - [Note Taking](#note-taking)
 - [Text Editors](#text-editors)
 - [Download Managers](#download-managers)
 - [Games](#games)
-  - [Cloud Gaming](#cloud-gaming)
+    - [Cloud Gaming](#cloud-gaming)
 - [Mobile Emulators](#mobile-emulators)
 - [Other Emulators](#other-emulators)
 - [Graphics Tools](#graphics-tools)
 - [3D Modeling and Animation](#3d-modeling-and-animation)
 - [Security](#security)
-  - [Antivirus](#antivirus)
-  - [Password Managers](#password-managers)
-  - [Ad & Tracker Blocking](#ad-tracker-blocking)
+    - [Antivirus](#antivirus)
+    - [Password Managers](#password-managers)
+    - [Ad & Tracker Blocking](#ad-tracker-blocking)
 - [Image Viewers](#image-viewers)
 - [Remote Access](#remote-access)
 - [Video](#video)
-  - [Video Editors](#video-editors)
-  - [Video Players](#video-players)
-  - [Video Streaming and Recording](#video-streaming-and-recording)
-  - [Video Converters and Compressors](#video-converters-and-compressors)
+    - [Video Editors](#video-editors)
+    - [Video Players](#video-players)
+    - [Video Streaming and Recording](#video-streaming-and-recording)
+    - [Video Converters and Compressors](#video-converters-and-compressors)
 - [VPN and Proxy Tools](#vpn-and-proxy-tools)
 - [Utility](#utility)
-  - [Clipboard Management](#clipboard-management)
-  - [Metadata](#metadata)
-  - [Window Management](#window-management)
-  - [File Management](#file-management)
-  - [Application Management](#application-management)
-  - [Screenshot](#screenshot)
-  - [Space Visualizer](#space-visualizer)
-  - [Trackpad](#trackpad)
+    - [Clipboard Management](#clipboard-management)
+    - [Metadata](#metadata)
+    - [Window Management](#window-management)
+    - [File Management](#file-management)
+    - [Application Management](#application-management)
+    - [Screenshot](#screenshot)
+    - [Space Visualizer](#space-visualizer)
+    - [Trackpad](#trackpad)
+    - [Keyboard Management](#keyboard-management)
 
 <!-- AF-END -->
 
@@ -264,7 +265,7 @@
 - [GitHub Desktop](https://desktop.github.com) - Graphical Git client for cloning repositories, reviewing changes, and syncing with GitHub. 🪟 🍎 [🟢](https://github.com/desktop/desktop)
 - [WezTerm](https://wezterm.org) - GPU-accelerated terminal emulator and multiplexer with tabs, panes, SSH, and Lua configuration. 🪟 🍎 🐧 [🟢](https://github.com/wezterm/wezterm)
 - [Tura](https://turaai.net/) - Local-first AI coding agent with persistent parallel sessions, desktop and terminal interfaces, and local-model support. 🪟 🍎 🐧 [🟢](https://github.com/Tura-AI/tura)
-- [DevProjex](https://github.com/Avazbek22/DevProjex) - Build structured, token-counted project context with visual file selection, Smart Ignore, preview, and multiple output formats.    🪟 🍎 🐧 [🟢](https://github.com/Avazbek22/DevProjex)
+- [DevProjex](https://github.com/Avazbek22/DevProjex) - Build structured, token-counted project context with visual file selection, Smart Ignore, preview, and multiple output formats. 🪟 🍎 🐧 [🟢](https://github.com/Avazbek22/DevProjex)
 
 ### API Development
 
@@ -356,7 +357,6 @@
 - [Google Workspace](https://workspace.google.com) - Cloud-based suite for document collaboration. 🪟 🍎 🐧
 - [OnlyOffice](https://onlyoffice.com) - Office suite with collaboration features. 🪟 🍎 🐧 🟢
 - [WPS Office](https://wps.com) - Lightweight office suite compatible with MS file formats. 🪟 🍎 🐧
-
 
 ### E-book
 
@@ -669,8 +669,8 @@
 
 - [Algo](https://github.com/trailofbits/algo) - Simple IPSEC VPN setup for secure cloud connections. 🪟 🍎 🐧 🟢
 - [Cloudflare WARP](https://developers.cloudflare.com/cloudflare-one/connections/connect-devices/warp/download-warp) - VPN and DNS service enhancing privacy and security. 🪟 🍎 🐧
-- [FlClash](https://github.com/chen08209/FlClash) - Multi-platform proxy client based on ClashMeta.  🪟 🍎 🐧 🟢
-- [Hiddify](https://github.com/hiddify/hiddify-app) - Multi-platform proxy toolchain.  🪟 🍎 🐧 🟢
+- [FlClash](https://github.com/chen08209/FlClash) - Multi-platform proxy client based on ClashMeta. 🪟 🍎 🐧 🟢
+- [Hiddify](https://github.com/hiddify/hiddify-app) - Multi-platform proxy toolchain. 🪟 🍎 🐧 🟢
 - [MoonProxy](https://moonproxy.app/en/) - GUI client for FRP (fast reverse proxy) to expose local services to the internet. 🪟 🍎 [🟢](https://github.com/MoonProxyHQ/moonproxy-desktop)
 - [rvc-mac](https://github.com/riboseinc/cryptode-mac) - Secure VPN client from Ribose. 🍎 🟢
 - [Lantern](https://getlantern.org) - Internet freedom tool to bypass restrictions. 🪟 🍎 🐧
@@ -700,7 +700,7 @@
 - [Legacy Update](https://legacyupdate.net) - Installs updates to fix Windows Update access on unsupported versions. 🪟
 - [Locale Emulator](https://github.com/xupefei/Locale-Emulator) - Simulate different system regions and languages. 🪟 🟢
 - [LocalSend](https://localsend.org) - Share files instantly to nearby devices. 🪟 🍎 🐧
-- [MultiDrive](https://multidrive.io) - Clone, erase, back up one or more drives simultaneously. 🪟 
+- [MultiDrive](https://multidrive.io) - Clone, erase, back up one or more drives simultaneously. 🪟
 - [Nirsoft](https://nirsoft.net/utils/index.html) - Collection of small utilities for various tasks. 🪟
 - [PeakFlow](https://getpeakflow.pro) - Seven productivity tools with screen dimming, clipboard manager, volume mixer, and meeting alerts. 🪟 [🟢](https://github.com/inchwormz/peakflow-electron)
 - [ProcessSpy](https://process-spy.app) - Native process monitor for macOS. 🍎
@@ -709,8 +709,8 @@
 - [Twinkle Tray](https://twinkletray.com) - Simple tool to manage brightness across multiple monitors. 🪟
 - [Rocket](https://matthewpalmer.net/rocket) - Type and insert emojis anywhere using a colon (:). 🍎
 - [Winpower](https://github.com/Axorax/winpower) - Advanced power settings and management for Windows. 🪟 🟢
-- [Windterm](https://github.com/kingToolbox/WindTerm) - SSH/Telnet/Serial/Shell/Sftp client for DevOps.  🪟 🍎 🐧 🟢
-- [UniGetUI](https://www.marticliment.com/unigetui) - UI for popular package managers like  Winget, NPM, and more. 🪟 [🟢](https://github.com/marticliment/UniGetUI)
+- [Windterm](https://github.com/kingToolbox/WindTerm) - SSH/Telnet/Serial/Shell/Sftp client for DevOps. 🪟 🍎 🐧 🟢
+- [UniGetUI](https://www.marticliment.com/unigetui) - UI for popular package managers like Winget, NPM, and more. 🪟 [🟢](https://github.com/marticliment/UniGetUI)
 - [Saga Reader](https://github.com/sopaco/saga-reader) - Blazing-Fast AI Reader that supports sources based on search engines and RSS. 🪟 🍎 [🟢](https://github.com/sopaco/saga-reader)
 - [KaiROS AI](https://github.com/avikeid2007/Kairos.local) - Local AI assistant with GPU acceleration and model catalog. 🪟 [🟢](https://github.com/avikeid2007/Kairos.local)
 - [Whisper by Remskill](https://whisper.remskill.com) - Voice-to-text dictation that types your speech at the cursor in any app, fully offline with local Whisper or via OpenAI cloud. 🪟 🍎
@@ -722,7 +722,7 @@
 - [MonitorControl](https://monitorcontrol.app) - Controls external display brightness, volume, and contrast from macOS keyboard shortcuts and menu bar. 🍎 [🟢](https://github.com/MonitorControl/MonitorControl)
 - [balenaEtcher](https://etcher.balena.io) - Tool for safely flashing OS images to SD cards and USB drives. 🪟 🍎 🐧 [🟢](https://github.com/balena-io/etcher)
 - [Meander](https://everydays.tools/meander) - AI voice-to-text dictation with a free tier: push-to-talk, AI cleanup, and speak-one-language-output-another translation, with native Linux support. 🪟 🐧
-- [Burrete](https://burrete-landing.vercel.app) - Molecular file workspace with Finder Quick Look previews, Mol* 3D, and chemistry grids. 🍎 [🟢](https://github.com/SergeiNikolenko/Burrete)
+- [Burrete](https://burrete-landing.vercel.app) - Molecular file workspace with Finder Quick Look previews, Mol\* 3D, and chemistry grids. 🍎 [🟢](https://github.com/SergeiNikolenko/Burrete)
 - [Off Grid AI Desktop](https://getoffgridai.co/desktop) - Local AI suite for Mac: chat, image generation, dictation, and memory search, all on-device with no account. 🍎 [🟢](https://github.com/off-grid-ai/off-grid-ai-desktop)
 - [Core-Monitor](https://offyotto.github.io/Core-Monitor/) - Apple Silicon system monitor showing CPU, GPU, memory, battery, power, temperatures, storage, and fan data with optional fan control. 🍎 [🟢](https://github.com/offyotto/Core-Monitor)
 - [AI Dictation](https://aidictation.com) - Voice-to-text with configurable shortcuts, offline recognition on supported devices, and optional cloud transcription and cleanup. 🪟 🍎 [🟢](https://github.com/writingmate/aidictation)
@@ -736,7 +736,7 @@
 - [CopyQ](https://hluk.github.io/CopyQ) - Clipboard manager with editing and scripting features. 🪟 🍎 🐧 🟢
 - [Diodon](https://github.com/diodon-dev/diodon) - Simple and minimal clipboard manager. 🐧 🟢
 - [Ditto](https://ditto-cp.sourceforge.io) - Advanced clipboard manager with extended functionality for Windows. 🪟
-- [EcoPaste](https://github.com/EcoPasteHub/EcoPaste) - Cross-platform modern clipboard management tool.  🪟 🍎 🐧 🟢
+- [EcoPaste](https://github.com/EcoPasteHub/EcoPaste) - Cross-platform modern clipboard management tool. 🪟 🍎 🐧 🟢
 - [Maccy](https://maccy.app) - Minimal clipboard manager. 🍎 🟢
 - [Parcellite](https://parcellite.sourceforge.io) - Basic clipboard manager. 🐧
 - [Qopy](https://github.com/0pandadev/qopy) - Minimalist clipboard manager with unique features. 🪟 🍎 🐧 🟢
@@ -749,7 +749,6 @@
 - [Metadata++](https://metadata.en.softonic.com) - View, edit, and remove metadata from files and photos. 🪟
 - [MP3Tag](https://mp3tag.de/en) - Edit and manage metadata for audio files. 🪟
 - [PhotoME](https://photome.de) - View and edit EXIF metadata for photos. 🪟
-
 
 ### Window Management
 
@@ -821,3 +820,7 @@
 - [MiddleDrag](https://middledrag.app) - Three-finger trackpad gestures for middle-click and middle-drag on macOS. 🍎 [🟢](https://github.com/NullPointerDepressiveDisorder/MiddleDrag)
 - [LinearMouse](https://linearmouse.app) - Mouse and trackpad utility for pointer acceleration, scrolling, button mapping, and per-device settings. 🍎 [🟢](https://github.com/linearmouse/linearmouse)
 - [Mos](https://mos.caldis.me) - Mouse utility for smooth scrolling and independent scroll direction settings on macOS. 🍎 [🟢](https://github.com/Caldis/Mos)
+
+### Keyboard Management
+
+- [Nocturne](https://gabriele-rizzo.github.io/Nocturne) - Keyboard utility to help you schedule backlight activation. 🍎 [🟢](https://github.com/gabriele-rizzo/Nocturne)

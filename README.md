@@ -265,6 +265,7 @@
 - [WezTerm](https://wezterm.org) - GPU-accelerated terminal emulator and multiplexer with tabs, panes, SSH, and Lua configuration. 🪟 🍎 🐧 [🟢](https://github.com/wezterm/wezterm)
 - [Tura](https://turaai.net/) - Build agent that uses 80% less token and delivers better results. 🪟 🍎 🐧 [🟢](https://github.com/Tura-AI/tura)
 - [DevProjex](https://github.com/Avazbek22/DevProjex) - Build structured, token-counted project context with visual file selection, Smart Ignore, preview, and multiple output formats.    🪟 🍎 🐧 [🟢](https://github.com/Avazbek22/DevProjex)
+- [Nexus Shell](https://nexusshell.app/?utm_source=github&utm_medium=directory&utm_campaign=awesome-free-apps) - Native macOS SSH workspace with multi-tab terminals, dual-pane file transfer, server monitoring, and Docker controls. 🍎
 
 ### API Development
 

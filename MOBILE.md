@@ -351,6 +351,10 @@
 - [LogZero](https://logzero.app) - Privacy-first habit and health tracker with mood, medication, food, exercise, and weight logs, plus on-device correlation insights. No account, no ads, no trackers. 🍎
 - [SproutGuard](https://apps.apple.com/us/app/sproutguard-screen-time-detox/id6768664921) - Screen time blocker for adults using Apple Screen Time, with scheduled blocks, loophole-resistant website blocking, and no account or cloud. 🍎
 
+## Sports
+
+- [Matchday Passport](https://apps.apple.com/us/app/matchday-passport/id6792546917) - Turn every football match you attend into a collectible passport stamp, with photos, video and a feed of fellow fans. No ads and no tracking. 🍎
+
 ## Utility
 
 - [AI Dictation](https://aidictation.com) - Voice-to-text through an iOS keyboard or Android floating microphone, with offline recognition on supported devices and optional cloud transcription and cleanup. 🤖 🍎 [🟢](https://github.com/writingmate/aidictation)

@@ -812,6 +812,7 @@
 - [Shutter](https://launchpad.net/shutter) - Feature-rich screenshot tool for Linux with an integrated editor for quick annotations. 🐧
 - [Snipaste](https://snipaste.com) - Free, Customizable, Portable snipping tool.
 - [Keyty](https://keyty.app) - Keyboard and mouse visualizer that displays your keystrokes and clicks in real time for demos, recordings, and livestreams. 🍎 [🟢](https://github.com/keytyapp/Keyty)
+- [capkiku](https://capkiku.com) - Menu-bar OCR for macOS that captures any screen region to reviewed Markdown on-device, with no account. 🍎
 
 ### Space Visualizer
 

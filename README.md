@@ -82,3 +82,20 @@
   - [Trackpad](#trackpad)
 
 <!-- AF-END -->
+
+## Audio
+
+- [FXSound](https://fxsound.com) - Boost sound quality, volume, and bass. Has a beautiful modern UI. 🪟 🟢 ⭐
+- [JACK Audio](https://jackaudio.org) - Audio server for routing and mixing sound between programs. 🪟 🍎 🐧
+- [EarTrumpet](https://eartrumpet.app) - Advanced volume control for Windows, offering app-specific audio management. 🪟
+- [Ambie](https://github.com/jenius-apps/ambie) - Use white noise, nature sounds, & more to boost your productivity. 🪟 🟢
+- [BlackHole](https://github.com/ExistentialAudio/BlackHole) - Virtual audio loopback driver for routing audio between macOS applications. 🍎 🟢
+- [BluetoothHandsFreeToggle](https://github.com/Avazbek22/BluetoothHandsFreeToggle) - Fixes Bluetooth headsets stuck in low-quality Hands-Free mode. 🪟 [🟢](https://github.com/Avazbek22/BluetoothHandsFreeToggle)
+
+### Audio Players
+
+- [Foobar2000](https://foobar2000.org) - Lightweight and highly customizable audio player with support for many formats. 🪟 🍎 ⭐
+- [Audacious](https://github.com/audacious-media-player/audacious) - Lightweight audio player for simple music playback. 🪟 🐧 🟢
+- [Karafun](https://karafun.com) - Collection of karaoke songs across multiple genres. Play your own CDG files or use downloads from YouTube. 🪟
+- [MusicBee](https://getmusicbee.com) - Feature-rich music player and manager. 🪟
+- [Strawberry Music Player](https://strawberrymusicplayer.org) - Music player for organizing and playing your audio collection. 🪟 🍎 🐧

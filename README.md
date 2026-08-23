@@ -757,6 +757,7 @@
 - [Metadata++](https://metadata.en.softonic.com) - View, edit, and remove metadata from files and photos. 🪟
 - [MP3Tag](https://mp3tag.de/en) - Edit and manage metadata for audio files. 🪟
 - [PhotoME](https://photome.de) - View and edit EXIF metadata for photos. 🪟
+- [MetaClean](https://github.com/Moresyl/metaclean) - Offline desktop app for inspecting and removing metadata from images, Office documents, PDFs, and text files. 🪟 🍎 🐧 [🟢](https://github.com/Moresyl/metaclean)
 
 
 ### Window Management

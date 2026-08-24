@@ -350,6 +350,8 @@
 - [Euki](https://eukiapp.org) - Privacy-first period tracker with sexual health resources and local-only data storage. 🤖 🍎 [🟢](https://github.com/Euki-Inc/Euki-Android)
 - [LogZero](https://logzero.app) - Privacy-first habit and health tracker with mood, medication, food, exercise, and weight logs, plus on-device correlation insights. No account, no ads, no trackers. 🍎
 - [SproutGuard](https://apps.apple.com/us/app/sproutguard-screen-time-detox/id6768664921) - Screen time blocker for adults using Apple Screen Time, with scheduled blocks, loophole-resistant website blocking, and no account or cloud. 🍎
+- [Rasora](https://www.myrasora.com) - Import any recipe from TikTok, Instagram, or the web and get real, ingredient-level nutrition — never estimated. 🤖 🍎
+
 
 ## Sports
 

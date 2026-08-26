@@ -234,7 +234,7 @@
 - [AnyPDF](https://play.google.com/store/apps/details?id=com.mobileups.anypdf) - Fast, ad-light PDF reader and viewer for Android. 🤖
 - [PDF to Word](https://play.google.com/store/apps/details?id=com.mobileups.pdftowordconverter) - Convert PDF documents to editable Word files on-device. 🤖
 - [DocLens Pro](https://play.google.com/store/apps/details?id=com.mobileups.doclenspro) - Scan documents and run OCR to extract text from images and PDFs. 🤖
-- [ScanTo Pro](https://apps.apple.com/us/app/scanto-pro-offline-pdf-ocr/id6779977651) - Document scanner with on-device OCR, offline full-text search and password-protected PDF export. No account and no network required. The free tier covers one scan and leaves a watermark; a one-time unlock removes both and adds OCR text export. 🍎
+- [ScanTo Pro](https://apps.apple.com/us/app/scanto-pro-offline-pdf-ocr/id6779977651) - Document scanner with on-device OCR, offline full-text search and password-protected PDF export. No account and no network required. The free tier covers three scans and watermarks every export; a one-time unlock removes both and adds OCR text export. 🍎
 
 ## Note Taking
 

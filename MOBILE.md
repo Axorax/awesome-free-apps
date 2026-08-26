@@ -234,7 +234,7 @@
 - [AnyPDF](https://play.google.com/store/apps/details?id=com.mobileups.anypdf) - Fast, ad-light PDF reader and viewer for Android. 🤖
 - [PDF to Word](https://play.google.com/store/apps/details?id=com.mobileups.pdftowordconverter) - Convert PDF documents to editable Word files on-device. 🤖
 - [DocLens Pro](https://play.google.com/store/apps/details?id=com.mobileups.doclenspro) - Scan documents and run OCR to extract text from images and PDFs. 🤖
-- [ScanTo Pro](https://apps.apple.com/us/app/scanto-pro-offline-pdf-ocr/id6779977651) - Document scanner with on-device OCR, offline full-text search and password-protected PDF export. No account and no network required; free to start, with an optional one-time unlock for unlimited scans. 🍎
+- [ScanTo Pro](https://apps.apple.com/us/app/scanto-pro-offline-pdf-ocr/id6779977651) - Document scanner with on-device OCR, offline full-text search and password-protected PDF export. No account and no network required. The free tier covers one scan and leaves a watermark; a one-time unlock removes both and adds OCR text export. 🍎
 
 ## Note Taking
 
@@ -260,7 +260,7 @@
 
 - [BeeCount](https://github.com/TNT-Likely/BeeCount/blob/main/README_EN.md) - Privacy-first cross-platform expense tracker with self-hostable cloud sync (BeeCount Cloud, iCloud, Supabase, WebDAV, S3) and offline-first design. 🤖 🍎
 - [Recurred](https://gozman.space/apps/recurred) - Subscription and recurring payment tracker for iPhone and iPad with local storage and iCloud sync. No account required. 🍎
-- [MoneyTag](https://apps.apple.com/us/app/moneytag-income-expense/id6801956402) - Project-based income and expense ledger where each project keeps its own currency and net result, with tags that total across projects. Free for one project, with an optional one-time Lifetime Pro purchase. 🍎
+- [MoneyTag](https://apps.apple.com/us/app/moneytag-income-expense/id6801956402) - Project-based income and expense ledger where each project keeps its own currency and net result, with tags that total across projects. Free tier covers one project and five entries; a one-time Lifetime Pro purchase lifts both and adds cross-project tag analysis and export. 🍎
 - [HoursTag Lite](https://apps.apple.com/us/app/hourstag-lite/id6794039979) - Converts prices into the work hours they cost, sorts spending into need, want and impulse, and tracks savings goals, with a widget and an Apple Watch app. Stored on device; one-time purchase for unlimited entries. 🍎
 
 ## Download Managers

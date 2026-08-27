@@ -692,6 +692,7 @@
 - [v2rayN](https://github.com/2dust/v2rayN) - Open source GUI for Xray and Sing-box. 🪟 🍎 🐧 🟢
 - [WireGuard](https://wireguard.com) - Fast, secure VPN protocol designed for simplicity. 🪟 🍎 🐧 [🟢](https://www.wireguard.com/repositories)
 - [Tailscale](https://tailscale.com) - Mesh VPN client for secure private networks using WireGuard. 🪟 🍎 🐧
+- [Noctis](https://noctis.c0nn3ct.info) - Browser-only proxy for Chrome over VLESS Reality, VMess, Trojan, Shadowsocks, Hysteria2, TUIC or WireGuard, driven by a local sing-box, Xray or mihomo core. 🪟 🍎 🐧
 
 ## Utility
 

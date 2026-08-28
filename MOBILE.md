@@ -350,6 +350,7 @@
 - [Euki](https://eukiapp.org) - Privacy-first period tracker with sexual health resources and local-only data storage. 🤖 🍎 [🟢](https://github.com/Euki-Inc/Euki-Android)
 - [LogZero](https://logzero.app) - Privacy-first habit and health tracker with mood, medication, food, exercise, and weight logs, plus on-device correlation insights. No account, no ads, no trackers. 🍎
 - [SproutGuard](https://apps.apple.com/us/app/sproutguard-screen-time-detox/id6768664921) - Screen time blocker for adults using Apple Screen Time, with scheduled blocks, loophole-resistant website blocking, and no account or cloud. 🍎
+- [Mood Tracker: Feelings Diary](https://apps.apple.com/app/id6446820066) - Write a vent in your own words and the app tags the feeling behind it, in any of 39 languages. Past entries stay readable for free, forever. 🍎
 
 ## Sports
 

@@ -198,6 +198,7 @@
 - [Network Analyzer](https://apps.apple.com/us/app/network-analyzer/id562315041) - Diagnose Wi-Fi and network problems with detailed insights. 🍎
 - [NetMonster](https://play.google.com/store/apps/details?id=cz.mroczis.netmonster) - Displays detailed information about cellular networks. 🤖
 - [Moni Proxy](https://moniproxy.com) - Capture, inspect, mock, and replay HTTPS API traffic directly on your device. 🤖 🍎
+- [WiFi Aid Lite](https://apps.apple.com/us/app/wifi-aid-lite-network-check/id6793414462) - Diagnoses Wi-Fi, DNS and internet faults with DNS, TCP, TLS, TTFB, HTTP and IPv4/IPv6 evidence plus stability sampling. Each tool includes one free complete run, with an optional one-time unlock for unlimited use. 🍎
 
 ### Game Engines
 
@@ -233,6 +234,7 @@
 - [AnyPDF](https://play.google.com/store/apps/details?id=com.mobileups.anypdf) - Fast, ad-light PDF reader and viewer for Android. 🤖
 - [PDF to Word](https://play.google.com/store/apps/details?id=com.mobileups.pdftowordconverter) - Convert PDF documents to editable Word files on-device. 🤖
 - [DocLens Pro](https://play.google.com/store/apps/details?id=com.mobileups.doclenspro) - Scan documents and run OCR to extract text from images and PDFs. 🤖
+- [ScanTo Pro](https://apps.apple.com/us/app/scanto-pro-offline-pdf-ocr/id6779977651) - Document scanner with on-device OCR, offline full-text search and password-protected PDF export. No account and no network required. The free tier covers three scans and watermarks every export; a one-time unlock removes both and adds OCR text export. 🍎
 
 ## Note Taking
 
@@ -244,6 +246,8 @@
 - [不拖 (Butuo)](https://apps.apple.com/app/id6761042128) - Minimalist to-do app with local-only storage. No account, no server, no sync. Free. 🍎
 - [Notely Voice](https://github.com/tosinonikute/NotelyVoice) - 100% private notes and free AI voice-to-text transcription. [🟢](https://github.com/tosinonikute/NotelyVoice)
 - [DailyVox](https://getdailyvox.com) - Free AI voice diary with on-device transcription, mood tracking, and Digital Twin. No cloud, no accounts. 🍎 [🟢](https://github.com/intrepidkarthi/dailyvox)
+- [Sono Note](https://apps.apple.com/us/app/sono-note/id6782139553) - Turns voice recordings into a tidy note with a summary, key points and action items, exportable as text, Markdown or PDF. Free for 3 notes a day, with an optional one-time unlock. 🍎
+- [100 Notes Studio](https://apps.apple.com/us/app/100-notes-studio-pen-paper/id6798813048) - Offline notebook for handwriting and typed notes with 29 pens and brushes, PDF markup, page-attached audio and handwriting search. Free tier covers one notebook and 2 of the 100 styles, with an optional one-time upgrade. 🍎
 
 ## Text Editors
 
@@ -256,6 +260,8 @@
 
 - [BeeCount](https://github.com/TNT-Likely/BeeCount/blob/main/README_EN.md) - Privacy-first cross-platform expense tracker with self-hostable cloud sync (BeeCount Cloud, iCloud, Supabase, WebDAV, S3) and offline-first design. 🤖 🍎
 - [Recurred](https://gozman.space/apps/recurred) - Subscription and recurring payment tracker for iPhone and iPad with local storage and iCloud sync. No account required. 🍎
+- [MoneyTag](https://apps.apple.com/us/app/moneytag-income-expense/id6801956402) - Project-based income and expense ledger where each project keeps its own currency and net result, with tags that total across projects. Free tier covers one project and five entries; a one-time Lifetime Pro purchase lifts both and adds cross-project tag analysis and export. 🍎
+- [HoursTag Lite](https://apps.apple.com/us/app/hourstag-lite/id6794039979) - Converts prices into the work hours they cost, sorts spending into need, want and impulse, and tracks savings goals, with a widget and an Apple Watch app. Stored on device; one-time purchase for unlimited entries. 🍎
 
 ## Download Managers
 
@@ -271,6 +277,7 @@
 - [Pixlr](https://pixlr.com) - Photo editor with advanced features like layers and effects. 🤖 🍎
 - [Snapseed](https://support.google.com/snapseed) - Powerful photo editing app with fine-tuning tools. 🤖 🍎
 - [Adobe Express](https://www.adobe.com/express) - Create graphics and collages with Adobe’s design tools. 🤖 🍎
+- [Snapport Lite](https://apps.apple.com/us/app/snapport-lite/id6792856304) - Makes passport, visa and ID photos with guided face alignment, background tools and print-ready single or sheet export. Runs offline with on-device face detection; free version allows one export, with a one-time purchase for more. 🍎
 
 ## 3D Modeling and Animation
 
@@ -350,6 +357,8 @@
 - [Euki](https://eukiapp.org) - Privacy-first period tracker with sexual health resources and local-only data storage. 🤖 🍎 [🟢](https://github.com/Euki-Inc/Euki-Android)
 - [LogZero](https://logzero.app) - Privacy-first habit and health tracker with mood, medication, food, exercise, and weight logs, plus on-device correlation insights. No account, no ads, no trackers. 🍎
 - [SproutGuard](https://apps.apple.com/us/app/sproutguard-screen-time-detox/id6768664921) - Screen time blocker for adults using Apple Screen Time, with scheduled blocks, loophole-resistant website blocking, and no account or cloud. 🍎
+- [Cyca](https://apps.apple.com/us/app/cyca-period-cycle-tracker/id6782251621) - Period and cycle tracker for flow, symptoms and moods that keeps all data on device with no account or cloud. Logging is free, with an optional one-time unlock for predictions and full calendar history. 🍎
+- [Sereno](https://apps.apple.com/us/app/sereno-sleep-sounds/id6788236641) - Sleep and focus sound machine that synthesizes rain, ocean, wind, fire and colored noise live on device so mixes never loop, with a fading sleep timer. Works offline; an optional one-time purchase unlocks every sound and unlimited layers. 🍎
 
 ## Sports
 
@@ -358,6 +367,7 @@
 ## Utility
 
 - [AI Dictation](https://aidictation.com) - Voice-to-text through an iOS keyboard or Android floating microphone, with offline recognition on supported devices and optional cloud transcription and cleanup. 🤖 🍎 [🟢](https://github.com/writingmate/aidictation)
+- [CalDaily](https://apps.apple.com/us/app/caldaily-calculator-themes/id6794178671) - Calculator that keeps every result as named, searchable history grouped by day with CSV export, plus tax, tip and split, unit conversion, date difference, loan and fuel-cost tools. One theme is free, with a one-time purchase to unlock the rest. 🍎
 
 ### Clipboard Management
 
@@ -370,6 +380,7 @@
 - [Exif Pilot](https://www.exifpilot.com) - View and edit metadata for images, videos, and audio files. 🤖 🍎
 - [Metapho](https://apps.apple.com/us/app/metapho/id979247655) - View, edit, and remove metadata from images. 🍎
 - [Photo Exif Editor](https://play.google.com/store/apps/details?id=com.flq.phototool) - Edit and remove EXIF data from photos. 🤖
+- [Mask My File](https://apps.apple.com/us/app/mask-my-file/id6792850916) - Permanently redacts private details in images, PDFs and text formats such as JSON, CSV and HTML, and strips metadata where the format allows. Runs entirely on device; optional one-time unlock for unlimited outputs and batch processing. 🍎
 
 ### Window Management
 

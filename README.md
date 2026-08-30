@@ -397,6 +397,10 @@
 - [PDFluent](https://pdfluent.com/download/) - Offline PDF editor for forms, OCR, redaction, signatures, conversion, and page management on Windows and macOS. 🪟 🍎
 - [OffPDF](https://offpdf.com) - Private, offline PDF toolbox for organizing, converting, compressing, OCR, and more. 🪟 🍎 [🟢](https://github.com/McanKul/offpdf)
 
+## Finance
+
+- [Recurred](https://gozman.space/apps/recurred) - Subscription and recurring payment tracker with local storage and iCloud sync. No account required. 🍎
+
 ## Note Taking
 
 - [Inkless](https://github.com/Axorax/inkless) - Minimal, shortcut based app to take notes and use for light coding. 🪟 [🟢](https://github.com/Axorax/inkless) ⭐

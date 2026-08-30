@@ -399,6 +399,7 @@
 - [PDFluent](https://pdfluent.com/download/) - Offline PDF editor for forms, OCR, redaction, signatures, conversion, and page management on Windows and macOS. 🪟 🍎
 - [OffPDF](https://offpdf.com) - Private, offline PDF toolbox for organizing, converting, compressing, OCR, and more. 🪟 🍎 [🟢](https://github.com/McanKul/offpdf)
 - [AccuPDF](https://accupdf.com) - Browser-based PDF suite to merge, split, compress, OCR, convert, fill forms, and redact, all client-side so your files never leave your device. 🪟 🍎 🐧
+- [DocuNest](https://docunest.app) - Private offline PDF editor for merging, converting, compressing, signing, watermarking, editing, and managing PDF files. 🪟 🍎 🐧
 
 ## Finance
 

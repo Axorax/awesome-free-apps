@@ -245,6 +245,10 @@
 - [Notely Voice](https://github.com/tosinonikute/NotelyVoice) - 100% private notes and free AI voice-to-text transcription. [🟢](https://github.com/tosinonikute/NotelyVoice)
 - [DailyVox](https://getdailyvox.com) - Free AI voice diary with on-device transcription, mood tracking, and Digital Twin. No cloud, no accounts. 🍎 [🟢](https://github.com/intrepidkarthi/dailyvox)
 
+## Education
+
+- [LearnClash](https://learnclash.com) - Competitive learning app with 1v1 quiz duels on any topic, skill-based matchmaking and built-in spaced repetition. Free daily duels, no ads. 🤖 🍎
+
 ## Text Editors
 
 - [QuickEdit](https://play.google.com/store/apps/details?id=com.rhmsoft.edit) - Lightweight text editor for coding with syntax highlighting. 🤖

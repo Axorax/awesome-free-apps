@@ -1,5 +1,5 @@
 const fs = require('fs');
-const { execSync, spawn } = require('child_process');
+const { execSync } = require('child_process');
 
 function create(file, fileName, emoji) {
   const startTime = Date.now();
@@ -75,8 +75,7 @@ function format(file = "README.md") {
  */
 function getLinks(file = "README.md") {
   const data = fs.readFileSync(file, "utf8");
-  const links = data.match(/\[.*?\]\(https?:\/\/.*?\)/g) || [];
-  return links.map((url) => url.split("(").at(-1).slice(0, -1));
+  return Array.from(data.matchAll(/\[[^\]]*\]\((https?:\/\/[^)\s]+)\)/g), (match) => match[1]);
 }
 
 /** Print the amount of links in a given file */
@@ -85,40 +84,48 @@ function countLinks(file = "README.md") {
   console.log(`Total links in ${file}: \x1b[32m${linkCount}\x1b[0m`);
 }
 
-/**
- * DEPENDENCY: curl
- * @param {any} url string
- * @returns {Promise} test if a given url is reachable in 3 seconds
- */
-function testUrl(url) {
-  return new Promise((resolve, reject) => {
-    const script = spawn("curl", ["-Is", "--connect-timeout", "3", url]);
-    let output = "";
-    let errorOutput = "";
-
-    script.stdout.on("data", (data) => {
-      output += data.toString();
-    });
-
-    script.stderr.on("data", (data) => {
-      errorOutput += data.toString();
-    });
-
-    script.on("close", (code) => {
-      if (code === 0) {
-        // console.log(url, "is valid");
-        resolve(output);
-      } else {
-        console.log(url, "is not reachable");
-        reject(errorOutput);
-      }
-    });
-
-    script.on("error", (err) => {
-      console.log(url, "failed to execute");
-      reject(err);
-    });
+async function testUrl(url, { fetchImpl = fetch, timeoutMs = 10000 } = {}) {
+  const request = (method) => fetchImpl(url, {
+    method,
+    redirect: "follow",
+    headers: { "user-agent": "awesome-free-apps-link-audit/1.0" },
+    signal: AbortSignal.timeout(timeoutMs),
   });
+
+  try {
+    let response = await request("HEAD");
+    if (!response.ok) {
+      response = await request("GET");
+    }
+
+    return { url, ok: response.ok, status: response.status };
+  } catch (error) {
+    return {
+      url,
+      ok: false,
+      error: error instanceof Error ? error.message : String(error),
+    };
+  }
+}
+
+async function mapWithConcurrency(items, concurrency, worker) {
+  if (!Number.isInteger(concurrency) || concurrency < 1) {
+    throw new TypeError("concurrency must be a positive integer");
+  }
+
+  const results = new Array(items.length);
+  let nextIndex = 0;
+
+  async function runWorker() {
+    while (nextIndex < items.length) {
+      const index = nextIndex++;
+      results[index] = await worker(items[index], index);
+    }
+  }
+
+  const workerCount = Math.min(concurrency, items.length);
+  await Promise.all(Array.from({ length: workerCount }, runWorker));
+  return results;
 }
 
 /**
@@ -126,25 +133,36 @@ function testUrl(url) {
  * @param {string} file
  * @returns {Promise}
  */
-function testLinksReachable(file = "README.md") {
-  console.log(`Testing links in \x1b[32m${file}\x1b[0m`);
+async function testLinksReachable(
+  file = "README.md",
+  { concurrency = 12, testUrlImpl = testUrl } = {},
+) {
+  const links = [...new Set(getLinks(file))];
+  console.log(`Testing ${links.length} unique links in \x1b[32m${file}\x1b[0m`);
 
-  const promises = getLinks(file).map(async (url) => {
-    try {
-      await testUrl(url);
-    } catch (_) {}
-  });
+  const results = await mapWithConcurrency(links, concurrency, testUrlImpl);
+  const failures = results.filter((result) => !result.ok);
 
-  return Promise.all(promises);
+  for (const failure of failures) {
+    const reason = failure.status ? `HTTP ${failure.status}` : failure.error;
+    console.error(`- ${failure.url} (${reason || "request failed"})`);
+  }
+
+  console.log(
+    `${file}: ${results.length - failures.length}/${results.length} links reachable`,
+  );
+  return { file, total: results.length, failures };
 }
 
-async function testLinksInAllFiles() {
-  try {
-    await testLinksReachable("README.md");
-    await testLinksReachable("MOBILE.md");
-  } catch (error) {
-    console.error("An error occurred:", error);
-  }
+async function testLinksInAllFiles(options) {
+  const reports = [];
+  reports.push(await testLinksReachable("README.md", options));
+  reports.push(await testLinksReachable("MOBILE.md", options));
+
+  const total = reports.reduce((sum, report) => sum + report.total, 0);
+  const failures = reports.flatMap((report) => report.failures);
+  console.log(`Link audit complete: ${total - failures.length}/${total} reachable`);
+  return { total, failures, reports };
 }
 
 
@@ -248,38 +266,57 @@ function formatFiles() {
   format("MOBILE.md");
 }
 
-const args = process.argv.slice(2);
-
-if (args.includes('--analyze')) {
-  analyze("README.md");
-  analyze("MOBILE.md");
-} else if (args.includes('--toc')) {
-  createToC();
-} else if (args.includes('--categorize')) {
-  categorize();
-} else if (args.includes('--format')) {
-  formatFiles();
-} else if (args.includes('--links')) {
-  countLinks("README.md");
-  countLinks("MOBILE.md");
-} else if (args.includes('--fastgit')) {
-  const commitMessage = args.slice(1).join(' ');
-  if (commitMessage) {
-    fastGit(commitMessage);
+function main(args = process.argv.slice(2)) {
+  if (args.includes('--analyze')) {
+    analyze("README.md");
+    analyze("MOBILE.md");
+  } else if (args.includes('--toc')) {
+    createToC();
+  } else if (args.includes('--categorize')) {
+    categorize();
+  } else if (args.includes('--format')) {
+    formatFiles();
+  } else if (args.includes('--links')) {
+    countLinks("README.md");
+    countLinks("MOBILE.md");
+  } else if (args.includes('--fastgit')) {
+    const commitMessage = args.slice(1).join(' ');
+    if (commitMessage) {
+      fastGit(commitMessage);
+    } else {
+      console.log('Please provide a commit message after --fastgit');
+    }
+  } else if (args.includes('--all')) {
+    runAll();
+  } else if (args.includes('--test-links')) {
+    testLinksInAllFiles()
+      .then(({ failures }) => {
+        if (failures.length > 0) process.exitCode = 1;
+      })
+      .catch((error) => {
+        console.error("Link audit failed:", error);
+        process.exitCode = 1;
+      });
   } else {
-    console.log('Please provide a commit message after --fastgit');
+    console.log("Usage:");
+    console.log("  node index.js --categorize     Categorize based on icons");
+    console.log("  node index.js --format         Format README.md");
+    console.log("  node index.js --links          Count and display total links in README.md");
+    console.log("  node index.js --fastgit <msg>  Run git commands with the specified commit message");
+    console.log("  node index.js --analyze        Print some info about README.md");
+    console.log("  node index.js --toc            Update the table of contents");
+    console.log("  node index.js --all            Run all the commands (format, categorize, links)");
   }
-} else if (args.includes('--all')) {
-  runAll();
-} else if (args.includes('--test-links')) {
-  testLinksInAllFiles()
-} else {
-  console.log("Usage:");
-  console.log("  node index.js --categorize     Categorize based on icons");
-  console.log("  node index.js --format         Format README.md");
-  console.log("  node index.js --links          Count and display total links in README.md");
-  console.log("  node index.js --fastgit <msg>  Run git commands with the specified commit message");
-  console.log("  node index.js --analyze        Print some info about README.md");
-  console.log("  node index.js --toc            Update the table of contents");
-  console.log("  node index.js --all            Run all the commands (format, categorize, links)");
 }
+
+if (require.main === module) {
+  main();
+}
+
+module.exports = {
+  getLinks,
+  mapWithConcurrency,
+  testLinksInAllFiles,
+  testLinksReachable,
+  testUrl,
+};

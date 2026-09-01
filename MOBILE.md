@@ -296,7 +296,7 @@
 ## Image Viewers
 
 - [Photo Map](https://play.google.com/store/apps/details?id=com.bischofs.photoviewer) - Displays images in a map view based on geotags. 🤖
-- [Simple Gallery](https://simplemobiletools.com/gallery) - Lightweight image viewer with sorting and editing options. 🤖 🟢
+- [Fossify Gallery](https://www.fossify.org/apps/gallery) - Privacy-focused photo and video gallery with editing, metadata removal, and protected folders. 🤖 [🟢](https://github.com/FossifyOrg/Gallery)
 - [A+ Gallery](https://play.google.com/store/apps/details?id=com.atomicadd.filedir) - Organize and view photos by date, location, and albums. 🤖
 - [Google Photos](https://photos.google.com) - Manage and sync photos with powerful search and cloud backup. 🤖 🍎
 

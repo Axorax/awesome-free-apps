@@ -156,6 +156,7 @@
 - [Mullvad Browser](https://mullvad.net/en/download/browser) - Privacy browser with Tor, anti-fingerprinting, and Mullvad VPN. 🪟 🍎 🐧 [🟢](https://github.com/mullvad/mullvad-browser)
 - [Vivaldi](https://vivaldi.com) - Customizable browser putting you in control. 🪟 🍎 🐧
 - [Zen Browser](https://zen-browser.app) - Beautifully designed, privacy-focused browser with custom mods. 🪟 🍎 🐧 [🟢](https://github.com/zen-browser/desktop)
+- [Dao Browser](https://dao.msgbyte.com) - Chromium-based browser with an Arc-style vertical sidebar, content-first UI, BYOK AI agent, and MCP support. 🍎 [🟢](https://github.com/msgbyte/dao-browser)
 
 ## Communication
 

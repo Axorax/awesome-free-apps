@@ -401,6 +401,7 @@
 
 ## Finance
 
+- [CardDeals](https://carddeals.co) - Discount gift card comparison platform and browser extension that automatically finds verified savings across 1,000+ top retailers. 🪟 🍎 🐧
 - [Recurred](https://gozman.space/apps/recurred) - Subscription and recurring payment tracker with local storage and iCloud sync. No account required. 🍎
 
 ## Note Taking

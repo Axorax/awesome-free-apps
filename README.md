@@ -458,6 +458,7 @@
 - [VSCodium](https://vscodium.com) - Community-built VS Code binaries without Microsoft branding, telemetry, or licensing changes. 🪟 🍎 🐧 [🟢](https://github.com/VSCodium/vscodium)
 - [MarkEdit](https://github.com/MarkEdit-app/MarkEdit) - Native Markdown editor for macOS with a TextEdit-like workflow and local-file editing. 🍎 🟢
 - [Cate](https://cate.cero-ai.com) - Code editor on an infinite zoomable canvas where editors, terminals, browsers, and AI agent panels float in a spatial workspace, with docking, detachable windows, and per-project layout persistence. 🪟 🍎 🐧 [🟢](https://github.com/0-AI-UG/cate)
+- [AI Novel Writer](https://www.orz.md/ai-novel-writer/) - Organizes characters, worldbuilding, outlines, chapters, review, and revision for long-form fiction, with Ollama support. 🪟 🍎 [🟢](https://github.com/EthanYoQ/AI-Novel-Writer)
 
 ## Download Managers
 

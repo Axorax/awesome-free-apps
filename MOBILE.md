@@ -180,6 +180,7 @@
 ## Developer Tools
 
 - [Termux](https://termux.dev) - Terminal emulator with Linux packages for development. 🤖 🟢
+- [Mobile SSH](https://mobile-ssh.github.io) - SSH, SFTP, and terminal client with multi-session terminals, a tmux manager, and port forwarding. 🤖 🍎
 
 ### API Development
 

@@ -356,6 +356,7 @@
 - [SproutGuard](https://apps.apple.com/us/app/sproutguard-screen-time-detox/id6768664921) - Screen time blocker for adults using Apple Screen Time, with scheduled blocks, loophole-resistant website blocking, and no account or cloud. 🍎
 - [ER Wait Times Quebec](https://apps.apple.com/ca/app/er-wait-times-quebec-hospital/id6801629280) - Occupancy, waiting-room headcount and average stay for all 120 Quebec emergency rooms, refreshed every 15 minutes, with the nearest-ER math done on the phone. 🍎
 - [Frankly](https://apps.apple.com/us/app/frankly-cards-for-connection/id6784455025) - Conversation card decks for couples, friends and family, swiped one at a time with a follow-up question behind each card. Works offline, no account, answers stay on device. 🍎
+- [Question Cards](https://questioncards.app) - Free conversation cards for couples, first dates, friends, and deep talks on iPhone and iPad. 🍎
 
 ## Sports
 

@@ -221,6 +221,7 @@
 - [SaneBar](https://sanebar.com) - Menu bar icon manager and organizer. Local-only alternative to Bartender. 🍎 [🟢](https://github.com/sane-apps/SaneBar)
 - [SaneClick](https://saneclick.com) - Finder toolbar customizer for adding quick actions. 🍎 [🟢](https://github.com/sane-apps/SaneClick)
 - [Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for hiding, arranging, and customizing menu bar items. 🍎 [🟢](https://github.com/stonerl/Thaw)
+- [nowbar](https://apps.apple.com/us/app/nowbar-album-art-menu-bar/id6798459887) - Live album art for the currently playing music, right in the menu bar. 🍎 [🟢](https://github.com/arian-shamaei/nowbar)
 
 ### Wallpaper Tools
 
@@ -293,6 +294,7 @@
 - [Beekeeper Studio](https://beekeeperstudio.io) - Modern, lightweight SQL client supporting MySQL, Postgres, SQLite, SQL Server, etc. 🪟 🍎 🐧
 - [DB Browser for SQLite](https://sqlitebrowser.org) - Visual tool for creating, browsing, and editing SQLite database files. 🪟 🍎 🐧 [🟢](https://github.com/sqlitebrowser/sqlitebrowser)
 - [DearSQL](https://dearsql.dev) - Lightweight native database client built with Dear ImGui, supporting SQL and NoSQL databases. 🪟 🍎 🐧 [🟢](https://github.com/dunkbing/dearsql)
+- [DBTool](https://codemake.co/software) - Desktop client for PostgreSQL, MySQL, MariaDB, SQLite, Oracle, and SQL Server with server-side pagination, a visual query builder, and ER diagrams. 🪟 🍎 🐧 [🟢](https://github.com/achi777/db-tool)
 
 ### Network Analysis
 
@@ -397,6 +399,10 @@
 - [PDFluent](https://pdfluent.com/download/) - Offline PDF editor for forms, OCR, redaction, signatures, conversion, and page management on Windows and macOS. 🪟 🍎
 - [OffPDF](https://offpdf.com) - Private, offline PDF toolbox for organizing, converting, compressing, OCR, and more. 🪟 🍎 [🟢](https://github.com/McanKul/offpdf)
 
+## Finance
+
+- [Recurred](https://gozman.space/apps/recurred) - Subscription and recurring payment tracker with local storage and iCloud sync. No account required. 🍎
+
 ## Note Taking
 
 - [Inkless](https://github.com/Axorax/inkless) - Minimal, shortcut based app to take notes and use for light coding. 🪟 [🟢](https://github.com/Axorax/inkless) ⭐
@@ -419,6 +425,7 @@
 - [Knopo](https://github.com/alkalim/Knopo) - Local-first outliner for plain Markdown notes with backlinks, page/block references, and graph-friendly files. 🍎 [🟢](https://github.com/alkalim/Knopo)
 - [Bangle.io](https://bangle.io) - Local-first WYSIWYG note-taking app that keeps notes as portable Markdown files. 🪟 🍎 🐧 [🟢](https://github.com/bangle-io/bangle-io)
 - [Weiyu](https://github.com/Sutera-Diffusus/WeChat-daily) - Windows desktop app that turns local WeChat messages into searchable daily briefings, with automated analysis, speech-to-text, and installer or portable builds. 🪟 [🟢](https://github.com/Sutera-Diffusus/WeChat-daily)
+- [Loofah](https://loofah.io) - Local-first meeting notetaker with on-device transcription and Markdown vault storage. 🍎 [🟢](https://github.com/bart6114/loofah)
 
 ## Text Editors
 
@@ -551,6 +558,7 @@
 - [Affinity](https://www.affinity.studio/) - Professional creative suite for photo editing, graphic design, and desktop publishing. 🪟 🍎
 - [Open Photo AI](https://github.com/vegidio/open-photo-ai) - An open source alternative to the popular photo AI editor. 🪟 🍎 🐧 🟢
 - [ItsPaint](https://itspaintmac.com/) - MS Paint for macOS: blank canvas at any size, paste one image onto another, crop, and mark up screenshots. 🍎 🟢
+- [BlockMosaic](https://mcimagetool.com) - Convert images into buildable Minecraft pixel art with block counts and schematic export. 🪟 🍎 🐧
 
 ## 3D Modeling and Animation
 
@@ -581,10 +589,12 @@
 - [Passbolt](https://passbolt.com) - Team-oriented password manager for sharing and storing passwords securely. 🪟 🍎 🐧 🟢
 - [RoboForm](https://roboform.com) - Password manager and form filler with multi-platform synchronization. 🪟 🍎 🐧
 - [ProtonPass](https://proton.me/pass) - Free password manager with end-to-end encryption based in Switzerland. 🪟 🍎 🐧 [🟢](https://github.com/protonpass)
+- [Authier](https://www.authier.pm/) - Browser-based password manager with encrypted sync, TOTP, autofill, and trusted-device approval. 🪟 🍎 🐧 [🟢](https://github.com/authier-pm/authier)
 
 ### Ad & Tracker Blocking
 
 - [SaneHosts](https://sanehosts.com) - macOS hosts file manager for system-wide ad and tracker blocking. 🍎 [🟢](https://github.com/sane-apps/SaneHosts)
+- [Holeberry](https://holeberryapp.com) - Native macOS menu bar app to monitor and control Pi-hole instances with blocking stats, timed disable, and one-click unblocking. 🍎 [🟢](https://github.com/pedrovieira/Holeberry)
 
 ## Image Viewers
 
@@ -735,10 +745,11 @@
 - [MacOSCleaner](https://github.com/AlexTkDev/MacOSCleaner) - macOS utility for cleaning caches, temporary files, app leftovers, and duplicate files, with disk analysis and app uninstallation. 🍎 🟢
 - [DueFlow](https://ustinian5.github.io/DueFlow/) - Local-first deadline planner that turns notes or OCR text into reverse schedules, checks risks, and exports calendar events. 🍎 [🟢](https://github.com/Ustinian5/DueFlow)
 - [Abendrot](https://abendrot.app) - Menu bar screen warmer that cuts blue light on every display with a sunset-based schedule. 🍎 [🟢](https://github.com/matthewrball/abendrot)
+- [LeafyApp](https://leafyapp.uk) - Menu bar vocabulary builder that reads any word on screen, saves it with the sentence around it, and quizzes you on it later. 🍎
 
 ### Clipboard Management
 
-- [Beetroot](https://max.nardit.com/beetroot) - Clipboard manager with AI text transforms and OCR extraction. 🪟
+- [Beetroot](https://max.nardit.com/beetroot) - Clipboard manager with AI text transforms and OCR extraction. 🪟 [🟢](https://github.com/mnardit/beetroot-releases)
 - [ClipAngel](https://sourceforge.net/projects/clip-angel) - Clipboard manager supporting rich text and images. 🪟
 - [Clipboard Fusion](https://clipboardfusion.com) - Clipboard manager with data transformation features. 🪟 🍎
 - [Clipy](https://clipy-app.com) - Simple clipboard manager. 🍎 🟢
@@ -779,6 +790,7 @@
 - [Niri](https://github.com/niri-wm/niri) - Scrollable-tiling Wayland compositor written in Rust. 🐧 🟢
 - [AltTab](https://alt-tab.app) - Window switcher that brings Windows-style alt-tab previews and controls to macOS. 🍎 [🟢](https://github.com/lwouis/alt-tab-macos)
 - [Waindow](https://www.waindow.app/) - Arranges and restores Mac windows, links local Markdown memos to them, captures long pages, and prevents idle sleep. 🍎
+- [Plonk](https://ostapondo.github.io/Plonk/) - Move and resize windows with custom zones, save layouts as workspaces, and take screenshots. 🍎 [🟢](https://github.com/ostapondo/Plonk)
 
 ### File Management
 
@@ -814,6 +826,7 @@
 - [Shutter](https://launchpad.net/shutter) - Feature-rich screenshot tool for Linux with an integrated editor for quick annotations. 🐧
 - [Snipaste](https://snipaste.com) - Free, Customizable, Portable snipping tool.
 - [Keyty](https://keyty.app) - Keyboard and mouse visualizer that displays your keystrokes and clicks in real time for demos, recordings, and livestreams. 🍎 [🟢](https://github.com/keytyapp/Keyty)
+- [capkiku](https://capkiku.com) - Turn a selected screen region into editable Markdown with on-device Apple Vision OCR. 🍎
 
 ### Space Visualizer
 

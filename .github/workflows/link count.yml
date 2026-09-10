@@ -1,19 +1,28 @@
-name: Link count
+name: Link audit
 
 on:
   workflow_dispatch:
+  pull_request:
+    paths:
+      - 'index.js'
+      - 'tests/index.test.js'
+      - '.github/workflows/link count.yml'
 
 jobs:
-  run-node-script:
+  test-link-auditor:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Set up Node.js
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
           node-version: '22'
 
-      - name: Run command
-        run: node index.js --links
+      - name: Run tests
+        run: node --test tests/index.test.js
+
+      - name: Audit repository links
+        if: github.event_name == 'workflow_dispatch'
+        run: node index.js --test-links

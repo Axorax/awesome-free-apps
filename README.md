@@ -748,7 +748,7 @@
 
 ### Clipboard Management
 
-- [Beetroot](https://max.nardit.com/beetroot) - Clipboard manager with AI text transforms and OCR extraction. 🪟
+- [Beetroot](https://max.nardit.com/beetroot) - Clipboard manager with AI text transforms and OCR extraction. 🪟 [🟢](https://github.com/mnardit/beetroot-releases)
 - [ClipAngel](https://sourceforge.net/projects/clip-angel) - Clipboard manager supporting rich text and images. 🪟
 - [Clipboard Fusion](https://clipboardfusion.com) - Clipboard manager with data transformation features. 🪟 🍎
 - [Clipy](https://clipy-app.com) - Simple clipboard manager. 🍎 🟢

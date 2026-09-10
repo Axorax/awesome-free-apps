@@ -403,6 +403,7 @@
 ## Finance
 
 - [Recurred](https://gozman.space/apps/recurred) - Subscription and recurring payment tracker with local storage and iCloud sync. No account required. 🍎
+- [Posnic](https://www.posnic.com/) - Offline-first POS and billing software for retail shops and restaurants. 🪟 🍎 🐧 [🟢](https://github.com/Posnic/POS)
 
 ## Note Taking
 

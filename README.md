@@ -306,6 +306,7 @@
 - [Proxie](https://proxie.app) - HTTP debugging proxy for tracking requests. 🍎
 - [Proxyman](https://proxyman.io) - Modern HTTP proxy with an intuitive UI. 🍎
 - [Sniffnet](https://sniffnet.net) - Tool for monitoring and analyzing network traffic. 🪟 🍎 🐧 [🟢](https://github.com/GyulyVGC/sniffnet)
+- [DevPeek](https://devpeek.ypgao.com) - HTTP(S) debugging proxy with mock, automatic parameter decryption, and request replay. 🪟 🍎
 
 ### Game Engines
 

@@ -275,6 +275,7 @@
 - [Pixlr](https://pixlr.com) - Photo editor with advanced features like layers and effects. 🤖 🍎
 - [Snapseed](https://support.google.com/snapseed) - Powerful photo editing app with fine-tuning tools. 🤖 🍎
 - [Adobe Express](https://www.adobe.com/express) - Create graphics and collages with Adobe’s design tools. 🤖 🍎
+- [InkCraft](https://inkcraftapp.com) - Tattoo try-on that places designs on a photo of your own body, with a 3D body model and AI design generation. 🍎
 
 ## 3D Modeling and Animation
 
@@ -356,6 +357,8 @@
 - [SproutGuard](https://apps.apple.com/us/app/sproutguard-screen-time-detox/id6768664921) - Screen time blocker for adults using Apple Screen Time, with scheduled blocks, loophole-resistant website blocking, and no account or cloud. 🍎
 - [ER Wait Times Quebec](https://apps.apple.com/ca/app/er-wait-times-quebec-hospital/id6801629280) - Occupancy, waiting-room headcount and average stay for all 120 Quebec emergency rooms, refreshed every 15 minutes, with the nearest-ER math done on the phone. 🍎
 - [SoulSync](https://play.google.com/store/apps/details?id=com.raeduslabs.soulsyncapp) - Private, offline mood tracker with a 10-point mood scale, activity correlation stats, and plain-language insights. No account, no ads, no analytics. 🤖 [🟢](https://github.com/Antimatter543/mood-tracker)
+- [Frankly](https://apps.apple.com/us/app/frankly-cards-for-connection/id6784455025) - Conversation card decks for couples, friends and family, swiped one at a time with a follow-up question behind each card. Works offline, no account, answers stay on device. 🍎
+- [Question Cards](https://questioncards.app) - Free conversation cards for couples, first dates, friends, and deep talks on iPhone and iPad. 🍎
 
 ## Sports
 

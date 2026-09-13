@@ -306,6 +306,7 @@
 - [Proxie](https://proxie.app) - HTTP debugging proxy for tracking requests. 🍎
 - [Proxyman](https://proxyman.io) - Modern HTTP proxy with an intuitive UI. 🍎
 - [Sniffnet](https://sniffnet.net) - Tool for monitoring and analyzing network traffic. 🪟 🍎 🐧 [🟢](https://github.com/GyulyVGC/sniffnet)
+- [DevPeek](https://devpeek.ypgao.com) - HTTP(S) debugging proxy with mock, automatic parameter decryption, and request replay. 🪟 🍎
 
 ### Game Engines
 
@@ -350,6 +351,7 @@
 ## Documents
 
 - [CDisplayEx](https://www.cdisplayex.com) - Lightweight comic book reader (.cbr, .cbz, .pdf, manga). 🪟
+- [InvoiceFlowAI](https://www.orz.md/invoice-downloader/) - Collects PDF, OFD, and XML invoices from QQ or 163 email, uses OCR to classify them, and exports Excel summaries for review. 🪟 🍎 [🟢](https://github.com/EthanYoQ/Invoice-Downloader)
 
 ### Office Suites
 
@@ -402,6 +404,7 @@
 ## Finance
 
 - [Recurred](https://gozman.space/apps/recurred) - Subscription and recurring payment tracker with local storage and iCloud sync. No account required. 🍎
+- [Posnic](https://www.posnic.com/) - Offline-first POS and billing software for retail shops and restaurants. 🪟 🍎 🐧 [🟢](https://github.com/Posnic/POS)
 
 ## Note Taking
 
@@ -424,6 +427,7 @@
 - [Snoq](https://snoq.io) - Secure, offline-first note-taking app with AES-256 encryption. 🪟
 - [Knopo](https://github.com/alkalim/Knopo) - Local-first outliner for plain Markdown notes with backlinks, page/block references, and graph-friendly files. 🍎 [🟢](https://github.com/alkalim/Knopo)
 - [Bangle.io](https://bangle.io) - Local-first WYSIWYG note-taking app that keeps notes as portable Markdown files. 🪟 🍎 🐧 [🟢](https://github.com/bangle-io/bangle-io)
+- [Weiyu](https://github.com/Sutera-Diffusus/WeChat-daily) - Windows desktop app that turns local WeChat messages into searchable daily briefings, with automated analysis, speech-to-text, and installer or portable builds. 🪟 [🟢](https://github.com/Sutera-Diffusus/WeChat-daily)
 - [Loofah](https://loofah.io) - Local-first meeting notetaker with on-device transcription and Markdown vault storage. 🍎 [🟢](https://github.com/bart6114/loofah)
 
 ## Text Editors
@@ -458,6 +462,7 @@
 - [VSCodium](https://vscodium.com) - Community-built VS Code binaries without Microsoft branding, telemetry, or licensing changes. 🪟 🍎 🐧 [🟢](https://github.com/VSCodium/vscodium)
 - [MarkEdit](https://github.com/MarkEdit-app/MarkEdit) - Native Markdown editor for macOS with a TextEdit-like workflow and local-file editing. 🍎 🟢
 - [Cate](https://cate.cero-ai.com) - Code editor on an infinite zoomable canvas where editors, terminals, browsers, and AI agent panels float in a spatial workspace, with docking, detachable windows, and per-project layout persistence. 🪟 🍎 🐧 [🟢](https://github.com/0-AI-UG/cate)
+- [AI Novel Writer](https://www.orz.md/ai-novel-writer/) - Organizes characters, worldbuilding, outlines, chapters, review, and revision for long-form fiction, with Ollama support. 🪟 🍎 [🟢](https://github.com/EthanYoQ/AI-Novel-Writer)
 
 ## Download Managers
 
@@ -748,7 +753,7 @@
 
 ### Clipboard Management
 
-- [Beetroot](https://max.nardit.com/beetroot) - Clipboard manager with AI text transforms and OCR extraction. 🪟
+- [Beetroot](https://max.nardit.com/beetroot) - Clipboard manager with AI text transforms and OCR extraction. 🪟 [🟢](https://github.com/mnardit/beetroot-releases)
 - [ClipAngel](https://sourceforge.net/projects/clip-angel) - Clipboard manager supporting rich text and images. 🪟
 - [Clipboard Fusion](https://clipboardfusion.com) - Clipboard manager with data transformation features. 🪟 🍎
 - [Clipy](https://clipy-app.com) - Simple clipboard manager. 🍎 🟢

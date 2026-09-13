@@ -134,11 +134,11 @@
 
 ### Email Clients
 
-- [Mailfo](https://mailfo.pages.dev) - Disposable temporary email and instant verification OTP receiver. 🤖
 - [Proton Mail](https://proton.me/mail) - Encrypted email with no ads and advanced privacy tools. 🤖 🍎 🟢
 - [BlueMail](https://bluemail.me) - Unified email client with smart push notifications and scheduling. 🤖 🍎
 - [Spark](https://sparkmailapp.com) - Collaboration-focused email app with advanced email triage tools. 🤖 🍎
 - [FairEmail](https://email.faircode.eu) - Lightweight open-source email client with strong privacy features. 🤖 🟢
+- [Mailfo](https://mailfo.pages.dev) - Disposable temporary email and instant verification OTP receiver. 🤖
 
 ## Compression and Archiving
 

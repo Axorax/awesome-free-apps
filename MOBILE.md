@@ -360,6 +360,7 @@
 - [SoulSync](https://play.google.com/store/apps/details?id=com.raeduslabs.soulsyncapp) - Private, offline mood tracker with a 10-point mood scale, activity correlation stats, and plain-language insights. No account, no ads, no analytics. 🤖 [🟢](https://github.com/Antimatter543/mood-tracker)
 - [Frankly](https://apps.apple.com/us/app/frankly-cards-for-connection/id6784455025) - Conversation card decks for couples, friends and family, swiped one at a time with a follow-up question behind each card. Works offline, no account, answers stay on device. 🍎
 - [Question Cards](https://questioncards.app) - Free conversation cards for couples, first dates, friends, and deep talks on iPhone and iPad. 🍎
+- [CareClinic](https://careclinic.io/) - Track symptoms, medications, mood, sleep, and daily health patterns in one journal. 🤖 🍎
 
 ## Sports
 

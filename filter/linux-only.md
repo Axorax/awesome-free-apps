@@ -21,7 +21,7 @@
 
 ## Contents
 
-<!-- AF-TOC : Sunday, August 2, 2026 at 10:57:05 AM UTC -->
+<!-- AF-TOC : Monday, September 14, 2026 at 09:51:16 AM UTC -->
 
 - [Audio](#audio)
   - [Audio Players](#audio-players)
@@ -50,6 +50,7 @@
   - [Office Suites](#office-suites)
   - [E-book](#e-book)
   - [PDF Tools](#pdf-tools)
+- [Finance](#finance)
 - [Note Taking](#note-taking)
 - [Text Editors](#text-editors)
 - [Download Managers](#download-managers)
@@ -198,8 +199,10 @@
 - [Ollama](https://ollama.com) - Runs and manages local AI models with desktop and command-line tools. 🪟 🍎 🐧 [🟢](https://github.com/ollama/ollama)
 - [Android Studio](https://developer.android.com/studio) - Official IDE for Android development with emulator, code editor, and build tools. 🪟 🍎 🐧
 - [WezTerm](https://wezterm.org) - GPU-accelerated terminal emulator and multiplexer with tabs, panes, SSH, and Lua configuration. 🪟 🍎 🐧 [🟢](https://github.com/wezterm/wezterm)
-- [Tura](https://turaai.net/) - Local-first AI coding agent with persistent parallel sessions, desktop and terminal interfaces, and local-model support. 🪟 🍎 🐧 [🟢](https://github.com/Tura-AI/tura)
+- [Tura](https://turaai.net/) - Build agent that uses 80% less token and delivers better results. 🪟 🍎 🐧 [🟢](https://github.com/Tura-AI/tura)
 - [DevProjex](https://github.com/Avazbek22/DevProjex) - Builds safe, token-efficient project context with GUI, TUI, CLI, visual file selection, live preview, secret redaction, Git scopes, and syntax-aware compression.    🪟 🍎 🐧 [🟢](https://github.com/Avazbek22/DevProjex)
+- [Atomic Agent](https://atomicagent.io) - Local-first CLI and TUI coding assistant that runs open-weight models entirely on your machine. Includes 56 built-in tools for browser, filesystem, git, memory, and vision, MCP support, and a five-layer local memory system. No account or API key required. 🪟 🍎 🐧 [🟢](https://github.com/AtomicBot-ai/atomic-agent)
+- [DSH Studio](https://github.com/Moresyl/dsh-studio) - Installs, supervises, and manages DeepSeek Harness from a cross-platform desktop interface. 🪟 🍎 🐧 [🟢](https://github.com/Moresyl/dsh-studio)
 
 ### API Development
 
@@ -221,6 +224,8 @@
 - [Beekeeper Studio](https://beekeeperstudio.io) - Modern, lightweight SQL client supporting MySQL, Postgres, SQLite, SQL Server, etc. 🪟 🍎 🐧
 - [DB Browser for SQLite](https://sqlitebrowser.org) - Visual tool for creating, browsing, and editing SQLite database files. 🪟 🍎 🐧 [🟢](https://github.com/sqlitebrowser/sqlitebrowser)
 - [DearSQL](https://dearsql.dev) - Lightweight native database client built with Dear ImGui, supporting SQL and NoSQL databases. 🪟 🍎 🐧 [🟢](https://github.com/dunkbing/dearsql)
+- [DBTool](https://codemake.co/software) - Desktop client for PostgreSQL, MySQL, MariaDB, SQLite, Oracle, and SQL Server with server-side pagination, a visual query builder, and ER diagrams. 🪟 🍎 🐧 [🟢](https://github.com/achi777/db-tool)
+- [LibreDB Studio](https://libredb.org) - Database client for PostgreSQL, MySQL, Oracle, SQL Server, MongoDB, Redis and ten other SQL and NoSQL engines, with single sign-on and a query audit trail. 🐧 [🟢](https://github.com/libredb/libredb-studio)
 
 ### Network Analysis
 
@@ -300,6 +305,10 @@
 - [pdfcpu](https://pdfcpu.io) - A PDF processor written in Go. 🪟 🍎 🐧 [🟢](https://github.com/pdfcpu/pdfcpu)
 - [Stirling-PDF](https://stirling.com) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere. 🪟 🍎 🐧 [🟢](https://github.com/Stirling-Tools/Stirling-PDF)
 - [pdftk](https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit) - PDFtk is a simple tool for doing everyday things with PDF documents. 🪟 🍎 🐧
+
+## Finance
+
+- [Posnic](https://www.posnic.com/) - Offline-first POS and billing software for retail shops and restaurants. 🪟 🍎 🐧 [🟢](https://github.com/Posnic/POS)
 
 ## Note Taking
 
@@ -403,6 +412,7 @@
 - [MagicaVoxel](https://ephtracy.github.io) - Lightweight voxel editor and interactive path tracing renderer for 3D models. 🪟 🍎 🐧
 - [Pencil2D](https://pencil2d.org) - Simple and intuitive tool for creating 2D hand-drawn animations. 🪟 🍎 🐧
 - [Open Photo AI](https://github.com/vegidio/open-photo-ai) - An open source alternative to the popular photo AI editor. 🪟 🍎 🐧 🟢
+- [BlockMosaic](https://mcimagetool.com) - Convert images into buildable Minecraft pixel art with block counts and schematic export. 🪟 🍎 🐧
 
 ## 3D Modeling and Animation
 
@@ -430,6 +440,7 @@
 - [Passbolt](https://passbolt.com) - Team-oriented password manager for sharing and storing passwords securely. 🪟 🍎 🐧 🟢
 - [RoboForm](https://roboform.com) - Password manager and form filler with multi-platform synchronization. 🪟 🍎 🐧
 - [ProtonPass](https://proton.me/pass) - Free password manager with end-to-end encryption based in Switzerland. 🪟 🍎 🐧 [🟢](https://github.com/protonpass)
+- [Authier](https://www.authier.pm/) - Browser-based password manager with encrypted sync, TOTP, autofill, and trusted-device approval. 🪟 🍎 🐧 [🟢](https://github.com/authier-pm/authier)
 
 ### Ad & Tracker Blocking
 

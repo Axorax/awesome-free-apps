@@ -21,7 +21,7 @@
 
 ## Contents
 
-<!-- AF-TOC : Sunday, August 2, 2026 at 10:57:05 AM UTC -->
+<!-- AF-TOC : Monday, September 14, 2026 at 09:51:16 AM UTC -->
 
 - [Audio](#audio)
   - [Audio Players](#audio-players)
@@ -50,6 +50,7 @@
   - [Office Suites](#office-suites)
   - [E-book](#e-book)
   - [PDF Tools](#pdf-tools)
+- [Finance](#finance)
 - [Note Taking](#note-taking)
 - [Text Editors](#text-editors)
 - [Download Managers](#download-managers)
@@ -191,6 +192,7 @@
 - [SaneBar](https://sanebar.com) - Menu bar icon manager and organizer. Local-only alternative to Bartender. 🍎 [🟢](https://github.com/sane-apps/SaneBar)
 - [SaneClick](https://saneclick.com) - Finder toolbar customizer for adding quick actions. 🍎 [🟢](https://github.com/sane-apps/SaneClick)
 - [Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for hiding, arranging, and customizing menu bar items. 🍎 [🟢](https://github.com/stonerl/Thaw)
+- [nowbar](https://apps.apple.com/us/app/nowbar-album-art-menu-bar/id6798459887) - Live album art for the currently playing music, right in the menu bar. 🍎 [🟢](https://github.com/arian-shamaei/nowbar)
 
 ### Wallpaper Tools
 
@@ -214,14 +216,18 @@
 - [Meld](https://meldmerge.org) - Tool for visual file, directory, and version control comparison. 🪟 🍎 🐧 🟢
 - [TkForge](https://github.com/Axorax/tkforge) - Drag & drop in Figma to create a Python GUI with ease. 🪟 🍎 🐧 🟢 ⭐
 - [Headroom](https://headroom.walls.sh) - Native macOS menu bar app showing Claude Code's session (5h) and weekly (7d) rate-limit usage as a live %, with color-coded alerts, reset countdowns, context window fill, active model name, and session cost. Zero network calls. 🍎 [🟢](https://github.com/patwalls/headroom)
+- [Agent Island](https://agent-island.dev) - Status companion for AI coding agents. Shows live session state for Claude Code, Codex, Antigravity, Grok, and Cursor, alerts you when a run is waiting on your turn, and computes quota and cost locally. No account, no telemetry. 🪟 🍎 [🟢](https://github.com/tristan666666/agent-island)
 - [Ghostty](https://ghostty.org) - Fast native terminal emulator with GPU acceleration, tabs, splits, and modern terminal features. 🍎 🐧 [🟢](https://github.com/ghostty-org/ghostty)
 - [iTerm2](https://iterm2.com) - Terminal replacement for macOS with split panes, profiles, search, and extensive customization. 🍎 [🟢](https://github.com/gnachman/iTerm2)
 - [Ollama](https://ollama.com) - Runs and manages local AI models with desktop and command-line tools. 🪟 🍎 🐧 [🟢](https://github.com/ollama/ollama)
 - [Android Studio](https://developer.android.com/studio) - Official IDE for Android development with emulator, code editor, and build tools. 🪟 🍎 🐧
 - [GitHub Desktop](https://desktop.github.com) - Graphical Git client for cloning repositories, reviewing changes, and syncing with GitHub. 🪟 🍎 [🟢](https://github.com/desktop/desktop)
 - [WezTerm](https://wezterm.org) - GPU-accelerated terminal emulator and multiplexer with tabs, panes, SSH, and Lua configuration. 🪟 🍎 🐧 [🟢](https://github.com/wezterm/wezterm)
-- [Tura](https://turaai.net/) - Local-first AI coding agent with persistent parallel sessions, desktop and terminal interfaces, and local-model support. 🪟 🍎 🐧 [🟢](https://github.com/Tura-AI/tura)
+- [Tura](https://turaai.net/) - Build agent that uses 80% less token and delivers better results. 🪟 🍎 🐧 [🟢](https://github.com/Tura-AI/tura)
 - [DevProjex](https://github.com/Avazbek22/DevProjex) - Builds safe, token-efficient project context with GUI, TUI, CLI, visual file selection, live preview, secret redaction, Git scopes, and syntax-aware compression.    🪟 🍎 🐧 [🟢](https://github.com/Avazbek22/DevProjex)
+- [Nexus Shell](https://nexusshell.app/?utm_source=github&utm_medium=directory&utm_campaign=awesome-free-apps) - Native macOS SSH workspace with multi-tab terminals, dual-pane file transfer, server monitoring, and Docker controls. 🍎
+- [Atomic Agent](https://atomicagent.io) - Local-first CLI and TUI coding assistant that runs open-weight models entirely on your machine. Includes 56 built-in tools for browser, filesystem, git, memory, and vision, MCP support, and a five-layer local memory system. No account or API key required. 🪟 🍎 🐧 [🟢](https://github.com/AtomicBot-ai/atomic-agent)
+- [DSH Studio](https://github.com/Moresyl/dsh-studio) - Installs, supervises, and manages DeepSeek Harness from a cross-platform desktop interface. 🪟 🍎 🐧 [🟢](https://github.com/Moresyl/dsh-studio)
 
 ### API Development
 
@@ -246,6 +252,7 @@
 - [Beekeeper Studio](https://beekeeperstudio.io) - Modern, lightweight SQL client supporting MySQL, Postgres, SQLite, SQL Server, etc. 🪟 🍎 🐧
 - [DB Browser for SQLite](https://sqlitebrowser.org) - Visual tool for creating, browsing, and editing SQLite database files. 🪟 🍎 🐧 [🟢](https://github.com/sqlitebrowser/sqlitebrowser)
 - [DearSQL](https://dearsql.dev) - Lightweight native database client built with Dear ImGui, supporting SQL and NoSQL databases. 🪟 🍎 🐧 [🟢](https://github.com/dunkbing/dearsql)
+- [DBTool](https://codemake.co/software) - Desktop client for PostgreSQL, MySQL, MariaDB, SQLite, Oracle, and SQL Server with server-side pagination, a visual query builder, and ER diagrams. 🪟 🍎 🐧 [🟢](https://github.com/achi777/db-tool)
 
 ### Network Analysis
 
@@ -257,6 +264,7 @@
 - [Proxie](https://proxie.app) - HTTP debugging proxy for tracking requests. 🍎
 - [Proxyman](https://proxyman.io) - Modern HTTP proxy with an intuitive UI. 🍎
 - [Sniffnet](https://sniffnet.net) - Tool for monitoring and analyzing network traffic. 🪟 🍎 🐧 [🟢](https://github.com/GyulyVGC/sniffnet)
+- [DevPeek](https://devpeek.ypgao.com) - HTTP(S) debugging proxy with mock, automatic parameter decryption, and request replay. 🪟 🍎
 
 ### Game Engines
 
@@ -297,6 +305,7 @@
 
 ## Documents
 
+- [InvoiceFlowAI](https://www.orz.md/invoice-downloader/) - Collects PDF, OFD, and XML invoices from QQ or 163 email, uses OCR to classify them, and exports Excel summaries for review. 🪟 🍎 [🟢](https://github.com/EthanYoQ/Invoice-Downloader)
 
 ### Office Suites
 
@@ -338,6 +347,12 @@
 - [Stirling-PDF](https://stirling.com) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere. 🪟 🍎 🐧 [🟢](https://github.com/Stirling-Tools/Stirling-PDF)
 - [pdftk](https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit) - PDFtk is a simple tool for doing everyday things with PDF documents. 🪟 🍎 🐧
 - [PDFluent](https://pdfluent.com/download/) - Offline PDF editor for forms, OCR, redaction, signatures, conversion, and page management on Windows and macOS. 🪟 🍎
+- [OffPDF](https://offpdf.com) - Private, offline PDF toolbox for organizing, converting, compressing, OCR, and more. 🪟 🍎 [🟢](https://github.com/McanKul/offpdf)
+
+## Finance
+
+- [Recurred](https://gozman.space/apps/recurred) - Subscription and recurring payment tracker with local storage and iCloud sync. No account required. 🍎
+- [Posnic](https://www.posnic.com/) - Offline-first POS and billing software for retail shops and restaurants. 🪟 🍎 🐧 [🟢](https://github.com/Posnic/POS)
 
 ## Note Taking
 
@@ -357,6 +372,7 @@
 - [Trilium Notes](https://triliumnotes.org) - Organize your thoughts. Build your personal knowledge base. 🪟 🍎 🐧 [🟢](https://github.com/TriliumNext/Trilium)
 - [Knopo](https://github.com/alkalim/Knopo) - Local-first outliner for plain Markdown notes with backlinks, page/block references, and graph-friendly files. 🍎 [🟢](https://github.com/alkalim/Knopo)
 - [Bangle.io](https://bangle.io) - Local-first WYSIWYG note-taking app that keeps notes as portable Markdown files. 🪟 🍎 🐧 [🟢](https://github.com/bangle-io/bangle-io)
+- [Loofah](https://loofah.io) - Local-first meeting notetaker with on-device transcription and Markdown vault storage. 🍎 [🟢](https://github.com/bart6114/loofah)
 
 ## Text Editors
 
@@ -385,6 +401,7 @@
 - [VSCodium](https://vscodium.com) - Community-built VS Code binaries without Microsoft branding, telemetry, or licensing changes. 🪟 🍎 🐧 [🟢](https://github.com/VSCodium/vscodium)
 - [MarkEdit](https://github.com/MarkEdit-app/MarkEdit) - Native Markdown editor for macOS with a TextEdit-like workflow and local-file editing. 🍎 🟢
 - [Cate](https://cate.cero-ai.com) - Code editor on an infinite zoomable canvas where editors, terminals, browsers, and AI agent panels float in a spatial workspace, with docking, detachable windows, and per-project layout persistence. 🪟 🍎 🐧 [🟢](https://github.com/0-AI-UG/cate)
+- [AI Novel Writer](https://www.orz.md/ai-novel-writer/) - Organizes characters, worldbuilding, outlines, chapters, review, and revision for long-form fiction, with Ollama support. 🪟 🍎 [🟢](https://github.com/EthanYoQ/AI-Novel-Writer)
 
 ## Download Managers
 
@@ -463,6 +480,8 @@
 - [Pixen](https://pixenapp.com/mac) - Native pixel art and animation editor designed. 🍎
 - [Affinity](https://www.affinity.studio/) - Professional creative suite for photo editing, graphic design, and desktop publishing. 🪟 🍎
 - [Open Photo AI](https://github.com/vegidio/open-photo-ai) - An open source alternative to the popular photo AI editor. 🪟 🍎 🐧 🟢
+- [ItsPaint](https://itspaintmac.com/) - MS Paint for macOS: blank canvas at any size, paste one image onto another, crop, and mark up screenshots. 🍎 🟢
+- [BlockMosaic](https://mcimagetool.com) - Convert images into buildable Minecraft pixel art with block counts and schematic export. 🪟 🍎 🐧
 
 ## 3D Modeling and Animation
 
@@ -493,10 +512,12 @@
 - [Passbolt](https://passbolt.com) - Team-oriented password manager for sharing and storing passwords securely. 🪟 🍎 🐧 🟢
 - [RoboForm](https://roboform.com) - Password manager and form filler with multi-platform synchronization. 🪟 🍎 🐧
 - [ProtonPass](https://proton.me/pass) - Free password manager with end-to-end encryption based in Switzerland. 🪟 🍎 🐧 [🟢](https://github.com/protonpass)
+- [Authier](https://www.authier.pm/) - Browser-based password manager with encrypted sync, TOTP, autofill, and trusted-device approval. 🪟 🍎 🐧 [🟢](https://github.com/authier-pm/authier)
 
 ### Ad & Tracker Blocking
 
 - [SaneHosts](https://sanehosts.com) - macOS hosts file manager for system-wide ad and tracker blocking. 🍎 [🟢](https://github.com/sane-apps/SaneHosts)
+- [Holeberry](https://holeberryapp.com) - Native macOS menu bar app to monitor and control Pi-hole instances with blocking stats, timed disable, and one-click unblocking. 🍎 [🟢](https://github.com/pedrovieira/Holeberry)
 
 ## Image Viewers
 
@@ -604,6 +625,11 @@
 - [Burrete](https://burrete-landing.vercel.app) - Molecular file workspace with Finder Quick Look previews, Mol* 3D, and chemistry grids. 🍎 [🟢](https://github.com/SergeiNikolenko/Burrete)
 - [Off Grid AI Desktop](https://getoffgridai.co/desktop) - Local AI suite for Mac: chat, image generation, dictation, and memory search, all on-device with no account. 🍎 [🟢](https://github.com/off-grid-ai/off-grid-ai-desktop)
 - [Core-Monitor](https://offyotto.github.io/Core-Monitor/) - Apple Silicon system monitor showing CPU, GPU, memory, battery, power, temperatures, storage, and fan data with optional fan control. 🍎 [🟢](https://github.com/offyotto/Core-Monitor)
+- [AI Dictation](https://aidictation.com) - Voice-to-text with configurable shortcuts, offline recognition on supported devices, and optional cloud transcription and cleanup. 🪟 🍎 [🟢](https://github.com/writingmate/aidictation)
+- [MacOSCleaner](https://github.com/AlexTkDev/MacOSCleaner) - macOS utility for cleaning caches, temporary files, app leftovers, and duplicate files, with disk analysis and app uninstallation. 🍎 🟢
+- [DueFlow](https://ustinian5.github.io/DueFlow/) - Local-first deadline planner that turns notes or OCR text into reverse schedules, checks risks, and exports calendar events. 🍎 [🟢](https://github.com/Ustinian5/DueFlow)
+- [Abendrot](https://abendrot.app) - Menu bar screen warmer that cuts blue light on every display with a sunset-based schedule. 🍎 [🟢](https://github.com/matthewrball/abendrot)
+- [LeafyApp](https://leafyapp.uk) - Menu bar vocabulary builder that reads any word on screen, saves it with the sentence around it, and quizzes you on it later. 🍎
 
 ### Clipboard Management
 
@@ -627,6 +653,7 @@
 - [Magnet](https://apps.apple.com/us/app/magnet/id441258766?mt=12) - Snap windows into organized tiles. 🍎
 - [AltTab](https://alt-tab.app) - Window switcher that brings Windows-style alt-tab previews and controls to macOS. 🍎 [🟢](https://github.com/lwouis/alt-tab-macos)
 - [Waindow](https://www.waindow.app/) - Arranges and restores Mac windows, links local Markdown memos to them, captures long pages, and prevents idle sleep. 🍎
+- [Plonk](https://ostapondo.github.io/Plonk/) - Move and resize windows with custom zones, save layouts as workspaces, and take screenshots. 🍎 [🟢](https://github.com/ostapondo/Plonk)
 
 ### File Management
 
@@ -647,6 +674,7 @@
 - [Monosnap](https://monosnap.com) - Simple screenshot tool that includes cloud integration for easy sharing. 🪟 🍎
 - [Snipaste](https://snipaste.com) - Free, Customizable, Portable snipping tool.
 - [Keyty](https://keyty.app) - Keyboard and mouse visualizer that displays your keystrokes and clicks in real time for demos, recordings, and livestreams. 🍎 [🟢](https://github.com/keytyapp/Keyty)
+- [capkiku](https://capkiku.com) - Turn a selected screen region into editable Markdown with on-device Apple Vision OCR. 🍎
 
 ### Space Visualizer
 

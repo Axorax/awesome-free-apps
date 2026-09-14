@@ -19,7 +19,7 @@
 
 ## Contents
 
-<!-- AF-TOC : Sunday, August 2, 2026 at 10:57:05 AM UTC -->
+<!-- AF-TOC : Monday, September 14, 2026 at 09:51:16 AM UTC -->
 
 - [Audio](#audio)
   - [Audio Players](#audio-players)
@@ -49,6 +49,7 @@
   - [E-book](#e-book)
   - [PDF Tools](#pdf-tools)
 - [Note Taking](#note-taking)
+- [Education](#education)
 - [Text Editors](#text-editors)
 - [Finance](#finance)
 - [Download Managers](#download-managers)
@@ -66,6 +67,7 @@
   - [Video Converters and Compressors](#video-converters-and-compressors)
 - [VPN and Proxy Tools](#vpn-and-proxy-tools)
 - [Health and Wellness](#health-and-wellness)
+- [Sports](#sports)
 - [Utility](#utility)
   - [Clipboard Management](#clipboard-management)
   - [Metadata](#metadata)
@@ -216,6 +218,10 @@
 - [不拖 (Butuo)](https://apps.apple.com/app/id6761042128) - Minimalist to-do app with local-only storage. No account, no server, no sync. Free. 🍎
 - [DailyVox](https://getdailyvox.com) - Free AI voice diary with on-device transcription, mood tracking, and Digital Twin. No cloud, no accounts. 🍎 [🟢](https://github.com/intrepidkarthi/dailyvox)
 
+## Education
+
+- [LearnClash](https://learnclash.com) - Competitive learning app with 1v1 quiz duels on any topic, skill-based matchmaking and built-in spaced repetition. Free daily duels, no ads. 🤖 🍎
+
 ## Text Editors
 
 - [Dcoder](https://dcoder.tech) - Mobile IDE supporting multiple programming languages. 🤖 🍎
@@ -224,6 +230,7 @@
 ## Finance
 
 - [BeeCount](https://github.com/TNT-Likely/BeeCount/blob/main/README_EN.md) - Privacy-first cross-platform expense tracker with self-hostable cloud sync (BeeCount Cloud, iCloud, Supabase, WebDAV, S3) and offline-first design. 🤖 🍎
+- [Recurred](https://gozman.space/apps/recurred) - Subscription and recurring payment tracker for iPhone and iPad with local storage and iCloud sync. No account required. 🍎
 
 ## Download Managers
 
@@ -236,6 +243,7 @@
 - [Pixlr](https://pixlr.com) - Photo editor with advanced features like layers and effects. 🤖 🍎
 - [Snapseed](https://support.google.com/snapseed) - Powerful photo editing app with fine-tuning tools. 🤖 🍎
 - [Adobe Express](https://www.adobe.com/express) - Create graphics and collages with Adobe’s design tools. 🤖 🍎
+- [InkCraft](https://inkcraftapp.com) - Tattoo try-on that places designs on a photo of your own body, with a 3D body model and AI design generation. 🍎
 
 ## 3D Modeling and Animation
 
@@ -307,8 +315,19 @@
 - [Paula](https://trypaula.com) - Free AI mental health companion using CBT and DBT techniques, with voice sessions, mood tracking, and journaling. 🤖 🍎
 - [Euki](https://eukiapp.org) - Privacy-first period tracker with sexual health resources and local-only data storage. 🤖 🍎 [🟢](https://github.com/Euki-Inc/Euki-Android)
 - [LogZero](https://logzero.app) - Privacy-first habit and health tracker with mood, medication, food, exercise, and weight logs, plus on-device correlation insights. No account, no ads, no trackers. 🍎
+- [SproutGuard](https://apps.apple.com/us/app/sproutguard-screen-time-detox/id6768664921) - Screen time blocker for adults using Apple Screen Time, with scheduled blocks, loophole-resistant website blocking, and no account or cloud. 🍎
+- [ER Wait Times Quebec](https://apps.apple.com/ca/app/er-wait-times-quebec-hospital/id6801629280) - Occupancy, waiting-room headcount and average stay for all 120 Quebec emergency rooms, refreshed every 15 minutes, with the nearest-ER math done on the phone. 🍎
+- [Frankly](https://apps.apple.com/us/app/frankly-cards-for-connection/id6784455025) - Conversation card decks for couples, friends and family, swiped one at a time with a follow-up question behind each card. Works offline, no account, answers stay on device. 🍎
+- [Question Cards](https://questioncards.app) - Free conversation cards for couples, first dates, friends, and deep talks on iPhone and iPad. 🍎
+- [CareClinic](https://careclinic.io/) - Track symptoms, medications, mood, sleep, and daily health patterns in one journal. 🤖 🍎
+
+## Sports
+
+- [Matchday Passport](https://apps.apple.com/us/app/matchday-passport/id6792546917) - Turn every football match you attend into a collectible passport stamp, with photos, video and a feed of fellow fans. No ads and no tracking. 🍎
 
 ## Utility
+
+- [AI Dictation](https://aidictation.com) - Voice-to-text through an iOS keyboard or Android floating microphone, with offline recognition on supported devices and optional cloud transcription and cleanup. 🤖 🍎 [🟢](https://github.com/writingmate/aidictation)
 
 ### Clipboard Management
 

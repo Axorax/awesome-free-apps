@@ -19,7 +19,7 @@
 
 ## Contents
 
-<!-- AF-TOC : Sunday, August 2, 2026 at 10:57:05 AM UTC -->
+<!-- AF-TOC : Monday, September 14, 2026 at 09:51:16 AM UTC -->
 
 - [Audio](#audio)
   - [Audio Players](#audio-players)
@@ -49,6 +49,7 @@
   - [E-book](#e-book)
   - [PDF Tools](#pdf-tools)
 - [Note Taking](#note-taking)
+- [Education](#education)
 - [Text Editors](#text-editors)
 - [Finance](#finance)
 - [Download Managers](#download-managers)
@@ -66,6 +67,7 @@
   - [Video Converters and Compressors](#video-converters-and-compressors)
 - [VPN and Proxy Tools](#vpn-and-proxy-tools)
 - [Health and Wellness](#health-and-wellness)
+- [Sports](#sports)
 - [Utility](#utility)
   - [Clipboard Management](#clipboard-management)
   - [Metadata](#metadata)

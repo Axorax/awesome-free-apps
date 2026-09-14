@@ -19,7 +19,7 @@
 
 ## Contents
 
-<!-- AF-TOC : Sunday, August 2, 2026 at 10:57:05 AM UTC -->
+<!-- AF-TOC : Monday, September 14, 2026 at 09:51:16 AM UTC -->
 
 - [Audio](#audio)
   - [Audio Players](#audio-players)
@@ -49,6 +49,7 @@
   - [E-book](#e-book)
   - [PDF Tools](#pdf-tools)
 - [Note Taking](#note-taking)
+- [Education](#education)
 - [Text Editors](#text-editors)
 - [Finance](#finance)
 - [Download Managers](#download-managers)
@@ -66,6 +67,7 @@
   - [Video Converters and Compressors](#video-converters-and-compressors)
 - [VPN and Proxy Tools](#vpn-and-proxy-tools)
 - [Health and Wellness](#health-and-wellness)
+- [Sports](#sports)
 - [Utility](#utility)
   - [Clipboard Management](#clipboard-management)
   - [Metadata](#metadata)
@@ -137,6 +139,7 @@
 - [BlueMail](https://bluemail.me) - Unified email client with smart push notifications and scheduling. 🤖 🍎
 - [Spark](https://sparkmailapp.com) - Collaboration-focused email app with advanced email triage tools. 🤖 🍎
 - [FairEmail](https://email.faircode.eu) - Lightweight open-source email client with strong privacy features. 🤖 🟢
+- [Mailfo](https://mailfo.pages.dev) - Disposable temporary email and instant verification OTP receiver. 🤖
 
 ## Compression and Archiving
 
@@ -232,6 +235,10 @@
 - [Joplin](https://joplinapp.org) - Open-source note-taking app with end-to-end encryption. 🤖 🍎 🟢
 - [Google Keep](https://keep.google.com) - Simple and colorful note-taking app with reminders. 🤖 🍎
 
+## Education
+
+- [LearnClash](https://learnclash.com) - Competitive learning app with 1v1 quiz duels on any topic, skill-based matchmaking and built-in spaced repetition. Free daily duels, no ads. 🤖 🍎
+
 ## Text Editors
 
 - [QuickEdit](https://play.google.com/store/apps/details?id=com.rhmsoft.edit) - Lightweight text editor for coding with syntax highlighting. 🤖
@@ -278,7 +285,7 @@
 ## Image Viewers
 
 - [Photo Map](https://play.google.com/store/apps/details?id=com.bischofs.photoviewer) - Displays images in a map view based on geotags. 🤖
-- [Simple Gallery](https://simplemobiletools.com/gallery) - Lightweight image viewer with sorting and editing options. 🤖 🟢
+- [Fossify Gallery](https://www.fossify.org/apps/gallery) - Privacy-focused photo and video gallery with editing, metadata removal, and protected folders. 🤖 [🟢](https://github.com/FossifyOrg/Gallery)
 - [A+ Gallery](https://play.google.com/store/apps/details?id=com.atomicadd.filedir) - Organize and view photos by date, location, and albums. 🤖
 - [Google Photos](https://photos.google.com) - Manage and sync photos with powerful search and cloud backup. 🤖 🍎
 
@@ -329,8 +336,15 @@
 - [Trider](https://play.google.com/store/apps/details?id=dev.trider.app) - AI habit tracker with journal, mood tracking, Pomodoro timer, and accountability squads. Free, no ads. 🤖
 - [Paula](https://trypaula.com) - Free AI mental health companion using CBT and DBT techniques, with voice sessions, mood tracking, and journaling. 🤖 🍎
 - [Euki](https://eukiapp.org) - Privacy-first period tracker with sexual health resources and local-only data storage. 🤖 🍎 [🟢](https://github.com/Euki-Inc/Euki-Android)
+- [SoulSync](https://play.google.com/store/apps/details?id=com.raeduslabs.soulsyncapp) - Private, offline mood tracker with a 10-point mood scale, activity correlation stats, and plain-language insights. No account, no ads, no analytics. 🤖 [🟢](https://github.com/Antimatter543/mood-tracker)
+- [CareClinic](https://careclinic.io/) - Track symptoms, medications, mood, sleep, and daily health patterns in one journal. 🤖 🍎
+
+## Sports
+
 
 ## Utility
+
+- [AI Dictation](https://aidictation.com) - Voice-to-text through an iOS keyboard or Android floating microphone, with offline recognition on supported devices and optional cloud transcription and cleanup. 🤖 🍎 [🟢](https://github.com/writingmate/aidictation)
 
 ### Clipboard Management
 

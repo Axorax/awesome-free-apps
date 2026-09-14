@@ -19,7 +19,7 @@
 
 ## Contents
 
-<!-- AF-TOC : Sunday, August 2, 2026 at 10:57:05 AM UTC -->
+<!-- AF-TOC : Monday, September 14, 2026 at 09:51:16 AM UTC -->
 
 - [Audio](#audio)
   - [Audio Players](#audio-players)
@@ -49,6 +49,7 @@
   - [E-book](#e-book)
   - [PDF Tools](#pdf-tools)
 - [Note Taking](#note-taking)
+- [Education](#education)
 - [Text Editors](#text-editors)
 - [Finance](#finance)
 - [Download Managers](#download-managers)
@@ -66,6 +67,7 @@
   - [Video Converters and Compressors](#video-converters-and-compressors)
 - [VPN and Proxy Tools](#vpn-and-proxy-tools)
 - [Health and Wellness](#health-and-wellness)
+- [Sports](#sports)
 - [Utility](#utility)
   - [Clipboard Management](#clipboard-management)
   - [Metadata](#metadata)
@@ -174,6 +176,9 @@
 - [Notely Voice](https://github.com/tosinonikute/NotelyVoice) - 100% private notes and free AI voice-to-text transcription. [🟢](https://github.com/tosinonikute/NotelyVoice)
 - [DailyVox](https://getdailyvox.com) - Free AI voice diary with on-device transcription, mood tracking, and Digital Twin. No cloud, no accounts. 🍎 [🟢](https://github.com/intrepidkarthi/dailyvox)
 
+## Education
+
+
 ## Text Editors
 
 
@@ -201,7 +206,7 @@
 
 ## Image Viewers
 
-- [Simple Gallery](https://simplemobiletools.com/gallery) - Lightweight image viewer with sorting and editing options. 🤖 🟢
+- [Fossify Gallery](https://www.fossify.org/apps/gallery) - Privacy-focused photo and video gallery with editing, metadata removal, and protected folders. 🤖 [🟢](https://github.com/FossifyOrg/Gallery)
 
 ## Remote Access
 
@@ -228,8 +233,14 @@
 ## Health and Wellness
 
 - [Euki](https://eukiapp.org) - Privacy-first period tracker with sexual health resources and local-only data storage. 🤖 🍎 [🟢](https://github.com/Euki-Inc/Euki-Android)
+- [SoulSync](https://play.google.com/store/apps/details?id=com.raeduslabs.soulsyncapp) - Private, offline mood tracker with a 10-point mood scale, activity correlation stats, and plain-language insights. No account, no ads, no analytics. 🤖 [🟢](https://github.com/Antimatter543/mood-tracker)
+
+## Sports
+
 
 ## Utility
+
+- [AI Dictation](https://aidictation.com) - Voice-to-text through an iOS keyboard or Android floating microphone, with offline recognition on supported devices and optional cloud transcription and cleanup. 🤖 🍎 [🟢](https://github.com/writingmate/aidictation)
 
 ### Clipboard Management
 

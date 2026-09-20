@@ -402,6 +402,7 @@
 - [pdftk](https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit) - PDFtk is a simple tool for doing everyday things with PDF documents. 🪟 🍎 🐧
 - [PDFluent](https://pdfluent.com/download/) - Offline PDF editor for forms, OCR, redaction, signatures, conversion, and page management on Windows and macOS. 🪟 🍎
 - [OffPDF](https://offpdf.com) - Private, offline PDF toolbox for organizing, converting, compressing, OCR, and more. 🪟 🍎 [🟢](https://github.com/McanKul/offpdf)
+- [PDF4QT](https://jakubmelka.github.io/) - PDF toolkit for viewing, editing, comparing, signing, and optimizing documents. 🪟 🐧 [🟢](https://github.com/JakubMelka/PDF4QT)
 
 ## Finance
 

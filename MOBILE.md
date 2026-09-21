@@ -363,6 +363,7 @@
 - [Frankly](https://apps.apple.com/us/app/frankly-cards-for-connection/id6784455025) - Conversation card decks for couples, friends and family, swiped one at a time with a follow-up question behind each card. Works offline, no account, answers stay on device. 🍎
 - [Question Cards](https://questioncards.app) - Free conversation cards for couples, first dates, friends, and deep talks on iPhone and iPad. 🍎
 - [CareClinic](https://careclinic.io/) - Track symptoms, medications, mood, sleep, and daily health patterns in one journal. 🤖 🍎
+- [PulseLibre](https://github.com/jooray/PulseLibre) - Control a Pulsetto vagus nerve stimulator over Bluetooth without the vendor app. 🤖 [🟢](https://github.com/jooray/PulseLibre)
 
 ## Sports
 

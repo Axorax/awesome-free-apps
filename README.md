@@ -21,6 +21,7 @@
 
 ## Contents
 
+- [MagicKit](https://magickit.47.80.8.174.nip.io) - Free AI toolbox for image, text, video. No sign-up needed. MIT open source. [Source](https://github.com/kaketiti/magickit)
 <!-- AF-TOC : Monday, September 14, 2026 at 09:51:16 AM UTC -->
 
 - [Audio](#audio)

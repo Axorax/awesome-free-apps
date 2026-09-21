@@ -407,6 +407,7 @@
 
 - [Recurred](https://gozman.space/apps/recurred) - Subscription and recurring payment tracker with local storage and iCloud sync. No account required. 🍎
 - [Posnic](https://www.posnic.com/) - Offline-first POS and billing software for retail shops and restaurants. 🪟 🍎 🐧 [🟢](https://github.com/Posnic/POS)
+- [BusinessOS](https://businessos.biz) - Encrypted, offline-first invoicing and accounting for freelancers and small businesses. Voice-to-invoice in 3 seconds, WhatsApp send, 40+ built-in calculators, multi-region tax (VAT, GST, ZATCA, sales tax). Data stays on-device with optional end-to-end-encrypted cloud sync. 🌐
 
 ## Note Taking
 

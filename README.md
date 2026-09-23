@@ -768,6 +768,7 @@
 - [Qopy](https://github.com/0pandadev/qopy) - Minimalist clipboard manager with unique features. 🪟 🍎 🐧 🟢
 - [SaneClip](https://saneclip.com) - Clipboard manager that keeps all history local with search and formatting tools. 🍎 [🟢](https://github.com/sane-apps/SaneClip)
 - [Pesty](https://www.moamenbasel.com/pesty/) - Native clipboard manager with a color-coded history strip, pinboards, instant search, and keyboard-driven pasting. 🍎 [🟢](https://github.com/momenbasel/pesty)
+- [Whisk](https://nathan-poncet.github.io/whisk) - Clipboard manager with a Paste-style panel, pins, search operators, paste stack, and rich previews. 🍎 [🟢](https://github.com/nathan-poncet/whisk)
 
 ### Metadata
 

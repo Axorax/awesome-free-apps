@@ -674,6 +674,7 @@
 - [GPU Screen Recorder](https://flathub.org/apps/com.dec05eba.gpu_screen_recorder) - Shadowplay-like screen recorder that is fast. 🐧
 - [Shadowplay](https://www.nvidia.com/en-ph/geforce/geforce-experience/shadowplay) - Record gameplay videos, screenshots, and livestreams. 🪟
 - [ScreenToGif](https://www.screentogif.com) - Record, edit, and create animated GIFs from your screen. 🪟 [🟢](https://github.com/NickeManarin/ScreenToGif)
+- [Deckboy](https://utopian-academy.github.io/Deckboy/) - Cue-based playback for live shows that streams and records at the same time, with Stream Deck, Companion, OSC and MIDI control. 🪟 🍎 🐧 [🟢](https://github.com/Utopian-Academy/Deckboy)
 
 ### Video Converters and Compressors
 

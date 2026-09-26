@@ -660,6 +660,7 @@
 - [SMPlayer](https://sourceforge.net/projects/smplayer) - Media player with the ability to remember playback settings and support for various video formats. 🪟 🍎 🐧
 - [Videotape](https://usuaia.com/videotape) - Simple and minimalist video player for quick playback of local video files. 🪟
 - [VLC Media Player](https://videolan.org/vlc) - Media player supporting almost all video formats. 🪟 🍎 🐧 🟢
+- [Frame Player](https://frameplayer.app) - Video player built on mpv with seekbar previews, torrent streaming, casting to Chromecast and DLNA TVs, and synced watch-together. 🪟 🍎 🟢
 
 ### Video Streaming and Recording
 

@@ -367,6 +367,7 @@
 ## Sports
 
 - [Matchday Passport](https://apps.apple.com/us/app/matchday-passport/id6792546917) - Turn every football match you attend into a collectible passport stamp, with photos, video and a feed of fellow fans. No ads and no tracking. 🍎
+- [Subskills](https://apps.apple.com/us/app/subskills/id6810049311) - Sports technique videos from YouTube, TikTok and Instagram, sorted by sport, sub-skill and level. 🍎 [🟢](https://github.com/ihvou/subskills)
 
 ## Utility
 

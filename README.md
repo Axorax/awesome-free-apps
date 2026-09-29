@@ -271,6 +271,7 @@
 - [Nexus Shell](https://nexusshell.app/?utm_source=github&utm_medium=directory&utm_campaign=awesome-free-apps) - Native macOS SSH workspace with multi-tab terminals, dual-pane file transfer, server monitoring, and Docker controls. 🍎
 - [Atomic Agent](https://atomicagent.io) - Local-first CLI and TUI coding assistant that runs open-weight models entirely on your machine. Includes 56 built-in tools for browser, filesystem, git, memory, and vision, MCP support, and a five-layer local memory system. No account or API key required. 🪟 🍎 🐧 [🟢](https://github.com/AtomicBot-ai/atomic-agent)
 - [DSH Studio](https://github.com/Moresyl/dsh-studio) - Installs, supervises, and manages DeepSeek Harness from a cross-platform desktop interface. 🪟 🍎 🐧 [🟢](https://github.com/Moresyl/dsh-studio)
+- [OpenTokenUsage](https://opentokenusage.app) - Windows tray app showing session and weekly usage limits, reset times, and pace for Claude Code, Codex, Cursor, GitHub Copilot, and 12 other AI coding subscriptions, with usage alerts. 🪟 [🟢](https://github.com/PowerUserZ/OpenTokenUsage)
 
 ### API Development
 

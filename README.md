@@ -752,6 +752,7 @@
 - [DueFlow](https://ustinian5.github.io/DueFlow/) - Local-first deadline planner that turns notes or OCR text into reverse schedules, checks risks, and exports calendar events. 🍎 [🟢](https://github.com/Ustinian5/DueFlow)
 - [Abendrot](https://abendrot.app) - Menu bar screen warmer that cuts blue light on every display with a sunset-based schedule. 🍎 [🟢](https://github.com/matthewrball/abendrot)
 - [LeafyApp](https://leafyapp.uk) - Menu bar vocabulary builder that reads any word on screen, saves it with the sentence around it, and quizzes you on it later. 🍎
+- [Verzeta Studio](https://verzeta.com) - Open-source, local-first AI team workspace. Several AI models work together in one conversation, each with its own provider, model and tool whitelist.  🪟 🐧 [🟢](https://github.com/Verzeta/Verzeta-Studio)
 
 ### Clipboard Management
 

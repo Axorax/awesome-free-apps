@@ -141,6 +141,7 @@
 - [Spark](https://sparkmailapp.com) - Collaboration-focused email app with advanced email triage tools. 🤖 🍎
 - [FairEmail](https://email.faircode.eu) - Lightweight open-source email client with strong privacy features. 🤖 🟢
 - [Mailfo](https://mailfo.pages.dev) - Disposable temporary email and instant verification OTP receiver. 🤖
+- [EpicMail](https://epicmail.org/android-email-app?utm_source=github&utm_medium=referral&utm_campaign=epicmail_github_catalogs_2026&utm_content=awesome_free_apps_android) - Unified inbox and search across Gmail, Outlook, Yahoo, iCloud, IMAP, and POP3; requires web setup and a valid card before adding accounts, with Adventurer at $0 unless upgraded. 🤖
 
 ## Compression and Archiving
 

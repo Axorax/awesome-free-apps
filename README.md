@@ -820,6 +820,7 @@
 - [Revo Uninstaller](https://www.revouninstaller.com/revo-uninstaller-free-download) - Advanced uninstaller to remove programs and residual files with free tier. 🪟
 - [PureMac](https://github.com/momenbasel/PureMac) - macOS app manager and system cleaner for uninstalling apps, removing orphaned files, and cleaning caches. 🍎 🟢
 - [Dusty](https://github.com/yagcioglutoprak/dusty) - macOS menu bar cleaner for reclaiming space from safe caches, logs, and developer artifacts. 🍎 🟢
+- [Rain Cleaner](https://raincleaner.eu) - Windows 10/11 x64 cleanup tool that shows what it found and why before deleting, with a free version that has no ads and no time limit, and an optional Pro. 🪟
 
 ### Screenshot
 

@@ -92,6 +92,7 @@
 - [Ambie](https://github.com/jenius-apps/ambie) - Use white noise, nature sounds, & more to boost your productivity. 🪟 🟢
 - [BlackHole](https://github.com/ExistentialAudio/BlackHole) - Virtual audio loopback driver for routing audio between macOS applications. 🍎 🟢
 - [BluetoothHandsFreeToggle](https://github.com/Avazbek22/BluetoothHandsFreeToggle) - Fixes Bluetooth headsets stuck in low-quality Hands-Free mode. 🪟 [🟢](https://github.com/Avazbek22/BluetoothHandsFreeToggle)
+- [Onion Board](https://onion-alien.github.io/onion-board/) - Soundboard that plays sounds through your mic into Discord and game voice chat, with in-game hotkeys, overlay, voice changer, text-to-speech, OBS output, and screen triggers that play a sound when something appears on screen. 🪟
 
 ### Audio Players
 

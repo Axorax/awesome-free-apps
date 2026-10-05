@@ -752,6 +752,7 @@
 - [DueFlow](https://ustinian5.github.io/DueFlow/) - Local-first deadline planner that turns notes or OCR text into reverse schedules, checks risks, and exports calendar events. 🍎 [🟢](https://github.com/Ustinian5/DueFlow)
 - [Abendrot](https://abendrot.app) - Menu bar screen warmer that cuts blue light on every display with a sunset-based schedule. 🍎 [🟢](https://github.com/matthewrball/abendrot)
 - [LeafyApp](https://leafyapp.uk) - Menu bar vocabulary builder that reads any word on screen, saves it with the sentence around it, and quizzes you on it later. 🍎
+- [HotkeyScan](https://protagonistlabs.app/hotkeyscan/) - Finds which program is holding a hotkey, with the evidence. 🪟 [🟢](https://github.com/limburatorul/hotkeyscan)
 
 ### Clipboard Management
 

@@ -2,6 +2,15 @@ name: Update main file
 
 on:
   workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - 'README.md'
+      - 'MOBILE.md'
+      - 'index.js'
+  schedule:
+    - cron: '0 0 * * 1'
 
 jobs:
   run-node-script:

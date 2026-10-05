@@ -128,5 +128,5 @@ If you become a maintainer (make an issue if you want to become one), here's a f
 - Review PRs to make sure people follow the rules in this file.
 - You should follow the rules here as well.
 - Make sure you abide by the code of conduct.
-- In the actions tab, there's an action called `Update main file`. It auto-generates the ToC, filters and a lot more. So, you don't have to do any of that. This action should be run once a week to keep everything upto date.
+- The `Update main file` action auto-generates the ToC, filters and more. It runs after changes to `README.md`, `MOBILE.md` or `index.js`, and once a week. You can also run it manually from the Actions tab.
 - You can join the Discord server to make communications easier. [Click here to join.](https://discord.com/invite/nKUFghjXQu)

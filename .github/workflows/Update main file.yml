@@ -12,6 +12,10 @@ on:
   schedule:
     - cron: '0 0 * * 1'
 
+concurrency:
+  group: update-main-file
+  cancel-in-progress: false
+
 jobs:
   run-node-script:
     runs-on: ubuntu-latest

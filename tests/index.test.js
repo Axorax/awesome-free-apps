@@ -6,11 +6,44 @@ const path = require("node:path");
 const test = require("node:test");
 
 const {
+  create,
   getLinks,
   mapWithConcurrency,
   testLinksReachable,
   testUrl,
 } = require("../index.js");
+
+test("create rewrites source-relative links for generated filter pages", () => {
+  const directory = fs.mkdtempSync(path.join(os.tmpdir(), "afa-filter-links-"));
+  const source = path.join(directory, "README.md");
+  const outputDirectory = path.join(directory, "filter");
+  const header = Array.from({ length: 20 }, (_, index) => `Header ${index + 1}`);
+
+  fs.writeFileSync(
+    source,
+    [
+      ...header,
+      '<a href="./MOBILE.md">Mobile</a> <img src="./logo.svg">',
+      "[Contribute](./contributing.md)",
+      '<a href="./filter/windows-only.md">Windows</a>',
+    ].join("\n"),
+  );
+
+  try {
+    create(source, "windows-only", "🪟", outputDirectory);
+    const generated = fs.readFileSync(
+      path.join(outputDirectory, "windows-only.md"),
+      "utf8",
+    );
+
+    assert.match(generated, /href="\.\.\/MOBILE\.md"/);
+    assert.match(generated, /src="\.\.\/logo\.svg"/);
+    assert.match(generated, /\]\(\.\.\/contributing\.md\)/);
+    assert.match(generated, /href="\.\/windows-only\.md"/);
+  } finally {
+    fs.rmSync(directory, { recursive: true, force: true });
+  }
+});
 
 test("getLinks extracts HTTP links without surrounding Markdown", () => {
   const directory = fs.mkdtempSync(path.join(os.tmpdir(), "afa-links-"));

@@ -844,6 +844,7 @@
 - [JDiskReport](https://www.jgoodies.com/freeware/jdiskreport) - Tool for visualizing disk usage with a variety of charts and graphs. 🪟 🐧
 - [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer) - Identify large files and folders with an intuitive tree map. 🪟
 - [TreeSize Free](https://jam-software.com/treesize_free) - Visualizes disk space usage in a tree-like structure for easy file management. 🪟
+- [SpaceScan](https://protagonistlabs.app/spacescan/) - Disk space analyzer that reads the NTFS Master File Table to map a drive in seconds. 🪟 [🟢](https://github.com/limburatorul/spacescan)
 
 ### Trackpad
 

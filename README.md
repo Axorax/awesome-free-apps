@@ -431,6 +431,7 @@
 - [Bangle.io](https://bangle.io) - Local-first WYSIWYG note-taking app that keeps notes as portable Markdown files. 🪟 🍎 🐧 [🟢](https://github.com/bangle-io/bangle-io)
 - [Weiyu](https://github.com/Sutera-Diffusus/WeChat-daily) - Windows desktop app that turns local WeChat messages into searchable daily briefings, with automated analysis, speech-to-text, and installer or portable builds. 🪟 [🟢](https://github.com/Sutera-Diffusus/WeChat-daily)
 - [Loofah](https://loofah.io) - Local-first meeting notetaker with on-device transcription and Markdown vault storage. 🍎 [🟢](https://github.com/bart6114/loofah)
+- [Ritemark](https://ritemark.app) - Markdown writing app where the AI you already use (Claude, Codex or OpenCode) works directly in your local files. 🪟 🍎 [🟢](https://github.com/ProductoryHQ/ritemark-native)
 
 ## Text Editors
 

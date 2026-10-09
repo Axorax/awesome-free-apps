@@ -625,6 +625,7 @@
 - [wmWebStack](https://webstack.wikimint.com) - Local server stack with one-click live publishing and remote device access. 🪟
 - [Remmina](https://remmina.org) - Remote access screen and file sharing to your desktop. 🐧
 - [RemSupp](https://remsupp.com) - Simple remote desktop. 🪟 🍎 🐧
+- [AirGlass](https://jdkuk.github.io/AirGlass/) - AirPlay receiver for mirroring iPhone, iPad and Mac screens and playing lossless AirPlay music on a PC. Optional paid key adds a floating window. 🪟 [🟢](https://github.com/jdkuk/AirGlass)
 
 ## Video
 

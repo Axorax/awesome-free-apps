@@ -709,6 +709,7 @@
 - [v2rayN](https://github.com/2dust/v2rayN) - Open source GUI for Xray and Sing-box. 🪟 🍎 🐧 🟢
 - [WireGuard](https://wireguard.com) - Fast, secure VPN protocol designed for simplicity. 🪟 🍎 🐧 [🟢](https://www.wireguard.com/repositories)
 - [Tailscale](https://tailscale.com) - Mesh VPN client for secure private networks using WireGuard. 🪟 🍎 🐧
+- [VPN Bypass](https://geiserx.github.io/VPN-Bypass/) - Menu bar app that routes chosen domains and services around a VPN, or only those through it. 🍎 [🟢](https://github.com/GeiserX/VPN-Bypass)
 
 ## Utility
 

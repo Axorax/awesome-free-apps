@@ -377,6 +377,7 @@
 - [Clips](https://apps.apple.com/us/app/clips/id1218408435) - Clipboard manager that organizes and stores copied text and images. 🍎
 - [Clipper](https://play.google.com/store/apps/details?id=com.rojekti.clipper) - Clipboard manager with history and easy access to copied content. 🤖
 - [CopyClip](https://apps.apple.com/us/app/copyclip/id452100581) - Simple clipboard manager to store and paste text snippets. 🍎
+- [Copypus](https://github.com/emilioaugust/Copypus) - Clipboard manager that saves and organizes everything you copy. 🤖 [🟢](https://github.com/emilioaugust/Copypus)
 
 ### Metadata
 

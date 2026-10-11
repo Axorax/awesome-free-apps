@@ -413,3 +413,4 @@
 - [DiskUsage](https://play.google.com/store/apps/details?id=com.google.android.diskusage) - Visualize and analyze storage space usage with color-coded charts. 🤖
 - [Storage Analyzer](https://play.google.com/store/apps/details?id=com.cleo.storageanalyzer) - Analyze storage usage and manage files effectively. 🤖
 - [Disk Space Analyzer](https://apps.apple.com/us/app/disk-space-analyzer/id1445583695) - Visualize disk usage to free up space easily. 🍎
+- [DayCount: Countdown Widget](https://apps.apple.com/us/app/daycount-countdown-widget/id6777106137) - Creates countdowns for birthdays, trips, exams, and milestones, with local reminders and widgets; the app is free and requires no account. 🍎

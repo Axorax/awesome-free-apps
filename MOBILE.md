@@ -252,6 +252,7 @@
 ## Education
 
 - [LearnClash](https://learnclash.com) - Competitive learning app with 1v1 quiz duels on any topic, skill-based matchmaking and built-in spaced repetition. Free daily duels, no ads. 🤖 🍎
+- [DebateCue: Debate Timer](https://apps.apple.com/us/app/debatecue-debate-timer/id6788047353) - Offline-first timer for Public Forum, Lincoln-Douglas and Policy/CX rounds, with speech mode, prep banks and overtime visibility. Free download with optional Premium purchases. 🍎
 
 ## Text Editors
 

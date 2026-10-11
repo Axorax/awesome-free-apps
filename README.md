@@ -850,3 +850,4 @@
 - [MiddleDrag](https://middledrag.app) - Three-finger trackpad gestures for middle-click and middle-drag on macOS. 🍎 [🟢](https://github.com/NullPointerDepressiveDisorder/MiddleDrag)
 - [LinearMouse](https://linearmouse.app) - Mouse and trackpad utility for pointer acceleration, scrolling, button mapping, and per-device settings. 🍎 [🟢](https://github.com/linearmouse/linearmouse)
 - [Mos](https://mos.caldis.me) - Mouse utility for smooth scrolling and independent scroll direction settings on macOS. 🍎 [🟢](https://github.com/Caldis/Mos)
+- [Tap2Click](https://tap2click.me) - Tap-to-click for the Apple Magic Mouse, running from the menu bar. 🍎 [🟢](https://github.com/tourist-apps/tap2click)

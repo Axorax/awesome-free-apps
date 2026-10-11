@@ -253,6 +253,10 @@
 
 - [LearnClash](https://learnclash.com) - Competitive learning app with 1v1 quiz duels on any topic, skill-based matchmaking and built-in spaced repetition. Free daily duels, no ads. 🤖 🍎
 
+## Games
+
+- [Millitap: Tap Targets](https://apps.apple.com/us/app/millitap-tap-targets/id6786443413) - Reaction-time tests, tap-speed rounds, and target modes with on-device stats and history; no account required. Free to download with in-app purchases. 🍎 🤖 [Google Play](https://play.google.com/store/apps/details?id=com.appfactory.millitap)
+
 ## Text Editors
 
 - [QuickEdit](https://play.google.com/store/apps/details?id=com.rhmsoft.edit) - Lightweight text editor for coding with syntax highlighting. 🤖

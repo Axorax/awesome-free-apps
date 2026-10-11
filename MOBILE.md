@@ -372,6 +372,7 @@
 ## Utility
 
 - [AI Dictation](https://aidictation.com) - Voice-to-text through an iOS keyboard or Android floating microphone, with offline recognition on supported devices and optional cloud transcription and cleanup. 🤖 🍎 [🟢](https://github.com/writingmate/aidictation)
+- [DueLog](https://apps.apple.com/us/app/duelog/id6787160628) ([Google Play](https://play.google.com/store/apps/details?id=com.appfactory.duelog)) - Free to install with in-app purchases; track return windows, warranties, trials, renewals, and expiry dates in a private local log. 🤖 🍎
 
 ### Clipboard Management
 

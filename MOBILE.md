@@ -272,6 +272,7 @@
 - [iDownloader](https://apps.apple.com/us/app/idownloader-pro/id657087236) - Download manager with browser integration and video support. 🍎
 - [MyJDownloader](https://my.jdownloader.org) - Remotely manage downloads from your desktop JDownloader. 🤖 🍎
 - [FluxDown](https://fluxdown.zerx.dev) - Multi-protocol download manager with IDM-style dynamic segmentation, covering HTTP, FTP, BitTorrent, eD2K, HLS and DASH. 🤖 [🟢](https://github.com/zerx-lab/FluxDown)
+- [Ketch](https://github.com/linroid/Ketch) - Parallel downloads with pause and resume, scheduling, speed limits, and support for HTTP, FTP and BitTorrent. 🤖 [🟢](https://github.com/linroid/Ketch)
 
 ## Graphics Tools
 

@@ -188,6 +188,7 @@
 - [Spark](https://sparkmailapp.com) - Fast email client with team collaboration features. 🍎 🐧
 - [ThunderBird](https://thunderbird.net) - Email client for easier management. 🪟 🍎 🐧 🟢
 - [Tutanota](https://tutanota.com) - Encrypted service focused on privacy. 🪟 🍎 🐧
+- [Aster Mail](https://astermail.org) - Private, end-to-end encrypted email with post-quantum protection, PGP, aliases, and custom domains. 🪟 🍎 🐧 [🟢](https://github.com/Aster-Privacy/Aster-Mail)
 
 ## Compression and Archiving
 

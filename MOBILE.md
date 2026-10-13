@@ -141,6 +141,7 @@
 - [Spark](https://sparkmailapp.com) - Collaboration-focused email app with advanced email triage tools. 🤖 🍎
 - [FairEmail](https://email.faircode.eu) - Lightweight open-source email client with strong privacy features. 🤖 🟢
 - [Mailfo](https://mailfo.pages.dev) - Disposable temporary email and instant verification OTP receiver. 🤖
+- [Aster Mail](https://astermail.org) - Private, end-to-end encrypted email with post-quantum protection, PGP, aliases, and custom domains. 🤖 [🟢](https://github.com/Aster-Privacy/Aster-Android)
 
 ## Compression and Archiving
 

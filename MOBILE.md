@@ -371,6 +371,10 @@
 
 ## Utility
 
+### System Monitoring
+
+- [Fern](https://get-fern.vercel.app) - Offline Material 3 system monitor with live CPU, RAM, thermal, battery, and optional Shizuku per-app metrics. 🤖 [🟢](https://github.com/wized2/Fern)
+
 - [AI Dictation](https://aidictation.com) - Voice-to-text through an iOS keyboard or Android floating microphone, with offline recognition on supported devices and optional cloud transcription and cleanup. 🤖 🍎 [🟢](https://github.com/writingmate/aidictation)
 
 ### Clipboard Management

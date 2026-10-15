@@ -24,7 +24,10 @@ test("create rewrites source-relative links for generated filter pages", () => {
     [
       ...header,
       '<a href="./MOBILE.md">Mobile</a> <img src="./logo.svg">',
-      "[Contribute](./contributing.md)",
+      "[Contribute](contributing.md)",
+      "[Mobile](MOBILE.md)",
+      "[Guide](./full-guide.md)",
+      "[Remote](https://example.com/) [Section](#audio)",
       '<a href="./filter/windows-only.md">Windows</a>',
     ].join("\n"),
   );
@@ -39,6 +42,10 @@ test("create rewrites source-relative links for generated filter pages", () => {
     assert.match(generated, /href="\.\.\/MOBILE\.md"/);
     assert.match(generated, /src="\.\.\/logo\.svg"/);
     assert.match(generated, /\]\(\.\.\/contributing\.md\)/);
+    assert.match(generated, /\]\(\.\.\/MOBILE\.md\)/);
+    assert.match(generated, /\]\(\.\.\/full-guide\.md\)/);
+    assert.match(generated, /\]\(https:\/\/example\.com\/\)/);
+    assert.match(generated, /\]\(#audio\)/);
     assert.match(generated, /href="\.\/windows-only\.md"/);
   } finally {
     fs.rmSync(directory, { recursive: true, force: true });

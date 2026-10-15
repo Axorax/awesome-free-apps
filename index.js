@@ -29,9 +29,10 @@ function create(file, fileName, emoji, outputDir = './filter') {
 
   const generated = result
     .join('\n')
-    .replace(/(\]\(|(?:href|src)=["'])\.\/(filter\/)?/g, (_, prefix, filterPath) =>
-      `${prefix}${filterPath ? './' : '../'}`,
-    );
+    .replace(/(\]\(|(?:href|src)=["'])(?![a-z][a-z0-9+.-]*:|\/|#)([^"'\s)]+)/gi, (_, prefix, target) => {
+      const relativeTarget = target.replace(/^\.\//, '');
+      return `${prefix}${relativeTarget.startsWith('filter/') ? `./${relativeTarget.slice(7)}` : `../${relativeTarget}`}`;
+    });
   fs.writeFileSync(`${outputDir}/${fileName}.md`, generated);
   console.log(`${fileName} time: \x1b[32m${Date.now() - startTime}ms\x1b[0m`);
 }

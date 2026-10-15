@@ -88,6 +88,7 @@
 
 - [FXSound](https://fxsound.com) - Boost sound quality, volume, and bass. Has a beautiful modern UI. 🪟 🟢 ⭐
 - [JACK Audio](https://jackaudio.org) - Audio server for routing and mixing sound between programs. 🪟 🍎 🐧
+- [Practical Web Tools Audio Workstation](https://practicalwebtools.com/studio/audio-workstation) - Browser-based DAW with instruments, samples, MIDI sequencing and mixing. Projects save locally, nothing uploads. 🪟 🍎 🐧
 - [EarTrumpet](https://eartrumpet.app) - Advanced volume control for Windows, offering app-specific audio management. 🪟
 - [Ambie](https://github.com/jenius-apps/ambie) - Use white noise, nature sounds, & more to boost your productivity. 🪟 🟢
 - [BlackHole](https://github.com/ExistentialAudio/BlackHole) - Virtual audio loopback driver for routing audio between macOS applications. 🍎 🟢
@@ -545,6 +546,7 @@
 - [GIMP](https://gimp.org) - Versatile image editor for tasks like photo manipulation and graphic design. 🪟 🍎 🐧 🟢 ⭐
 - [Inkscape](https://inkscape.org/en) - Vector graphics editor used for creating logos, illustrations, and more. 🪟 🍎 🐧 🟢 ⭐
 - [Krita](https://krita.org) - Digital painting software designed for illustrators and concept artists. 🪟 🍎 🐧 🟢 ⭐
+- [Practical Web Tools Studio](https://practicalwebtools.com/studio) - Browser-based creative suite: photo editor with layers and PSD support, vector editor, video editor, DAW, motion graphics, and RAW photo development. Runs fully client-side. 🪟 🍎 🐧
 - [Aspect](https://aspect.bildhuus.com) - Photo organizer with peer-to-peer synchronization for secure image storage. 🪟 🍎 🐧
 - [pngquant](https://pngquant.org) - Command-line tool for compressing PNG images without losing quality. 🪟 🍎 🐧
 - [Alchemy](https://al.chemy.org) - Experimental drawing application focused on conceptual art creation. 🪟 🍎 🐧

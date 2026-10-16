@@ -1,7 +1,7 @@
 const fs = require('fs');
 const { execSync } = require('child_process');
 
-function create(file, fileName, emoji) {
+function create(file, fileName, emoji, outputDir = './filter') {
   const startTime = Date.now();
   let data = fs.readFileSync(file, 'utf8');
   const emojis = new Set(["🪟", "🍎", "🐧", "🟢", "⭐", "🤖"]);
@@ -9,7 +9,6 @@ function create(file, fileName, emoji) {
   let lineCount = 0;
   const lines = data.split('\n');
 
-  const outputDir = './filter';
   if (!fs.existsSync(outputDir)) {
     fs.mkdirSync(outputDir);
   }
@@ -28,7 +27,13 @@ function create(file, fileName, emoji) {
     result.push(lines[i]);
   }
 
-  fs.writeFileSync(`${outputDir}/${fileName}.md`, result.join('\n').replaceAll('./filter/', '').replaceAll('href="./', 'href="../').replaceAll('src="./', 'src="../'));
+  const generated = result
+    .join('\n')
+    .replace(/(\]\(|(?:href|src)=["'])(?![a-z][a-z0-9+.-]*:|\/|#)([^"'\s)]+)/gi, (_, prefix, target) => {
+      const relativeTarget = target.replace(/^\.\//, '');
+      return `${prefix}${relativeTarget.startsWith('filter/') ? `./${relativeTarget.slice(7)}` : `../${relativeTarget}`}`;
+    });
+  fs.writeFileSync(`${outputDir}/${fileName}.md`, generated);
   console.log(`${fileName} time: \x1b[32m${Date.now() - startTime}ms\x1b[0m`);
 }
 
@@ -314,6 +319,7 @@ if (require.main === module) {
 }
 
 module.exports = {
+  create,
   getLinks,
   mapWithConcurrency,
   testLinksInAllFiles,

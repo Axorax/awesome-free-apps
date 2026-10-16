@@ -259,7 +259,7 @@
 - [Dcoder](https://dcoder.tech) - Mobile IDE supporting multiple programming languages. 🤖 🍎
 - [Textastic](https://textasticapp.com) - Code and text editor with syntax support for numerous languages. 🍎
 - [AIDE](https://play.google.com/store/apps/details?id=com.aide.ui) - Mobile IDE to code and build Android apps on the go. 🤖
-- [Concise: Hemingway Editor](https://apps.apple.com/us/app/concise-hemingway-editor/id6783388958) ([Google Play](https://play.google.com/store/apps/details?id=com.appfactory.concise)) - Free to install with in-app purchases; run core readability and clarity checks on-device and review hard sentences, passive voice, adverbs, and wordy phrases. 🤖 🍎
+- [Concise: Hemingway Editor](https://apps.apple.com/us/app/concise-hemingway-editor/id6783388958) - Free to install with in-app purchases; run core readability and clarity checks on-device and review hard sentences, passive voice, adverbs, and wordy phrases. [🤖](https://play.google.com/store/apps/details?id=com.appfactory.concise) [🍎](https://apps.apple.com/us/app/concise-hemingway-editor/id6783388958)
 
 ## Finance
 

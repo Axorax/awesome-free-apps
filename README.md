@@ -634,6 +634,7 @@
 ## Video
 
 - [FreeTube](https://freetubeapp.io) - Private YouTube client with no ads. 🪟 🍎 🐧
+- [Lucid](https://github.com/braedonsaunders/lucid) - Real-time AI super-resolution that sharpens low-bitrate browser video in place on Apple silicon Macs. 🍎 🟢
 
 ### Video Editors
 

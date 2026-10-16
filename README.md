@@ -358,6 +358,7 @@
 
 - [CDisplayEx](https://www.cdisplayex.com) - Lightweight comic book reader (.cbr, .cbz, .pdf, manga). 🪟
 - [InvoiceFlowAI](https://www.orz.md/invoice-downloader/) - Collects PDF, OFD, and XML invoices from QQ or 163 email, uses OCR to classify them, and exports Excel summaries for review. 🪟 🍎 [🟢](https://github.com/EthanYoQ/Invoice-Downloader)
+- [Glim](https://github.com/NeoPanic/Glim) - View Markdown with diagrams, PDFs, images, JSON, CSV and source code in one workspace. 🍎 [🟢](https://github.com/NeoPanic/Glim)
 
 ### Office Suites
 

@@ -504,6 +504,7 @@
 - [ProtonUp-Qt](https://davidotek.github.io/protonup-qt) - Tool for managing Proton/Wine compatibility. 🐧 [🟢](https://github.com/DavidoTek/ProtonUp-Qt)
 - [Porting Kit](https://portingkit.com) - Install Windows games on Mac. 🍎
 - [Ubisoft Connect](https://ubisoftconnect.com) - Game launcher for Ubisoft titles. 🪟 🍎
+- [fpsm](https://github.com/rohit267/fpsm) - FPS counter overlay and screenshot hotkey for games, a Fraps alternative that works with DirectX, OpenGL and Vulkan. 🪟 🟢
 
 ### Cloud Gaming
 

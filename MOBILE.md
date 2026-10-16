@@ -366,6 +366,7 @@
 - [Frankly](https://apps.apple.com/us/app/frankly-cards-for-connection/id6784455025) - Conversation card decks for couples, friends and family, swiped one at a time with a follow-up question behind each card. Works offline, no account, answers stay on device. 🍎
 - [Question Cards](https://questioncards.app) - Free conversation cards for couples, first dates, friends, and deep talks on iPhone and iPad. 🍎
 - [CareClinic](https://careclinic.io/) - Track symptoms, medications, mood, sleep, and daily health patterns in one journal. 🤖 🍎
+- [UV Guard: UV Index & Tanning](https://apps.apple.com/us/app/uv-guard-uv-index-tanning/id6777101064) - Shows current UV levels, hourly weather, saved places, and sun-exposure sessions, with no account or ads. Free, with no subscriptions or in-app purchases. 🍎
 - [Desk Movement Breaks](https://play.google.com/store/apps/details?id=com.appfactory.deskmovementbreaks) - Offers short seated or standing routines with quiet-office and limited-space filters, silent reminders, and private local history. 🤖
 
 ## Sports

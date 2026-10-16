@@ -19,7 +19,7 @@
 
 ## Contents
 
-<!-- AF-TOC : Monday, September 14, 2026 at 09:51:16 AM UTC -->
+<!-- AF-TOC : Friday, October 16, 2026 at 06:40:51 AM UTC -->
 
 - [Audio](#audio)
   - [Audio Players](#audio-players)
@@ -141,6 +141,7 @@
 - [Spark](https://sparkmailapp.com) - Collaboration-focused email app with advanced email triage tools. 🤖 🍎
 - [FairEmail](https://email.faircode.eu) - Lightweight open-source email client with strong privacy features. 🤖 🟢
 - [Mailfo](https://mailfo.pages.dev) - Disposable temporary email and instant verification OTP receiver. 🤖
+- [Aster Mail](https://astermail.org) - Private, end-to-end encrypted email with post-quantum protection, PGP, aliases, and custom domains. 🤖 [🟢](https://github.com/Aster-Privacy/Aster-Android)
 
 ## Compression and Archiving
 
@@ -280,6 +281,7 @@
 - [Snapseed](https://support.google.com/snapseed) - Powerful photo editing app with fine-tuning tools. 🤖 🍎
 - [Adobe Express](https://www.adobe.com/express) - Create graphics and collages with Adobe’s design tools. 🤖 🍎
 - [InkCraft](https://inkcraftapp.com) - Tattoo try-on that places designs on a photo of your own body, with a 3D body model and AI design generation. 🍎
+- [Softbox Atlas: Light Planner](https://apps.apple.com/us/app/softbox-atlas-light-planner/id6816658449) - Plans photography lighting setups on a schematic canvas with subjects, cameras, lights, modifiers, backdrops, and shareable diagrams. 🍎
 
 ## 3D Modeling and Animation
 
@@ -365,6 +367,7 @@
 - [Question Cards](https://questioncards.app) - Free conversation cards for couples, first dates, friends, and deep talks on iPhone and iPad. 🍎
 - [CareClinic](https://careclinic.io/) - Track symptoms, medications, mood, sleep, and daily health patterns in one journal. 🤖 🍎
 - [UV Guard: UV Index & Tanning](https://apps.apple.com/us/app/uv-guard-uv-index-tanning/id6777101064) - Shows current UV levels, hourly weather, saved places, and sun-exposure sessions, with no account or ads. Free, with no subscriptions or in-app purchases. 🍎
+- [Desk Movement Breaks](https://play.google.com/store/apps/details?id=com.appfactory.deskmovementbreaks) - Offers short seated or standing routines with quiet-office and limited-space filters, silent reminders, and private local history. 🤖
 
 ## Sports
 

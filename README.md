@@ -107,6 +107,7 @@
 - [Ocenaudio](https://ocenaudio.com) - Easy-to-use audio editor for recording and analyzing sounds. 🪟 🍎 🐧
 - [Wavosaur](https://www.wavosaur.com) - Simple audio editor for recording, editing, and processing sound. 🪟
 - [echo99](https://www.echo99.app/) - Private call recorder with on-device transcription and speaker labels. 🍎
+- [akou](https://geiserx.github.io/akou/) - Call and meeting recorder with on-device transcription, speaker labels, timestamped notes, and an MCP server for terminal agents. 🍎 [🟢](https://github.com/GeiserX/akou)
 
 ### DJ Software
 
@@ -188,6 +189,7 @@
 - [Spark](https://sparkmailapp.com) - Fast email client with team collaboration features. 🍎 🐧
 - [ThunderBird](https://thunderbird.net) - Email client for easier management. 🪟 🍎 🐧 🟢
 - [Tutanota](https://tutanota.com) - Encrypted service focused on privacy. 🪟 🍎 🐧
+- [Aster Mail](https://astermail.org) - Private, end-to-end encrypted email with post-quantum protection, PGP, aliases, and custom domains. 🪟 🍎 🐧 [🟢](https://github.com/Aster-Privacy/Aster-Mail)
 
 ## Compression and Archiving
 
@@ -272,6 +274,7 @@
 - [Atomic Agent](https://atomicagent.io) - Local-first CLI and TUI coding assistant that runs open-weight models entirely on your machine. Includes 56 built-in tools for browser, filesystem, git, memory, and vision, MCP support, and a five-layer local memory system. No account or API key required. 🪟 🍎 🐧 [🟢](https://github.com/AtomicBot-ai/atomic-agent)
 - [DSH Studio](https://github.com/Moresyl/dsh-studio) - Installs, supervises, and manages DeepSeek Harness from a cross-platform desktop interface. 🪟 🍎 🐧 [🟢](https://github.com/Moresyl/dsh-studio)
 - [Keploy](https://github.com/keploy/keploy) - Record real API traffic and replay it as regression tests with auto-generated dependency mocks. 🐧 🟢
+- [Brow](https://efim0v.github.io/brow) - MacBook notch app showing the 5-hour, weekly and model-specific Claude Code usage limits of every account, with reset times, a reset calendar and a separate browser profile per account for sign-in. 🍎 [🟢](https://github.com/efim0v/brow)
 
 ### API Development
 
@@ -479,6 +482,7 @@
 - [Xtreme Download Manager (XDM)](https://xtremedownloadmanager.com) - Powerful tool to increase download speed. 🪟 🍎 🐧 [🟢](https://github.com/subhra74/xdm)
 - [Transmission](https://transmissionbt.com) - Lightweight BitTorrent client with native desktop, daemon, and web interfaces. 🪟 🍎 🐧 [🟢](https://github.com/transmission/transmission)
 - [FluxDown](https://fluxdown.zerx.dev) - Multi-protocol download manager with IDM-style dynamic segmentation, covering HTTP, FTP, BitTorrent, eD2K, HLS and DASH. 🪟 🍎 🐧 [🟢](https://github.com/zerx-lab/FluxDown)
+- [Arroxy](https://orionus.dev/arroxy/) - Video and audio downloader built on yt-dlp for YouTube and other supported sites, with playlist, channel, subtitle and SponsorBlock support. 🪟 🍎 🐧 [🟢](https://github.com/antonio-orionus/Arroxy)
 
 ## Games
 
@@ -753,6 +757,7 @@
 - [DueFlow](https://ustinian5.github.io/DueFlow/) - Local-first deadline planner that turns notes or OCR text into reverse schedules, checks risks, and exports calendar events. 🍎 [🟢](https://github.com/Ustinian5/DueFlow)
 - [Abendrot](https://abendrot.app) - Menu bar screen warmer that cuts blue light on every display with a sunset-based schedule. 🍎 [🟢](https://github.com/matthewrball/abendrot)
 - [LeafyApp](https://leafyapp.uk) - Menu bar vocabulary builder that reads any word on screen, saves it with the sentence around it, and quizzes you on it later. 🍎
+- [AirStats](https://airstats.app) - Lightweight menu bar system monitor for CPU, memory, GPU, network, disk, battery, and temperature, with 24-hour history graphs and a desktop widget. 🍎 [🟢](https://github.com/byrencheema/airstats)
 
 ### Clipboard Management
 

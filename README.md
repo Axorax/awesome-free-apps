@@ -758,6 +758,7 @@
 - [Abendrot](https://abendrot.app) - Menu bar screen warmer that cuts blue light on every display with a sunset-based schedule. 🍎 [🟢](https://github.com/matthewrball/abendrot)
 - [LeafyApp](https://leafyapp.uk) - Menu bar vocabulary builder that reads any word on screen, saves it with the sentence around it, and quizzes you on it later. 🍎
 - [AirStats](https://airstats.app) - Lightweight menu bar system monitor for CPU, memory, GPU, network, disk, battery, and temperature, with 24-hour history graphs and a desktop widget. 🍎 [🟢](https://github.com/byrencheema/airstats)
+- [Whisper Transcriber Suite](https://whisper-transcriber-suite.pages.dev) - Offline speech-to-text with Whisper models: transcribes audio, video and YouTube links into subtitles or documents (SRT, VTT, DOCX, PDF) with speaker labels. 🪟 🍎 [🟢](https://github.com/Milomilo777/whisper-transcriber-suite)
 
 ### Clipboard Management
 

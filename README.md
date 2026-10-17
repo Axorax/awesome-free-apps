@@ -275,6 +275,7 @@
 - [DSH Studio](https://github.com/Moresyl/dsh-studio) - Installs, supervises, and manages DeepSeek Harness from a cross-platform desktop interface. 🪟 🍎 🐧 [🟢](https://github.com/Moresyl/dsh-studio)
 - [Keploy](https://github.com/keploy/keploy) - Record real API traffic and replay it as regression tests with auto-generated dependency mocks. 🐧 🟢
 - [Brow](https://efim0v.github.io/brow) - MacBook notch app showing the 5-hour, weekly and model-specific Claude Code usage limits of every account, with reset times, a reset calendar and a separate browser profile per account for sign-in. 🍎 [🟢](https://github.com/efim0v/brow)
+- [Oh My Android](https://github.com/ateymoori/oh-my-android) - Control panel for the Android Emulator and adb devices with one-click dark mode, font scale, RTL, TalkBack, network throttling, Layout Inspector in dp, and an MCP server for AI agents. 🍎 [🟢](https://github.com/ateymoori/oh-my-android)
 
 ### API Development
 

@@ -826,6 +826,7 @@
 - [Revo Uninstaller](https://www.revouninstaller.com/revo-uninstaller-free-download) - Advanced uninstaller to remove programs and residual files with free tier. 🪟
 - [PureMac](https://github.com/momenbasel/PureMac) - macOS app manager and system cleaner for uninstalling apps, removing orphaned files, and cleaning caches. 🍎 🟢
 - [Dusty](https://github.com/yagcioglutoprak/dusty) - macOS menu bar cleaner for reclaiming space from safe caches, logs, and developer artifacts. 🍎 🟢
+- [Peel](https://peel.tuguidragos.com) - Uninstalls apps with every file they leave behind, shows why each file belongs, and moves everything to the Trash, where History can put it back. 🍎 [🟢](https://github.com/TuguiDragos/Peel)
 
 ### Screenshot
 

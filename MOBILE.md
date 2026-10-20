@@ -253,6 +253,7 @@
 ## Education
 
 - [LearnClash](https://learnclash.com) - Competitive learning app with 1v1 quiz duels on any topic, skill-based matchmaking and built-in spaced repetition. Free daily duels, no ads. 🤖 🍎
+- [Terminus](https://terminus-cards.pages.dev/?tag=awesome-free-apps) - Flashcards from your own list on the iPhone Lock Screen widget, with FSRS spaced repetition fitted to a test date. No account, no ads. 🍎
 
 ## Text Editors
 

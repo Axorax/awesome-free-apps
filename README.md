@@ -782,6 +782,7 @@
 - [Metadata++](https://metadata.en.softonic.com) - View, edit, and remove metadata from files and photos. 🪟
 - [MP3Tag](https://mp3tag.de/en) - Edit and manage metadata for audio files. 🪟
 - [PhotoME](https://photome.de) - View and edit EXIF metadata for photos. 🪟
+- [EXIF Hound](https://github.com/minimallyexceptional/exif-hound) - Desktop app that inspects image EXIF metadata locally, maps GPS-tagged photos, and exports CSV/JSON. 🪟 🍎 🐧 [🟢](https://github.com/minimallyexceptional/exif-hound)
 
 
 ### Window Management

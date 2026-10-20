@@ -758,6 +758,7 @@
 - [Abendrot](https://abendrot.app) - Menu bar screen warmer that cuts blue light on every display with a sunset-based schedule. 🍎 [🟢](https://github.com/matthewrball/abendrot)
 - [LeafyApp](https://leafyapp.uk) - Menu bar vocabulary builder that reads any word on screen, saves it with the sentence around it, and quizzes you on it later. 🍎
 - [AirStats](https://airstats.app) - Lightweight menu bar system monitor for CPU, memory, GPU, network, disk, battery, and temperature, with 24-hour history graphs and a desktop widget. 🍎 [🟢](https://github.com/byrencheema/airstats)
+- [Swivel](https://jonathanlotan.github.io/Swivel/) - Menu bar app that opens a radial wheel while you drag files to convert images, video, audio, documents, and archives, or resize, compress, OCR, and remove metadata offline. 🍎 [🟢](https://github.com/jonathanlotan/Swivel)
 
 ### Clipboard Management
 

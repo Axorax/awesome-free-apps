@@ -275,7 +275,7 @@
 - [DSH Studio](https://github.com/Moresyl/dsh-studio) - Installs, supervises, and manages DeepSeek Harness from a cross-platform desktop interface. 🪟 🍎 🐧 [🟢](https://github.com/Moresyl/dsh-studio)
 - [Keploy](https://github.com/keploy/keploy) - Record real API traffic and replay it as regression tests with auto-generated dependency mocks. 🐧 🟢
 - [Brow](https://efim0v.github.io/brow) - MacBook notch app showing the 5-hour, weekly and model-specific Claude Code usage limits of every account, with reset times, a reset calendar and a separate browser profile per account for sign-in. 🍎 [🟢](https://github.com/efim0v/brow)
-- [Frink](https://frink.dev) - Fine-tuned automation for everyone: visual workflows where AI coding agents (Claude Code, Codex, OpenCode, GitHub Copilot, Cursor) act on your tickets, errors and schedules, and ask before they change anything. 🍎 🐧 [🟢](https://github.com/benord-labs/frink)
+- [Frink](https://frink.dev) - Desktop-first, open-source (MIT) application for running parallel agents, and multi-step custom workflows triggered by schedules, webhooks or events from tools like Linear and Sentry, across your already-used providers. 🍎 🐧 [🟢](https://github.com/benord-labs/frink)
 
 ### API Development
 

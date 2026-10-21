@@ -762,6 +762,7 @@
 - [LeafyApp](https://leafyapp.uk) - Menu bar vocabulary builder that reads any word on screen, saves it with the sentence around it, and quizzes you on it later. 🍎
 - [AirStats](https://airstats.app) - Lightweight menu bar system monitor for CPU, memory, GPU, network, disk, battery, and temperature, with 24-hour history graphs and a desktop widget. 🍎 [🟢](https://github.com/byrencheema/airstats)
 - [Plainsay](https://plainsay.app/) - Mac menu-bar dictation with free Local Whisper or Parakeet, no account; optional paid Cloud transcription uploads audio. 🍎 [🟢](https://github.com/conrader/plainsay)
+- [echo agent](https://echoagent.dev) - Voice AI agent with on-device speech recognition: press Fn+Space in any app to get answers, ask about the current window, fill in message and email drafts without sending, set reminders, or hand coding tasks to Claude Code and Codex. 🪟 🍎
 
 ### Clipboard Management
 

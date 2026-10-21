@@ -607,6 +607,10 @@
 - [SaneHosts](https://sanehosts.com) - macOS hosts file manager for system-wide ad and tracker blocking. 🍎 [🟢](https://github.com/sane-apps/SaneHosts)
 - [Holeberry](https://holeberryapp.com) - Native macOS menu bar app to monitor and control Pi-hole instances with blocking stats, timed disable, and one-click unblocking. 🍎 [🟢](https://github.com/pedrovieira/Holeberry)
 
+### Device Activity
+
+- [PrivacyDot](https://farflashgroup.github.io/PrivacyDot/) - Shows detected microphone and camera activity in the Windows tray, with apps grouped by device. 🪟 [🟢](https://github.com/farflashgroup/PrivacyDot)
+
 ## Image Viewers
 
 - [ImageGlass](https://imageglass.org) - Lightweight, versatile image viewer. 🪟 🟢 ⭐

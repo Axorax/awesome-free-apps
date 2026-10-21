@@ -609,7 +609,7 @@
 
 ### Device Activity
 
-- [PrivacyDot](https://farflashgroup.github.io/PrivacyDot/) - Shows detected microphone and camera activity in the Windows tray, with apps grouped by device. 🪟 [🟢](https://github.com/farflashgroup/PrivacyDot)
+- [PrivacyDot](https://privacydot.farflash.com/) - Shows detected microphone and camera activity in the Windows tray, with apps grouped by device. 🪟 [🟢](https://github.com/farflashgroup/PrivacyDot)
 
 ## Image Viewers
 

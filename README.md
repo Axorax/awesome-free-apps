@@ -251,6 +251,9 @@
 - [rclone](https://rclone.org) - Command-line tool for managing and syncing files with cloud storage. 🪟 🍎 🐧
 - [Syncthing](https://github.com/syncthing/syncthing) - Continuous file synchronization for multiple computers. 🪟 🍎 🐧 🟢
 
+### Data Recovery
+- [ReviveUSB](https://barbellsoft.com/revive/) - Recovers files from failing or RAW USB drives by imaging the drive first, then repairs it. 🪟
+
 ## Developer Tools
 
 - [livewinsize](https://github.com/Axorax/livewinsize) - Visualize window size in pixels and other units. 🪟 🟢 ⭐

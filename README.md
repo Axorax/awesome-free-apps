@@ -720,6 +720,7 @@
 
 ## Utility
 
+- [Dopamine](https://dopamine.33rd.pro) - Keep Apple Silicon Mac awake with screen closed without baking your display. 🍎 [🟢](https://github.com/UniversalSDK/Dopamine)
 - [AutoHotkey](https://autohotkey.com) - Scripting language for task automation and custom hotkeys. 🪟 [🟢](https://github.com/AutoHotkey/AutoHotkey) ⭐
 - [PowerToys](https://learn.microsoft.com/en-us/windows/powertoys) - Utilities for file renaming, resizing, and productivity tools. 🪟 [🟢](https://github.com/microsoft/PowerToys) ⭐
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) - Command-line tool for downloading audio and video. 🪟 🍎 🐧 [🟢](https://github.com/yt-dlp/yt-dlp) ⭐

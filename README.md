@@ -808,6 +808,7 @@
 - [AltTab](https://alt-tab.app) - Window switcher that brings Windows-style alt-tab previews and controls to macOS. 🍎 [🟢](https://github.com/lwouis/alt-tab-macos)
 - [Waindow](https://www.waindow.app/) - Arranges and restores Mac windows, links local Markdown memos to them, captures long pages, and prevents idle sleep. 🍎
 - [Plonk](https://ostapondo.github.io/Plonk/) - Move and resize windows with custom zones, save layouts as workspaces, and take screenshots. 🍎 [🟢](https://github.com/ostapondo/Plonk)
+- [LayoutKeeper](https://github.com/tumingke0/LayoutKeeper) - Saves window layouts per external monitor and restores position, size and Space when it's plugged back in. 🍎 🟢
 
 ### File Management
 

@@ -762,6 +762,7 @@
 - [LeafyApp](https://leafyapp.uk) - Menu bar vocabulary builder that reads any word on screen, saves it with the sentence around it, and quizzes you on it later. 🍎
 - [AirStats](https://airstats.app) - Lightweight menu bar system monitor for CPU, memory, GPU, network, disk, battery, and temperature, with 24-hour history graphs and a desktop widget. 🍎 [🟢](https://github.com/byrencheema/airstats)
 - [Plainsay](https://plainsay.app/) - Mac menu-bar dictation with free Local Whisper or Parakeet, no account; optional paid Cloud transcription uploads audio. 🍎 [🟢](https://github.com/conrader/plainsay)
+- [vhr-bench](https://vpshostreview.com/vps-benchmark-tool) - Benchmarks a Linux server's CPU and memory with sysbench and its 4K random disk read and write IOPS with fio in about a minute, and asks before installing either tool. 🐧 [🟢](https://github.com/vpshostreview/vhr-vps-benchmark)
 
 ### Clipboard Management
 

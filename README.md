@@ -717,6 +717,7 @@
 - [v2rayN](https://github.com/2dust/v2rayN) - Open source GUI for Xray and Sing-box. 🪟 🍎 🐧 🟢
 - [WireGuard](https://wireguard.com) - Fast, secure VPN protocol designed for simplicity. 🪟 🍎 🐧 [🟢](https://www.wireguard.com/repositories)
 - [Tailscale](https://tailscale.com) - Mesh VPN client for secure private networks using WireGuard. 🪟 🍎 🐧
+- [RoutEngine](https://routengine.net) - Choose which network adapter each app uses, with failover, speed limits and data caps. Free for personal use. 🪟 🍎 🐧
 
 ## Utility
 

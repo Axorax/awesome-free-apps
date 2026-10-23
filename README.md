@@ -856,6 +856,8 @@
 - [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer) - Identify large files and folders with an intuitive tree map. 🪟
 - [TreeSize Free](https://jam-software.com/treesize_free) - Visualizes disk space usage in a tree-like structure for easy file management. 🪟
 
+- [KarmaDisk](https://www.karmadisk.eu/) - Free disk maps, duplicate review and guided cleanup for macOS 15+; photo processing has a 50-photo lifetime sample and optional one-time upgrade. 🍎
+
 ### Trackpad
 
 - [MiddleDrag](https://middledrag.app) - Three-finger trackpad gestures for middle-click and middle-drag on macOS. 🍎 [🟢](https://github.com/NullPointerDepressiveDisorder/MiddleDrag)

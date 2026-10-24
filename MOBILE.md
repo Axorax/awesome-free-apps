@@ -238,6 +238,8 @@
 - [AnyPDF](https://play.google.com/store/apps/details?id=com.mobileups.anypdf) - Fast, ad-light PDF reader and viewer for Android. 🤖
 - [PDF to Word](https://play.google.com/store/apps/details?id=com.mobileups.pdftowordconverter) - Convert PDF documents to editable Word files on-device. 🤖
 - [DocLens Pro](https://play.google.com/store/apps/details?id=com.mobileups.doclenspro) - Scan documents and run OCR to extract text from images and PDFs. 🤖
+- [Pix Scan](https://play.google.com/store/apps/details?id=ltd.onesoft.pic_scanner_app) - Offline PDF scanner with OCR, signing, editing, and read-aloud to MP3. 🤖
+- [LuraPDF](https://play.google.com/store/apps/details?id=com.lurapdf.app) - Scan, sign, edit, and compress PDFs on-device. 🤖
 
 ## Note Taking
 
@@ -345,6 +347,7 @@
 - [VidCompact](https://play.google.com/store/apps/details?id=com.xvideostudio.videoeditor) - Convert and compress videos while maintaining quality. 🤖
 - [Video Converter](https://play.google.com/store/apps/details?id=com.tecno.video.converter) - Easy video format conversion and compression. 🤖
 - [iConv](https://apps.apple.com/us/app/iconv-video-converter/id1102651966) - Convert videos to different formats with simple controls. 🍎
+- [PixConvert](https://play.google.com/store/apps/details?id=com.pixconvert.app) - 41 on-device tools to compress and convert photos, PDFs, video, and audio. 🤖
 
 ## VPN and Proxy Tools
 

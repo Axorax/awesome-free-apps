@@ -824,6 +824,7 @@
 - [Sigma File Manager](https://github.com/aleksey-hoffman/sigma-file-manager) - Modern file manager with advanced features. 🪟 🐧 [🟢](https://github.com/aleksey-hoffman/sigma-file-manager)
 - [Cyberduck](https://cyberduck.io) - File transfer client for FTP, SFTP, WebDAV, S3, Azure, OneDrive, and other storage services. 🪟 🍎 [🟢](https://github.com/iterate-ch/cyberduck)
 - [Chatda](https://barbellsoft.com/chatda/) - Fast file search by name and by text inside PDF, Word, Excel, PowerPoint and HWPX files, including external drives and network folders. 🪟 🍎
+- [Alpha File Manager](https://www.aiec.fun/alpha-file-manager/) - Modern file manager with a permanent folder tree, recursive folder comparison and sync, SFTP/FTP/FTPS and an MCP server for AI assistants. 🧹 [🟢](https://github.com/kizemo/alpha-file-manager)
 
 ### Application Management
 

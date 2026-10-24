@@ -831,6 +831,7 @@
 - [Revo Uninstaller](https://www.revouninstaller.com/revo-uninstaller-free-download) - Advanced uninstaller to remove programs and residual files with free tier. 🪟
 - [PureMac](https://github.com/momenbasel/PureMac) - macOS app manager and system cleaner for uninstalling apps, removing orphaned files, and cleaning caches. 🍎 🟢
 - [Dusty](https://github.com/yagcioglutoprak/dusty) - macOS menu bar cleaner for reclaiming space from safe caches, logs, and developer artifacts. 🍎 🟢
+- [AppDuo](https://tamia6.github.io/AppDuo/en/) - Native macOS app cloner with separate data directories and custom names and icons. 🍎 [🟢](https://github.com/tamia6/AppDuo)
 
 ### Screenshot
 

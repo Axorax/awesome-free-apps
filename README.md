@@ -278,6 +278,7 @@
 - [DSH Studio](https://github.com/Moresyl/dsh-studio) - Installs, supervises, and manages DeepSeek Harness from a cross-platform desktop interface. 🪟 🍎 🐧 [🟢](https://github.com/Moresyl/dsh-studio)
 - [Keploy](https://github.com/keploy/keploy) - Record real API traffic and replay it as regression tests with auto-generated dependency mocks. 🐧 🟢
 - [Brow](https://efim0v.github.io/brow) - MacBook notch app showing the 5-hour, weekly and model-specific Claude Code usage limits of every account, with reset times, a reset calendar and a separate browser profile per account for sign-in. 🍎 [🟢](https://github.com/efim0v/brow)
+- [rfig](https://tamia6.github.io/rfig/) - Command completion menus and directory-scoped history suggestions for zsh, Bash and Fish on macOS and Linux. 🍎 🐧 [🟢](https://github.com/tamia6/rfig)
 
 ### API Development
 

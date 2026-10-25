@@ -158,6 +158,7 @@
 - [Mullvad Browser](https://mullvad.net/en/download/browser) - Privacy browser with Tor, anti-fingerprinting, and Mullvad VPN. 🪟 🍎 🐧 [🟢](https://github.com/mullvad/mullvad-browser)
 - [Vivaldi](https://vivaldi.com) - Customizable browser putting you in control. 🪟 🍎 🐧
 - [Zen Browser](https://zen-browser.app) - Beautifully designed, privacy-focused browser with custom mods. 🪟 🍎 🐧 [🟢](https://github.com/zen-browser/desktop)
+- [Stedding](https://stedding.dev) - Arc-style browser on Chromium with Spaces, pinned tabs and folders in a sidebar. 🪟 🍎 [🟢](https://github.com/ysalitrynskyi/stedding-browser)
 
 ## Communication
 

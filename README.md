@@ -409,6 +409,7 @@
 - [pdftk](https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit) - PDFtk is a simple tool for doing everyday things with PDF documents. 🪟 🍎 🐧
 - [PDFluent](https://pdfluent.com/download/) - Offline PDF editor for forms, OCR, redaction, signatures, conversion, and page management on Windows and macOS. 🪟 🍎
 - [OffPDF](https://offpdf.com) - Private, offline PDF toolbox for organizing, converting, compressing, OCR, and more. 🪟 🍎 [🟢](https://github.com/McanKul/offpdf)
+- [PDFkind](https://pdfkind.com) - Browser-based PDF editor and toolkit with 128 tools that edits existing text in its original font, signs, merges, compresses, runs OCR and redacts without uploading files. 🪟 🍎 🐧
 
 ## Finance
 

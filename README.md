@@ -717,6 +717,7 @@
 - [v2rayN](https://github.com/2dust/v2rayN) - Open source GUI for Xray and Sing-box. 🪟 🍎 🐧 🟢
 - [WireGuard](https://wireguard.com) - Fast, secure VPN protocol designed for simplicity. 🪟 🍎 🐧 [🟢](https://www.wireguard.com/repositories)
 - [Tailscale](https://tailscale.com) - Mesh VPN client for secure private networks using WireGuard. 🪟 🍎 🐧
+- [Zephyron](https://github.com/NineUPFLOW/Zephyron) - Traffic router that sends each app through Zapret desync, a sing-box tunnel or direct. 🪟 🟢
 
 ## Utility
 

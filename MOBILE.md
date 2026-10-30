@@ -253,6 +253,7 @@
 ## Education
 
 - [LearnClash](https://learnclash.com) - Competitive learning app with 1v1 quiz duels on any topic, skill-based matchmaking and built-in spaced repetition. Free daily duels, no ads. 🤖 🍎
+- [Open Chess](https://github.com/jupiutrera/open-chess/releases/latest) - Chess training with on-device Stockfish game review, bots, puzzles, openings and lessons. Works offline. 🤖 [🟢](https://github.com/jupiutrera/open-chess)
 
 ## Text Editors
 

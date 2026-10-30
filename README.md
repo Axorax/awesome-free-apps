@@ -809,6 +809,7 @@
 - [Waindow](https://www.waindow.app/) - Arranges and restores Mac windows, links local Markdown memos to them, captures long pages, and prevents idle sleep. 🍎
 - [Plonk](https://ostapondo.github.io/Plonk/) - Move and resize windows with custom zones, save layouts as workspaces, and take screenshots. 🍎 [🟢](https://github.com/ostapondo/Plonk)
 
+- [TinyDock](https://github.com/Wian1977/TinyDock) - Lightweight elastic-zoom dock written in Rust + GTK3, with a bundled tclock desk clock. 🐧 [🔲](https://github.com/Wian1977/TinyDock)
 ### File Management
 
 - [Everything](https://voidtools.com) - Fast file search tool indexing the entire file system. 🪟 ⭐

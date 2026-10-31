@@ -253,6 +253,7 @@
 
 ### Data Recovery
 - [ReviveUSB](https://barbellsoft.com/revive/) - Recovers files from failing or RAW USB drives by imaging the drive first, then repairs it. 🪟
+- [Frame Witness](https://framewitness.pages.dev/) - Recovers photos and videos on Windows; free account scans the first 8 GB and saves files up to 1 MB. 🪟
 
 ## Developer Tools
 

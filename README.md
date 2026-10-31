@@ -225,6 +225,7 @@
 - [SaneClick](https://saneclick.com) - Finder toolbar customizer for adding quick actions. 🍎 [🟢](https://github.com/sane-apps/SaneClick)
 - [Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for hiding, arranging, and customizing menu bar items. 🍎 [🟢](https://github.com/stonerl/Thaw)
 - [nowbar](https://apps.apple.com/us/app/nowbar-album-art-menu-bar/id6798459887) - Live album art for the currently playing music, right in the menu bar. 🍎 [🟢](https://github.com/arian-shamaei/nowbar)
+- [PC Tweaker](https://pctweaker.app/) - Reviews Windows tuning settings and restores supported changes; free tier available. 🪟
 
 ### Wallpaper Tools
 

@@ -89,6 +89,7 @@
 - [Foobar2000](https://foobar2000.org) - Minimalist player supporting advanced playback features and customization. 🤖 🍎
 - [Retro Music](https://retromusic.app) - A cleen music player made for android with speed controls and multiple themes and customizations. 🤖
 - [Music Speed Changer](https://musicspeedchanger.com) - A Music player with mainly speed controls, eq options, and mores. 🤖 🍎
+- [The Podcast App](https://thepodcastapp.dev) - Free podcast player with unlimited offline downloads, no account required, OPML import and export, CarPlay and Android Auto, and no app-inserted ads. 🤖 🍎
 
 ### Audio Recording
 

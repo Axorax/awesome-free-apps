@@ -96,7 +96,6 @@
 - [Dolby On](https://www.dolby.com/apps/dolby-on) - Enhances audio recordings with noise reduction and spatial sound effects. 🤖 🍎
 - [Otter](https://otter.ai) - Transcribes audio in real-time while recording. 🤖 🍎
 - [ShizuCallRecorder](https://github.com/kitsumed/ShizuCallRecorder) - Empowers ADB through Shizuku to record phone calls on non-rooted device. 🤖 🟢
-
 - [Transcribe Video: To The Text](https://apps.apple.com/us/app/transcribe-video-to-the-text/id6757491608) - Transcribes video, audio, YouTube links, and live voice with speaker detection, AI summaries, and TXT/DOCX export. 🍎
 
 ### DJ Software

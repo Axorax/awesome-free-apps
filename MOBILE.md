@@ -253,6 +253,7 @@
 ## Education
 
 - [LearnClash](https://learnclash.com) - Competitive learning app with 1v1 quiz duels on any topic, skill-based matchmaking and built-in spaced repetition. Free daily duels, no ads. 🤖 🍎
+- [VocaFlare Offline](https://vocaflare.com/en/offline) - Offline dictionary and vocabulary trainer with A1 to C2 word lists, tests and review games. No account needed, optional Pro upgrade. 🤖 🍎
 
 ## Text Editors
 

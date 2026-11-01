@@ -97,6 +97,8 @@
 - [Otter](https://otter.ai) - Transcribes audio in real-time while recording. 🤖 🍎
 - [ShizuCallRecorder](https://github.com/kitsumed/ShizuCallRecorder) - Empowers ADB through Shizuku to record phone calls on non-rooted device. 🤖 🟢
 
+- [Transcribe Video: To The Text](https://apps.apple.com/us/app/transcribe-video-to-the-text/id6757491608) - Transcribes video, audio, YouTube links, and live voice with speaker detection, AI summaries, and TXT/DOCX export. 🍎
+
 ### DJ Software
 
 - [djay](https://www.algoriddim.com/djay) - Combines music streaming with powerful DJ tools for seamless mixing. 🤖 🍎

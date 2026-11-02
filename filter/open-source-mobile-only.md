@@ -19,7 +19,7 @@
 
 ## Contents
 
-<!-- AF-TOC : Monday, September 14, 2026 at 09:51:16 AM UTC -->
+<!-- AF-TOC : Friday, October 16, 2026 at 06:40:51 AM UTC -->
 
 - [Audio](#audio)
   - [Audio Players](#audio-players)
@@ -114,6 +114,7 @@
 
 - [Proton Mail](https://proton.me/mail) - Encrypted email with no ads and advanced privacy tools. 🤖 🍎 🟢
 - [FairEmail](https://email.faircode.eu) - Lightweight open-source email client with strong privacy features. 🤖 🟢
+- [Aster Mail](https://astermail.org) - Private, end-to-end encrypted email with post-quantum protection, PGP, aliases, and custom domains. 🤖 [🟢](https://github.com/Aster-Privacy/Aster-Android)
 
 ## Compression and Archiving
 

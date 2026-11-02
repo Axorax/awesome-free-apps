@@ -21,7 +21,7 @@
 
 ## Contents
 
-<!-- AF-TOC : Monday, September 14, 2026 at 09:51:16 AM UTC -->
+<!-- AF-TOC : Friday, October 16, 2026 at 06:40:51 AM UTC -->
 
 - [Audio](#audio)
   - [Audio Players](#audio-players)
@@ -164,6 +164,7 @@
 - [Spark](https://sparkmailapp.com) - Fast email client with team collaboration features. 🍎 🐧
 - [ThunderBird](https://thunderbird.net) - Email client for easier management. 🪟 🍎 🐧 🟢
 - [Tutanota](https://tutanota.com) - Encrypted service focused on privacy. 🪟 🍎 🐧
+- [Aster Mail](https://astermail.org) - Private, end-to-end encrypted email with post-quantum protection, PGP, aliases, and custom domains. 🪟 🍎 🐧 [🟢](https://github.com/Aster-Privacy/Aster-Mail)
 
 ## Compression and Archiving
 
@@ -203,6 +204,7 @@
 - [DevProjex](https://github.com/Avazbek22/DevProjex) - Builds safe, token-efficient project context with GUI, TUI, CLI, visual file selection, live preview, secret redaction, Git scopes, and syntax-aware compression.    🪟 🍎 🐧 [🟢](https://github.com/Avazbek22/DevProjex)
 - [Atomic Agent](https://atomicagent.io) - Local-first CLI and TUI coding assistant that runs open-weight models entirely on your machine. Includes 56 built-in tools for browser, filesystem, git, memory, and vision, MCP support, and a five-layer local memory system. No account or API key required. 🪟 🍎 🐧 [🟢](https://github.com/AtomicBot-ai/atomic-agent)
 - [DSH Studio](https://github.com/Moresyl/dsh-studio) - Installs, supervises, and manages DeepSeek Harness from a cross-platform desktop interface. 🪟 🍎 🐧 [🟢](https://github.com/Moresyl/dsh-studio)
+- [Keploy](https://github.com/keploy/keploy) - Record real API traffic and replay it as regression tests with auto-generated dependency mocks. 🐧 🟢
 
 ### API Development
 
@@ -358,6 +360,7 @@
 - [Xtreme Download Manager (XDM)](https://xtremedownloadmanager.com) - Powerful tool to increase download speed. 🪟 🍎 🐧 [🟢](https://github.com/subhra74/xdm)
 - [Transmission](https://transmissionbt.com) - Lightweight BitTorrent client with native desktop, daemon, and web interfaces. 🪟 🍎 🐧 [🟢](https://github.com/transmission/transmission)
 - [FluxDown](https://fluxdown.zerx.dev) - Multi-protocol download manager with IDM-style dynamic segmentation, covering HTTP, FTP, BitTorrent, eD2K, HLS and DASH. 🪟 🍎 🐧 [🟢](https://github.com/zerx-lab/FluxDown)
+- [Arroxy](https://orionus.dev/arroxy/) - Video and audio downloader built on yt-dlp for YouTube and other supported sites, with playlist, channel, subtitle and SponsorBlock support. 🪟 🍎 🐧 [🟢](https://github.com/antonio-orionus/Arroxy)
 
 ## Games
 

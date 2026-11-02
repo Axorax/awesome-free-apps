@@ -19,7 +19,7 @@
 
 ## Contents
 
-<!-- AF-TOC : Monday, September 14, 2026 at 09:51:16 AM UTC -->
+<!-- AF-TOC : Friday, October 16, 2026 at 06:40:51 AM UTC -->
 
 - [Audio](#audio)
   - [Audio Players](#audio-players)
@@ -140,6 +140,7 @@
 - [Spark](https://sparkmailapp.com) - Collaboration-focused email app with advanced email triage tools. 🤖 🍎
 - [FairEmail](https://email.faircode.eu) - Lightweight open-source email client with strong privacy features. 🤖 🟢
 - [Mailfo](https://mailfo.pages.dev) - Disposable temporary email and instant verification OTP receiver. 🤖
+- [Aster Mail](https://astermail.org) - Private, end-to-end encrypted email with post-quantum protection, PGP, aliases, and custom domains. 🤖 [🟢](https://github.com/Aster-Privacy/Aster-Android)
 
 ## Compression and Archiving
 
@@ -178,6 +179,7 @@
 ## Developer Tools
 
 - [Termux](https://termux.dev) - Terminal emulator with Linux packages for development. 🤖 🟢
+- [Mobile SSH](https://play.google.com/store/apps/details?id=io.github.mobile_ssh) - SSH, SFTP, and terminal client with multi-session terminals, a tmux manager, and port forwarding. 🤖
 
 ### API Development
 
@@ -338,6 +340,7 @@
 - [Euki](https://eukiapp.org) - Privacy-first period tracker with sexual health resources and local-only data storage. 🤖 🍎 [🟢](https://github.com/Euki-Inc/Euki-Android)
 - [SoulSync](https://play.google.com/store/apps/details?id=com.raeduslabs.soulsyncapp) - Private, offline mood tracker with a 10-point mood scale, activity correlation stats, and plain-language insights. No account, no ads, no analytics. 🤖 [🟢](https://github.com/Antimatter543/mood-tracker)
 - [CareClinic](https://careclinic.io/) - Track symptoms, medications, mood, sleep, and daily health patterns in one journal. 🤖 🍎
+- [Desk Movement Breaks](https://play.google.com/store/apps/details?id=com.appfactory.deskmovementbreaks) - Offers short seated or standing routines with quiet-office and limited-space filters, silent reminders, and private local history. 🤖
 
 ## Sports
 

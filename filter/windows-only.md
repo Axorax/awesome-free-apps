@@ -21,7 +21,7 @@
 
 ## Contents
 
-<!-- AF-TOC : Monday, September 14, 2026 at 09:51:16 AM UTC -->
+<!-- AF-TOC : Friday, October 16, 2026 at 06:40:51 AM UTC -->
 
 - [Audio](#audio)
   - [Audio Players](#audio-players)
@@ -181,6 +181,7 @@
 - [Wino Mail](https://apps.microsoft.com/detail/9ncrcvjc50wl?hl=en-US) - Fluent design email client with Mica effect. 🪟
 - [ThunderBird](https://thunderbird.net) - Email client for easier management. 🪟 🍎 🐧 🟢
 - [Tutanota](https://tutanota.com) - Encrypted service focused on privacy. 🪟 🍎 🐧
+- [Aster Mail](https://astermail.org) - Private, end-to-end encrypted email with post-quantum protection, PGP, aliases, and custom domains. 🪟 🍎 🐧 [🟢](https://github.com/Aster-Privacy/Aster-Mail)
 
 ## Compression and Archiving
 
@@ -422,6 +423,7 @@
 - [Xtreme Download Manager (XDM)](https://xtremedownloadmanager.com) - Powerful tool to increase download speed. 🪟 🍎 🐧 [🟢](https://github.com/subhra74/xdm)
 - [Transmission](https://transmissionbt.com) - Lightweight BitTorrent client with native desktop, daemon, and web interfaces. 🪟 🍎 🐧 [🟢](https://github.com/transmission/transmission)
 - [FluxDown](https://fluxdown.zerx.dev) - Multi-protocol download manager with IDM-style dynamic segmentation, covering HTTP, FTP, BitTorrent, eD2K, HLS and DASH. 🪟 🍎 🐧 [🟢](https://github.com/zerx-lab/FluxDown)
+- [Arroxy](https://orionus.dev/arroxy/) - Video and audio downloader built on yt-dlp for YouTube and other supported sites, with playlist, channel, subtitle and SponsorBlock support. 🪟 🍎 🐧 [🟢](https://github.com/antonio-orionus/Arroxy)
 
 ## Games
 

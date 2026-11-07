@@ -140,7 +140,7 @@
 
 ### Soundboards and Voice Changers
 
-- [Onion Board](https://onionalien.com/onionboard/) - Soundboard that plays sounds straight through your mic into Discord and game voice chat with no virtual cable, with in-game hotkeys, overlay, one-click sounds from YouTube and Myinstants, voice changer, text-to-speech, and OBS output. 🪟
+- [Onion Board](https://onionalien.com/onionboard/) - Soundboard that plays sounds straight through your mic into Discord and game voice chat with no virtual cable, with in-game hotkeys, overlay, one-click sounds from YouTube and Myinstants, voice changer, text-to-speech, and OBS output. 🪟 [🟢](https://github.com/Onion-Alien/onion-board)
 
 ## Browsers
 

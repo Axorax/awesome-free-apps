@@ -195,6 +195,7 @@
 
 - [7-Zip](https://7-zip.org/download.html) - Archive manager supporting 7z, ZIP, and other formats. 🪟 🟢 ⭐
 - [Bandizip](https://bandisoft.com/bandizip) - Fast, lightweight archive manager with extensive format support. 🪟
+- [KaijuConverter](https://kaijuconverter.com/) - Universal file converter and archive extractor supporting 201+ formats and 54 Studio tools. 🌐 🟢 ⭐
 - [muCommander](https://www.mucommander.com) - Lightweight dual-pane file manager with archive support. 🍎
 - [NanaZip](https://apps.microsoft.com/detail/9n8g7tscl18r?hl=en-us&gl=US) - 7-Zip derivative optimized for Windows 10/11 with added functionality. 🪟
 - [PDF Archiver](https://github.com/JulianKahnert/PDF-Archiver) - Tool for tagging and organizing PDFs. 🍎 🟢

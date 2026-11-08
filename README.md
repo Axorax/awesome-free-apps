@@ -414,6 +414,7 @@
 
 - [Recurred](https://gozman.space/apps/recurred) - Subscription and recurring payment tracker with local storage and iCloud sync. No account required. 🍎
 - [Posnic](https://www.posnic.com/) - Offline-first POS and billing software for retail shops and restaurants. 🪟 🍎 🐧 [🟢](https://github.com/Posnic/POS)
+- [Tape](https://github.com/Yvsleyen00941/Tape) - Stock ticker in the empty corner beside the macOS Dock. 🍎 [🟢](https://github.com/Yvsleyen00941/Tape)
 
 ## Note Taking
 

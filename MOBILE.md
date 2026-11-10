@@ -367,6 +367,7 @@
 - [Question Cards](https://questioncards.app) - Free conversation cards for couples, first dates, friends, and deep talks on iPhone and iPad. 🍎
 - [CareClinic](https://careclinic.io/) - Track symptoms, medications, mood, sleep, and daily health patterns in one journal. 🤖 🍎
 - [Desk Movement Breaks](https://play.google.com/store/apps/details?id=com.appfactory.deskmovementbreaks) - Offers short seated or standing routines with quiet-office and limited-space filters, silent reminders, and private local history. 🤖
+- [SevenGrid](https://sevengrid.app) - Weekly habit tracker with the week as one grid, goals counted per week and no streak counter. Android home screen widgets, no account, no ads, habits stay on the device. Free for three habits, one-time upgrade optional. 🤖 🍎
 
 ## Sports
 

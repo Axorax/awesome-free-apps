@@ -409,6 +409,7 @@
 - [pdftk](https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit) - PDFtk is a simple tool for doing everyday things with PDF documents. 🪟 🍎 🐧
 - [PDFluent](https://pdfluent.com/download/) - Offline PDF editor for forms, OCR, redaction, signatures, conversion, and page management on Windows and macOS. 🪟 🍎
 - [OffPDF](https://offpdf.com) - Private, offline PDF toolbox for organizing, converting, compressing, OCR, and more. 🪟 🍎 [🟢](https://github.com/McanKul/offpdf)
+- [Rime](https://yorben.me/#rime) - Liquid Glass PDF reader with multi-tab reading and bookmark persistence. 🍎 [🟢](https://github.com/Yvsleyen00941/Rime)
 
 ## Finance
 

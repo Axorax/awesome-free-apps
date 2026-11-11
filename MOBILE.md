@@ -114,6 +114,7 @@
 - [BandLab](https://www.bandlab.com) - Free DAW for recording, mixing, and mastering music with cloud collaboration. 🤖 🍎
 - [FL Studio Mobile](https://www.image-line.com/fl-studio-mobile) - Portable DAW with a full suite of audio editing tools. 🤖 🍎
 - [n-Track Studio](https://ntrack.com) - Multitrack recording app with built-in effects and automation. 🤖 🍎
+- [Epicycle](https://www.wiregrove.com/epicycle) - Generative Euclidean-ring sequencer with polymeter, scenes and a built-in sound engine. 🍎
 
 
 ## Browsers

@@ -118,6 +118,7 @@
 - [VirtualDJ](https://virtualdj.com) - DJ platform for mixing music, beatmatching, and live performance. 🪟 🍎
 
 ### Music Notation
+- [Needle](https://github.com/Yvsleyen00941/Needle) - Shows what's currently playing in the empty corner beside the Mac Dock.
 
 - [ABCjs](https://abcjs.net) - Tool for writing and playing ABC music notation. 🪟 🍎 🐧
 - [Denemo](https://denemo.org) - Music notation software for fast score creation with LilyPond. 🪟 🍎 🐧

@@ -316,6 +316,7 @@
 - [Proxyman](https://proxyman.io) - Modern HTTP proxy with an intuitive UI. 🍎
 - [Sniffnet](https://sniffnet.net) - Tool for monitoring and analyzing network traffic. 🪟 🍎 🐧 [🟢](https://github.com/GyulyVGC/sniffnet)
 - [DevPeek](https://devpeek.ypgao.com) - HTTP(S) debugging proxy with mock, automatic parameter decryption, and request replay. 🪟 🍎
+- [Rockxy](https://rockxy.io/) - Native macOS debugging proxy for inspecting HTTP, HTTPS, and WebSocket traffic, including AI APIs and Web3 RPC calls. 🍎 [🟢](https://github.com/RockxyApp/Rockxy)
 
 ### Game Engines
 

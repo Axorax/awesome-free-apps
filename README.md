@@ -138,6 +138,10 @@
 - [Stargate DAW](https://github.com/stargatedaw/stargate) - Innovation-first DAW, instrument and effect plugins. 🪟 🍎 🐧 🟢
 - [Tracktion T7](https://tracktion.com/products/t7-daw) - DAW for music production with advanced editing features. 🪟 🍎 🐧
 
+### Soundboards and Voice Changers
+
+- [Onion Board](https://onionalien.com/onionboard/) - Soundboard that plays sounds straight through your mic into Discord and game voice chat with no virtual cable, with in-game hotkeys, overlay, one-click sounds from YouTube and Myinstants, voice changer, text-to-speech, and OBS output. 🪟 [🟢](https://github.com/Onion-Alien/onion-board)
+
 ## Browsers
 
 - [Tor Browser](https://torproject.org/projects/torbrowser.html) - Privacy browser routing traffic over the Tor network. 🪟 🍎 🐧 [🟢](https://gitlab.torproject.org/tpo/applications/tor-browser) ⭐

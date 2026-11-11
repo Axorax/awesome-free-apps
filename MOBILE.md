@@ -367,6 +367,7 @@
 - [Question Cards](https://questioncards.app) - Free conversation cards for couples, first dates, friends, and deep talks on iPhone and iPad. 🍎
 - [CareClinic](https://careclinic.io/) - Track symptoms, medications, mood, sleep, and daily health patterns in one journal. 🤖 🍎
 - [Desk Movement Breaks](https://play.google.com/store/apps/details?id=com.appfactory.deskmovementbreaks) - Offers short seated or standing routines with quiet-office and limited-space filters, silent reminders, and private local history. 🤖
+- [minulo](https://minulo.app/en/) - Hides Instagram Reels and YouTube Shorts on iPhone while keeping DMs and regular videos; hiding is free. 🍎
 
 ## Sports
 

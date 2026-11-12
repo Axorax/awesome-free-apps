@@ -764,6 +764,7 @@
 - [LeafyApp](https://leafyapp.uk) - Menu bar vocabulary builder that reads any word on screen, saves it with the sentence around it, and quizzes you on it later. 🍎
 - [AirStats](https://airstats.app) - Lightweight menu bar system monitor for CPU, memory, GPU, network, disk, battery, and temperature, with 24-hour history graphs and a desktop widget. 🍎 [🟢](https://github.com/byrencheema/airstats)
 - [Plainsay](https://plainsay.app/) - Mac menu-bar dictation with free Local Whisper or Parakeet, no account; optional paid Cloud transcription uploads audio. 🍎 [🟢](https://github.com/conrader/plainsay)
+- [UMST](https://nicoleyangcoding.github.io/UMST-UltimateMacSchedulingTool/) - Desktop calendar widget that combines Google, iCloud, Outlook, Apple Reminders, Canvas deadlines, Todoist, Asana and Trello in one list, with menu bar quick add. 🍎 [🟢](https://github.com/nicoleyangcoding/UMST-UltimateMacSchedulingTool)
 
 ### Clipboard Management
 

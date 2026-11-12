@@ -764,6 +764,7 @@
 - [LeafyApp](https://leafyapp.uk) - Menu bar vocabulary builder that reads any word on screen, saves it with the sentence around it, and quizzes you on it later. 🍎
 - [AirStats](https://airstats.app) - Lightweight menu bar system monitor for CPU, memory, GPU, network, disk, battery, and temperature, with 24-hour history graphs and a desktop widget. 🍎 [🟢](https://github.com/byrencheema/airstats)
 - [Plainsay](https://plainsay.app/) - Mac menu-bar dictation with free Local Whisper or Parakeet, no account; optional paid Cloud transcription uploads audio. 🍎 [🟢](https://github.com/conrader/plainsay)
+- [Inkvolt Print](https://bermudezsystems.com/products/inkvolt/) - Printer status, ink and toner levels, scanning to searchable PDF, copying and printing for network printers, with no account or cloud. 🪟 [🟢](https://github.com/gabandres/inkvolt)
 
 ### Clipboard Management
 

@@ -115,6 +115,10 @@
 - [FL Studio Mobile](https://www.image-line.com/fl-studio-mobile) - Portable DAW with a full suite of audio editing tools. 🤖 🍎
 - [n-Track Studio](https://ntrack.com) - Multitrack recording app with built-in effects and automation. 🤖 🍎
 
+### Audio Testing
+
+- [The Audio Stuff Tools](https://theaudiostuff.com/tools/) - Installable web app (PWA) with a tone generator, speaker and headphone test, ABX blind test, EQ ear training and audio calculators. 🤖 🍎
+
 
 ## Browsers
 

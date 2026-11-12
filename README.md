@@ -137,6 +137,7 @@
 - [Qtractor](https://qtractor.org) - Multi-track DAW for Linux for audio and MIDI recording. 🐧
 - [Stargate DAW](https://github.com/stargatedaw/stargate) - Innovation-first DAW, instrument and effect plugins. 🪟 🍎 🐧 🟢
 - [Tracktion T7](https://tracktion.com/products/t7-daw) - DAW for music production with advanced editing features. 🪟 🍎 🐧
+- [GarageBand](https://www.apple.com/mac/garageband) - Music creation studio with a sound library, instruments, and presets. 🍎
 
 ## Browsers
 

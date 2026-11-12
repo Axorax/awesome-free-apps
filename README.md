@@ -316,6 +316,7 @@
 - [Proxyman](https://proxyman.io) - Modern HTTP proxy with an intuitive UI. 🍎
 - [Sniffnet](https://sniffnet.net) - Tool for monitoring and analyzing network traffic. 🪟 🍎 🐧 [🟢](https://github.com/GyulyVGC/sniffnet)
 - [DevPeek](https://devpeek.ypgao.com) - HTTP(S) debugging proxy with mock, automatic parameter decryption, and request replay. 🪟 🍎
+- [Kilobat](https://kilobat.app/gaming.html) - Network stutter testing and a branded target-ping streaming overlay. 🍎
 
 ### Game Engines
 

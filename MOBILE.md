@@ -375,6 +375,7 @@
 ## Utility
 
 - [AI Dictation](https://aidictation.com) - Voice-to-text through an iOS keyboard or Android floating microphone, with offline recognition on supported devices and optional cloud transcription and cleanup. 🤖 🍎 [🟢](https://github.com/writingmate/aidictation)
+- [Maintenance: Car Tracker](https://apps.apple.com/us/app/maintenance-car-tracker/id6778065486) - Track vehicle service history, mileage, costs, and maintenance reminders. Free with no account required. 🍎
 
 ### Clipboard Management
 

@@ -812,6 +812,7 @@
 - [Plonk](https://ostapondo.github.io/Plonk/) - Move and resize windows with custom zones, save layouts as workspaces, and take screenshots. 🍎 [🟢](https://github.com/ostapondo/Plonk)
 - [Stage Manager](https://eugene-tea.github.io/stage-manager/) - Replacement for Apple's Stage Manager with stages that persist across restarts and keyboard switching. 🍎 [🟢](https://github.com/eugene-tea/stage-manager)
 
+- [TinyDock](https://github.com/Wian1977/TinyDock) - Lightweight elastic-zoom dock written in Rust + GTK3, with a bundled tclock desk clock. 🐧 [🔲](https://github.com/Wian1977/TinyDock)
 ### File Management
 
 - [Everything](https://voidtools.com) - Fast file search tool indexing the entire file system. 🪟 ⭐

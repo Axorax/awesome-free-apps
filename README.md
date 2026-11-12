@@ -575,6 +575,7 @@
 - [Open Photo AI](https://github.com/vegidio/open-photo-ai) - An open source alternative to the popular photo AI editor. 🪟 🍎 🐧 🟢
 - [ItsPaint](https://itspaintmac.com/) - MS Paint for macOS: blank canvas at any size, paste one image onto another, crop, and mark up screenshots. 🍎 🟢
 - [BlockMosaic](https://mcimagetool.com) - Convert images into buildable Minecraft pixel art with block counts and schematic export. 🪟 🍎 🐧
+- [Klaruvo](https://www.powersoftware.app/en-US/product/detail/klaruvo) - Offline AI image editor that removes watermarks and unwanted objects locally, with one-click cutout, upscaling and batch processing. 🪟 🍎
 
 ## 3D Modeling and Animation
 

@@ -228,6 +228,7 @@
 - [Kobo Books](https://www.kobo.com) - Read eBooks and audiobooks with an integrated store. 🤖 🍎
 - [Lithium](https://play.google.com/store/apps/details?id=com.faultexception.reader) - Lightweight and ad-free eBook reader for EPUB files. 🤖
 - [Apple Books](https://www.apple.com/apple-books) - Manage and read eBooks with built-in audiobook features. 🍎
+- [Helicon](https://apps.apple.com/app/id6811677202) - PDF and EPUB reader with margin notes you type or draw in, a speed reading guide and Markdown export. 🍎
 
 ### PDF Tools
 

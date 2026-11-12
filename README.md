@@ -225,6 +225,7 @@
 - [SaneClick](https://saneclick.com) - Finder toolbar customizer for adding quick actions. 🍎 [🟢](https://github.com/sane-apps/SaneClick)
 - [Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for hiding, arranging, and customizing menu bar items. 🍎 [🟢](https://github.com/stonerl/Thaw)
 - [nowbar](https://apps.apple.com/us/app/nowbar-album-art-menu-bar/id6798459887) - Live album art for the currently playing music, right in the menu bar. 🍎 [🟢](https://github.com/arian-shamaei/nowbar)
+- [IconCraft](https://iconcraft.co) - Gives any Mac app a new name and icon system-wide without modifying the app, with one-click Restore all. 🍎 [🟢](https://github.com/gshipman223/IconCraft)
 
 ### Wallpaper Tools
 

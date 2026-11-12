@@ -250,6 +250,7 @@
 - [FreeFileSync](https://freefilesync.org) - Tool for comparing and syncing files or folders. 🪟 🍎 🐧 🟢 ⭐
 - [rclone](https://rclone.org) - Command-line tool for managing and syncing files with cloud storage. 🪟 🍎 🐧
 - [Syncthing](https://github.com/syncthing/syncthing) - Continuous file synchronization for multiple computers. 🪟 🍎 🐧 🟢
+- [Backup Labs](https://protagonistlabs.app/backuplabs/) - Incremental backups to an external drive, USB stick or NAS, with every earlier version restorable. 🪟 [🟢](https://github.com/limburatorul/backup-labs)
 
 ### Data Recovery
 - [ReviveUSB](https://barbellsoft.com/revive/) - Recovers files from failing or RAW USB drives by imaging the drive first, then repairs it. 🪟

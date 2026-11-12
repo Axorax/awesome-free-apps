@@ -202,6 +202,7 @@
 - [The Unarchiver](https://theunarchiver.com) - Simple tool for extracting ZIP, RAR, ISO, and other formats. 🍎
 - [Unarchive One](https://cleanerone.trendmicro.com/unarchiver-one/?utm_source=github&utm_medium=referral&utm_campaign=githubproject) - Multi-format decompression tool with QuickLook integration. 🍎
 - [Keka](https://www.keka.io) - File archiver for compressing and extracting common archive formats. 🍎
+- [Karuzip](https://karuzip.com) - Free, ad-free archive tool with English and Japanese UI. Extracts 320 file extensions (230 verified, 12 main formats tested on real files; RAR extract-only), creates ZIP, 7z and more, and lets you fix garbled ZIP filenames before extracting. 🪟
 
 ## Customize
 

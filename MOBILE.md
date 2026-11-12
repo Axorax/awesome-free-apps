@@ -375,6 +375,7 @@
 ## Utility
 
 - [AI Dictation](https://aidictation.com) - Voice-to-text through an iOS keyboard or Android floating microphone, with offline recognition on supported devices and optional cloud transcription and cleanup. 🤖 🍎 [🟢](https://github.com/writingmate/aidictation)
+- [SplitAudio](https://github.com/monarchsofchaos004-gif/splitaudio) - Keeps the music app on Bluetooth while routing every other app to the phone speaker, using Shizuku without root. 🤖 [🟢](https://github.com/monarchsofchaos004-gif/splitaudio)
 
 ### Clipboard Management
 

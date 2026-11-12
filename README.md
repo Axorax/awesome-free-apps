@@ -620,6 +620,7 @@
 - [JPEGView](https://sourceforge.net/projects/jpegview) - Lean, fast and highly configurable viewer/editor for JPEG, BMP, PNG, WEBP, TGA, GIF and TIFF images. 🪟
 - [qView](https://interversehq.com/qview) - Visually minimal and space efficient. 🪟 🍎 🐧
 - [XnView](https://xnview.com/en) - Image resizer, batch image converter. 🪟 🍎 🐧
+- [Lap](https://github.com/julyx10/lap) - Local-first photo manager for organizing family albums and offline media libraries. 🪟 🍎 🐧 [🟢](https://github.com/julyx10/lap)
 
 ## Remote Access
 

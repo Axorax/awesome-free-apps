@@ -416,3 +416,7 @@
 - [DiskUsage](https://play.google.com/store/apps/details?id=com.google.android.diskusage) - Visualize and analyze storage space usage with color-coded charts. 🤖
 - [Storage Analyzer](https://play.google.com/store/apps/details?id=com.cleo.storageanalyzer) - Analyze storage usage and manage files effectively. 🤖
 - [Disk Space Analyzer](https://apps.apple.com/us/app/disk-space-analyzer/id1445583695) - Visualize disk usage to free up space easily. 🍎
+
+### Event Planning
+
+- [ChartSeats: Seating Chart](https://apps.apple.com/us/app/chartseats-seating-chart/id6788839559) ([Google Play](https://play.google.com/store/apps/details?id=com.appfactory.chartseats)) - Free to install with in-app purchases; arrange guests and tables on a local canvas for weddings, classrooms, and events. 🤖 🍎

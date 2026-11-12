@@ -281,6 +281,7 @@
 - [Snapseed](https://support.google.com/snapseed) - Powerful photo editing app with fine-tuning tools. 🤖 🍎
 - [Adobe Express](https://www.adobe.com/express) - Create graphics and collages with Adobe’s design tools. 🤖 🍎
 - [InkCraft](https://inkcraftapp.com) - Tattoo try-on that places designs on a photo of your own body, with a 3D body model and AI design generation. 🍎
+- [CarveGrid: Chip Patterns](https://apps.apple.com/us/app/carvegrid-chip-patterns/id6790506814) ([Google Play](https://play.google.com/store/apps/details?id=com.appfactory.carvegrid)) - Free to install with in-app purchases; design geometric chip-carving patterns on a local grid and export printable PNG or PDF guides. 🤖 🍎
 - [Softbox Atlas: Light Planner](https://apps.apple.com/us/app/softbox-atlas-light-planner/id6816658449) - Plans photography lighting setups on a schematic canvas with subjects, cameras, lights, modifiers, backdrops, and shareable diagrams. 🍎
 
 ## 3D Modeling and Animation

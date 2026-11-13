@@ -684,6 +684,7 @@
 - [GPU Screen Recorder](https://flathub.org/apps/com.dec05eba.gpu_screen_recorder) - Shadowplay-like screen recorder that is fast. 🐧
 - [Shadowplay](https://www.nvidia.com/en-ph/geforce/geforce-experience/shadowplay) - Record gameplay videos, screenshots, and livestreams. 🪟
 - [ScreenToGif](https://www.screentogif.com) - Record, edit, and create animated GIFs from your screen. 🪟 [🟢](https://github.com/NickeManarin/ScreenToGif)
+- [Screentell](https://screentell.com) - Free browser-based screen recorder and editor with focus zoom, 3D motion and annotations; records screen, camera and mic with local processing. 🪟 🍎 🐧
 
 ### Video Converters and Compressors
 

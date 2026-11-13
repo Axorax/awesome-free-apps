@@ -108,6 +108,7 @@
 - [Wavosaur](https://www.wavosaur.com) - Simple audio editor for recording, editing, and processing sound. 🪟
 - [echo99](https://www.echo99.app/) - Private call recorder with on-device transcription and speaker labels. 🍎
 - [akou](https://geiserx.github.io/akou/) - Call and meeting recorder with on-device transcription, speaker labels, timestamped notes, and an MCP server for terminal agents. 🍎 [🟢](https://github.com/GeiserX/akou)
+- [Escriba](https://alvarogarrido10.github.io/escriba/) - Chrome extension that records meetings or voice notes and transcribes them with your own free Gemini key. 🪟 🍎 🐧 [🟢](https://github.com/AlvaroGarrido10/escriba)
 
 ### DJ Software
 

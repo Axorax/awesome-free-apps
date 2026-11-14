@@ -811,6 +811,7 @@
 - [Waindow](https://www.waindow.app/) - Arranges and restores Mac windows, links local Markdown memos to them, captures long pages, and prevents idle sleep. 🍎
 - [Plonk](https://ostapondo.github.io/Plonk/) - Move and resize windows with custom zones, save layouts as workspaces, and take screenshots. 🍎 [🟢](https://github.com/ostapondo/Plonk)
 - [Stage Manager](https://eugene-tea.github.io/stage-manager/) - Replacement for Apple's Stage Manager with stages that persist across restarts and keyboard switching. 🍎 [🟢](https://github.com/eugene-tea/stage-manager)
+- [WindowAssist](https://github.com/DOBOFood/WindowAssist) - Per-monitor virtual desktops with instant switching, a drag-and-drop window overview, a floating scratchpad, and AltSnap-style window dragging. 🪟 [🟢](https://github.com/DOBOFood/WindowAssist)
 
 ### File Management
 

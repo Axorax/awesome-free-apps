@@ -375,6 +375,7 @@
 ## Utility
 
 - [AI Dictation](https://aidictation.com) - Voice-to-text through an iOS keyboard or Android floating microphone, with offline recognition on supported devices and optional cloud transcription and cleanup. 🤖 🍎 [🟢](https://github.com/writingmate/aidictation)
+- [KeepFirst: Photo Cleaner](https://keepfirst.app) - Keep-first iOS photo and video cleanup utility where you select items to keep and send unselected media to an in-app Review Bin before user-confirmed deletion, running on-device with no accounts or cloud uploads and 200 newly processed items free per device with optional upgrades. 🍎
 
 ### Clipboard Management
 

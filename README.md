@@ -100,6 +100,7 @@
 - [Karafun](https://karafun.com) - Collection of karaoke songs across multiple genres. Play your own CDG files or use downloads from YouTube. 🪟
 - [MusicBee](https://getmusicbee.com) - Feature-rich music player and manager. 🪟
 - [Strawberry Music Player](https://strawberrymusicplayer.org) - Music player for organizing and playing your audio collection. 🪟 🍎 🐧
+- [Nuvo](https://nuvo.quest) - Local-first music player for YouTube, SoundCloud and local files with synced lyrics, karaoke and a 10-band equalizer. 🪟 🍎 🐧 [🟢](https://github.com/Ziuziuk-Denys/Nuvo)
 
 ### Audio Recording
 

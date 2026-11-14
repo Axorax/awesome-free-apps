@@ -635,6 +635,7 @@
 - [wmWebStack](https://webstack.wikimint.com) - Local server stack with one-click live publishing and remote device access. 🪟
 - [Remmina](https://remmina.org) - Remote access screen and file sharing to your desktop. 🐧
 - [RemSupp](https://remsupp.com) - Simple remote desktop. 🪟 🍎 🐧
+- [Cyberdog](https://pickywawa.github.io/cyberdog/) - SSH/SFTP client with a built-in terminal, server health dashboard, Docker and service panels, and FTP, S3 and WebDAV support. 🪟 🍎 🐧 [🟢](https://github.com/pickywawa/cyberdog)
 
 ## Video
 

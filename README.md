@@ -100,6 +100,7 @@
 - [Karafun](https://karafun.com) - Collection of karaoke songs across multiple genres. Play your own CDG files or use downloads from YouTube. 🪟
 - [MusicBee](https://getmusicbee.com) - Feature-rich music player and manager. 🪟
 - [Strawberry Music Player](https://strawberrymusicplayer.org) - Music player for organizing and playing your audio collection. 🪟 🍎 🐧
+- [miniam](https://wian1977.github.io/miniam/) - Apple Music in the terminal with true-color album art and a live spectrum. 🐧 [🟢](https://github.com/Wian1977/miniam)
 
 ### Audio Recording
 

@@ -652,6 +652,7 @@
 - [Olive Video Editor](https://olivevideoeditor.org) - Non-linear video editor with powerful features and an intuitive interface. 🪟 🍎 🐧 [🟢](https://github.com/olive-editor/olive)
 - [Avidemux](https://avidemux.sourceforge.net) - Video editor designed for simple cutting, filtering and encoding tasks. 🪟 🍎 🐧 [🟢](https://github.com/mean00/avidemux2)
 - [lossless-cut](https://losslesscut.app) - Swiss army knife of lossless video/audio editing. 🪟 🍎 🐧 [🟢](https://github.com/mifi/lossless-cut)
+- [Clips Kitty](https://colingpt9.github.io/clips-studio/) - Turns long videos and Twitch, Kick or YouTube streams into captioned vertical clips for Shorts, Reels and TikTok, with transcription and highlight picking on your own PC. 🪟 [🟢](https://github.com/ColinGPT9/clips-studio)
 
 ### Video Players
 

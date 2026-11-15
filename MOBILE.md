@@ -253,6 +253,7 @@
 ## Education
 
 - [LearnClash](https://learnclash.com) - Competitive learning app with 1v1 quiz duels on any topic, skill-based matchmaking and built-in spaced repetition. Free daily duels, no ads. 🤖 🍎
+- [IQMAXXING](https://iqmaxxing.org) - Dual n-back working memory training with single, quad, cube and 3D quad modes, digit span, Corsi blocks, Stroop and relational reasoning, saving every run with its score. Free, no ads, works offline without an account. 🤖 🍎
 
 ## Text Editors
 

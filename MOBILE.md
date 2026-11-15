@@ -367,6 +367,7 @@
 - [Question Cards](https://questioncards.app) - Free conversation cards for couples, first dates, friends, and deep talks on iPhone and iPad. 🍎
 - [CareClinic](https://careclinic.io/) - Track symptoms, medications, mood, sleep, and daily health patterns in one journal. 🤖 🍎
 - [Desk Movement Breaks](https://play.google.com/store/apps/details?id=com.appfactory.deskmovementbreaks) - Offers short seated or standing routines with quiet-office and limited-space filters, silent reminders, and private local history. 🤖
+- [Yellow Tomato](https://yellowtomato.app) - Pomodoro timer that blocks the apps and websites you pick during focus sessions and unblocks them on breaks, with a task list and stats. No account or ads. 🍎
 
 ## Sports
 

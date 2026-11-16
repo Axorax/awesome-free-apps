@@ -575,6 +575,7 @@
 - [Open Photo AI](https://github.com/vegidio/open-photo-ai) - An open source alternative to the popular photo AI editor. 🪟 🍎 🐧 🟢
 - [ItsPaint](https://itspaintmac.com/) - MS Paint for macOS: blank canvas at any size, paste one image onto another, crop, and mark up screenshots. 🍎 🟢
 - [BlockMosaic](https://mcimagetool.com) - Convert images into buildable Minecraft pixel art with block counts and schematic export. 🪟 🍎 🐧
+- [Fotollection](https://fotollection.org) - Prepares photos for printing, offline: culling, print-size crops, date stamps, collages, postcards, RAW develop and LUTs. 🪟 🍎 🐧 [🟢](https://github.com/hoangphi01/fotollection)
 
 ## 3D Modeling and Animation
 

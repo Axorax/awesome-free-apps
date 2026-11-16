@@ -92,6 +92,7 @@
 - [Ambie](https://github.com/jenius-apps/ambie) - Use white noise, nature sounds, & more to boost your productivity. 🪟 🟢
 - [BlackHole](https://github.com/ExistentialAudio/BlackHole) - Virtual audio loopback driver for routing audio between macOS applications. 🍎 🟢
 - [BluetoothHandsFreeToggle](https://github.com/Avazbek22/BluetoothHandsFreeToggle) - Fixes Bluetooth headsets stuck in low-quality Hands-Free mode. 🪟 [🟢](https://github.com/Avazbek22/BluetoothHandsFreeToggle)
+- [Headphone Control](https://kulaklikkontrol.github.io/) - Native macOS menu bar controller for Sony Bluetooth headphones with battery status, ANC/ambient presets, multipoint management, and equalizer (only WH-1000XM5 tested on hardware; other models untested and compatibility unverified). 🍎
 
 ### Audio Players
 

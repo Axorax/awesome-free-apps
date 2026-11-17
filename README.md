@@ -719,6 +719,7 @@
 - [v2rayN](https://github.com/2dust/v2rayN) - Open source GUI for Xray and Sing-box. 🪟 🍎 🐧 🟢
 - [WireGuard](https://wireguard.com) - Fast, secure VPN protocol designed for simplicity. 🪟 🍎 🐧 [🟢](https://www.wireguard.com/repositories)
 - [Tailscale](https://tailscale.com) - Mesh VPN client for secure private networks using WireGuard. 🪟 🍎 🐧
+- [EthicalVPN](https://ethicalvpn.app) - Free VPN with four locations, funded by opt-in sharing of your bandwidth and IP. 🪟 🍎 🐧
 
 ## Utility
 

@@ -249,6 +249,7 @@
 - [不拖 (Butuo)](https://apps.apple.com/app/id6761042128) - Minimalist to-do app with local-only storage. No account, no server, no sync. Free. 🍎
 - [Notely Voice](https://github.com/tosinonikute/NotelyVoice) - 100% private notes and free AI voice-to-text transcription. [🟢](https://github.com/tosinonikute/NotelyVoice)
 - [DailyVox](https://getdailyvox.com) - Free AI voice diary with on-device transcription, mood tracking, and Digital Twin. No cloud, no accounts. 🍎 [🟢](https://github.com/intrepidkarthi/dailyvox)
+- [Glasp](https://glasp.co) - Highlight and save passages from web articles and YouTube videos, with AI summaries of what you read. 🤖 🍎
 
 ## Education
 

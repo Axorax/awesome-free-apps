@@ -440,6 +440,7 @@
 - [Weiyu](https://github.com/Sutera-Diffusus/WeChat-daily) - Windows desktop app that turns local WeChat messages into searchable daily briefings, with automated analysis, speech-to-text, and installer or portable builds. 🪟 [🟢](https://github.com/Sutera-Diffusus/WeChat-daily)
 - [Loofah](https://loofah.io) - Local-first meeting notetaker with on-device transcription and Markdown vault storage. 🍎 [🟢](https://github.com/bart6114/loofah)
 - [MiaoYan](https://github.com/tw93/MiaoYan) - Lightweight Markdown notebook that keeps notes as plain files in a folder you choose, with split preview, LaTeX, Mermaid and slides. 🍎 [🟢](https://github.com/tw93/MiaoYan)
+- [Sponge](https://sponge.computer) - Local-first read-later library that saves articles and PDFs with offline search, highlights, notes and Markdown export. 🍎 🐧
 
 ## Text Editors
 

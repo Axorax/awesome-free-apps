@@ -371,6 +371,7 @@
 ## Sports
 
 - [Matchday Passport](https://apps.apple.com/us/app/matchday-passport/id6792546917) - Turn every football match you attend into a collectible passport stamp, with photos, video and a feed of fellow fans. No ads and no tracking. 🍎
+- [TennisScore](https://play.google.com/store/apps/details?id=it.precisesoft.tennisscore) - Scoreboard for tennis, padel and pickleball with spoken score, a Wear OS app, live sharing by link and match statistics. No ads, no account. 🤖
 
 ## Utility
 

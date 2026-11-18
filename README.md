@@ -278,6 +278,7 @@
 - [DSH Studio](https://github.com/Moresyl/dsh-studio) - Installs, supervises, and manages DeepSeek Harness from a cross-platform desktop interface. 🪟 🍎 🐧 [🟢](https://github.com/Moresyl/dsh-studio)
 - [Keploy](https://github.com/keploy/keploy) - Record real API traffic and replay it as regression tests with auto-generated dependency mocks. 🐧 🟢
 - [Brow](https://efim0v.github.io/brow) - MacBook notch app showing the 5-hour, weekly and model-specific Claude Code usage limits of every account, with reset times, a reset calendar and a separate browser profile per account for sign-in. 🍎 [🟢](https://github.com/efim0v/brow)
+- [Mudroom](https://kernel-hunter.github.io/mudroom/) - Runs coding agents such as Claude Code, Codex and Gemini CLI in a local VM on a copy of your project, with a network allowlist, then lets you review their changes like a pull request. 🪟 🍎 🐧 [🟢](https://github.com/Kernel-Hunter/mudroom)
 
 ### API Development
 

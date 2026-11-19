@@ -92,6 +92,7 @@
 - [Ambie](https://github.com/jenius-apps/ambie) - Use white noise, nature sounds, & more to boost your productivity. 🪟 🟢
 - [BlackHole](https://github.com/ExistentialAudio/BlackHole) - Virtual audio loopback driver for routing audio between macOS applications. 🍎 🟢
 - [BluetoothHandsFreeToggle](https://github.com/Avazbek22/BluetoothHandsFreeToggle) - Fixes Bluetooth headsets stuck in low-quality Hands-Free mode. 🪟 [🟢](https://github.com/Avazbek22/BluetoothHandsFreeToggle)
+- [SoundVisualizer](https://sovis-team.github.io/en/) - Shows where the sounds on your PC come from, how loud they are and what kind they are as a glow on the screen edges, for deaf and hard-of-hearing people. 🪟 [🟢](https://github.com/SOVIS-Team/SoundVisualizer-Windows)
 
 ### Audio Players
 

@@ -375,6 +375,7 @@
 ## Utility
 
 - [AI Dictation](https://aidictation.com) - Voice-to-text through an iOS keyboard or Android floating microphone, with offline recognition on supported devices and optional cloud transcription and cleanup. 🤖 🍎 [🟢](https://github.com/writingmate/aidictation)
+- [SoundVisualizer](https://sovis-team.github.io/en/) - Shows the sounds playing on your phone as a glow on the screen edges, with their direction, loudness and type, plus vibration alerts, for deaf and hard-of-hearing people. 🤖 [🟢](https://github.com/SOVIS-Team/SoundVisualizer-Android)
 
 ### Clipboard Management
 

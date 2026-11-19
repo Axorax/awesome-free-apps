@@ -116,6 +116,7 @@
 - [Serato DJ Lite](https://serato.com/dj/lite) - DJ software for beginners to mix music with ease. 🪟 🍎
 - [Rekordbox](https://rekordbox.com/en) - Software that enables a comfortable DJ workflow with AI, cloud, and automation tech. 🪟 🍎
 - [VirtualDJ](https://virtualdj.com) - DJ platform for mixing music, beatmatching, and live performance. 🪟 🍎
+- [StemMaker](https://elospeed.github.io/StemMaker/) - Splits songs into 4 stems (drums, bass, melody, vocals) as .stem.mp4 files for Traktor and Mixxx. 🪟 🟢
 
 ### Music Notation
 

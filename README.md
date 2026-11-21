@@ -834,6 +834,7 @@
 - [Revo Uninstaller](https://www.revouninstaller.com/revo-uninstaller-free-download) - Advanced uninstaller to remove programs and residual files with free tier. 🪟
 - [PureMac](https://github.com/momenbasel/PureMac) - macOS app manager and system cleaner for uninstalling apps, removing orphaned files, and cleaning caches. 🍎 🟢
 - [Dusty](https://github.com/yagcioglutoprak/dusty) - macOS menu bar cleaner for reclaiming space from safe caches, logs, and developer artifacts. 🍎 🟢
+- [WinAppMigrator](https://winappmigrator.com) - Turns an installed app into one installer for another PC, even when the original installer is gone, from this PC, a pulled drive, a .vhd/.vhdx image, or a Windows 7+ PC over the network. 🪟 [🟢](https://github.com/RandyNorthrup/WinAppMigrator)
 
 ### Screenshot
 

@@ -265,6 +265,7 @@
 
 - [BeeCount](https://github.com/TNT-Likely/BeeCount/blob/main/README_EN.md) - Privacy-first cross-platform expense tracker with self-hostable cloud sync (BeeCount Cloud, iCloud, Supabase, WebDAV, S3) and offline-first design. 🤖 🍎
 - [Recurred](https://gozman.space/apps/recurred) - Subscription and recurring payment tracker for iPhone and iPad with local storage and iCloud sync. No account required. 🍎
+- [Tally](https://github.com/IamAndelib/Tally-android) - Offline expense notebook with one tap per expense, every currency, loans and lendings, and no internet permission. 🤖 [🟢](https://github.com/IamAndelib/Tally-android)
 
 ## Download Managers
 

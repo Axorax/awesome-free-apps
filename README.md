@@ -225,6 +225,7 @@
 - [SaneClick](https://saneclick.com) - Finder toolbar customizer for adding quick actions. 🍎 [🟢](https://github.com/sane-apps/SaneClick)
 - [Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for hiding, arranging, and customizing menu bar items. 🍎 [🟢](https://github.com/stonerl/Thaw)
 - [nowbar](https://apps.apple.com/us/app/nowbar-album-art-menu-bar/id6798459887) - Live album art for the currently playing music, right in the menu bar. 🍎 [🟢](https://github.com/arian-shamaei/nowbar)
+- [GravityNotch](https://adrielakak.github.io/GravityNotch/) - Turns the MacBook notch into a Dynamic Island with system HUDs, a lock screen player with synced lyrics, AirPods battery, clipboard history, screen OCR, and Claude Code agent tracking. 🍎 [🟢](https://github.com/adrielakak/GravityNotch)
 
 ### Wallpaper Tools
 

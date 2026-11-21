@@ -375,6 +375,7 @@
 ## Utility
 
 - [AI Dictation](https://aidictation.com) - Voice-to-text through an iOS keyboard or Android floating microphone, with offline recognition on supported devices and optional cloud transcription and cleanup. 🤖 🍎 [🟢](https://github.com/writingmate/aidictation)
+- [Quock](https://apps.apple.com/app/quock/id6785608333) - Chat with Ollama Cloud models from your iPhone, with streaming replies, saved conversations and photo and PDF attachments. 🍎 [🟢](https://github.com/matteocelani/quock)
 
 ### Clipboard Management
 

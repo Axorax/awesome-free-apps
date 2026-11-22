@@ -304,6 +304,10 @@
 - [LastPass](https://www.lastpass.com) - Store and autofill passwords securely across devices. 🤖 🍎
 - [1Password](https://1password.com) - Advanced password management with family sharing options. 🤖 🍎
 
+### Ad Blockers
+
+- [BlockedAd](https://blockedad.gumroad.com/l/app) - System-wide ad, tracker and malicious site blocker that works in apps, games and browsers without root, using an on-device local VPN. 🤖
+
 ## Image Viewers
 
 - [Photo Map](https://play.google.com/store/apps/details?id=com.bischofs.photoviewer) - Displays images in a map view based on geotags. 🤖

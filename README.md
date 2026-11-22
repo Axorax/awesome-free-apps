@@ -92,6 +92,7 @@
 - [Ambie](https://github.com/jenius-apps/ambie) - Use white noise, nature sounds, & more to boost your productivity. 🪟 🟢
 - [BlackHole](https://github.com/ExistentialAudio/BlackHole) - Virtual audio loopback driver for routing audio between macOS applications. 🍎 🟢
 - [BluetoothHandsFreeToggle](https://github.com/Avazbek22/BluetoothHandsFreeToggle) - Fixes Bluetooth headsets stuck in low-quality Hands-Free mode. 🪟 [🟢](https://github.com/Avazbek22/BluetoothHandsFreeToggle)
+- [LazyTune](https://github.com/Vic3z/LazyTune) - Lightweight macOS menu bar per-app volume mixer with Zero-Touch Passthrough and universal media key control (F7/F8/F9) for web and desktop players. 🍎 [🟢](https://github.com/Vic3z/LazyTune)
 
 ### Audio Players
 

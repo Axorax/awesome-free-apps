@@ -639,6 +639,7 @@
 ## Video
 
 - [FreeTube](https://freetubeapp.io) - Private YouTube client with no ads. 🪟 🍎 🐧
+- [Kavel](https://www.kavel.ai/) - Kavel is a free AI video generator and AI image generator — 4K clips with sound, and images you can run without an account or a card. 🌐
 
 ### Video Editors
 

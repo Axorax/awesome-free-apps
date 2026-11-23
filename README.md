@@ -639,6 +639,7 @@
 ## Video
 
 - [FreeTube](https://freetubeapp.io) - Private YouTube client with no ads. 🪟 🍎 🐧
+- [Free Image to Video](https://freeimagetovideo.ai/) - Free image to video AI with no daily cap: start with no sign-up, keep going on a free account. Every video comes with sound and no watermark.
 
 ### Video Editors
 

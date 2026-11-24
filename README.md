@@ -639,6 +639,7 @@
 ## Video
 
 - [FreeTube](https://freetubeapp.io) - Private YouTube client with no ads. 🪟 🍎 🐧
+- [MovieCat](https://moviecat.org) - Turns folders of movie and TV files into a poster library with IMDb ratings; no account needed. 🪟 🍎 🐧 [🟢](https://github.com/FredrikBorgstrom/moviecat)
 
 ### Video Editors
 

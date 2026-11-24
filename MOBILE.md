@@ -265,6 +265,7 @@
 
 - [BeeCount](https://github.com/TNT-Likely/BeeCount/blob/main/README_EN.md) - Privacy-first cross-platform expense tracker with self-hostable cloud sync (BeeCount Cloud, iCloud, Supabase, WebDAV, S3) and offline-first design. 🤖 🍎
 - [Recurred](https://gozman.space/apps/recurred) - Subscription and recurring payment tracker for iPhone and iPad with local storage and iCloud sync. No account required. 🍎
+- [Troupe](https://apps.apple.com/us/app/troupe-plan-split-trips/id6791836108) - Group trip planner that keeps the plan, attendees and shared costs together and works out who owes whom. 🍎
 
 ## Download Managers
 

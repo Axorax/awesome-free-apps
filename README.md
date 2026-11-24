@@ -654,7 +654,6 @@
 - [lossless-cut](https://losslesscut.app) - Swiss army knife of lossless video/audio editing. 🪟 🍎 🐧 [🟢](https://github.com/mifi/lossless-cut)
 - [CutVoke](https://github.com/frankShan001/CutVoke) - Local-first video editor with a built-in MCP server, so AI agents and you edit the same multi-track timeline, with editable captions and transcript-based cuts. 🪟 🍎 🐧 [🟢](https://github.com/frankShan001/CutVoke)
 
-
 ### Video Players
 
 - [PotPlayer](https://potplayer.tv/) - Feature-rich video player with advanced playback options. 🪟 ⭐

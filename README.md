@@ -781,6 +781,7 @@
 - [SaneClip](https://saneclip.com) - Clipboard manager that keeps all history local with search and formatting tools. 🍎 [🟢](https://github.com/sane-apps/SaneClip)
 - [Pesty](https://www.moamenbasel.com/pesty/) - Native clipboard manager with a color-coded history strip, pinboards, instant search, and keyboard-driven pasting. 🍎 [🟢](https://github.com/momenbasel/pesty)
 - [Whisk](https://nathan-poncet.github.io/whisk) - Clipboard manager with a Paste-style panel, pins, search operators, paste stack, and rich previews. 🍎 [🟢](https://github.com/nathan-poncet/whisk)
+- [SmartClip](https://github.com/reathloo/smartClip) - Private clipboard history with encrypted local storage and sensitive-content protection. 🍎 [🟢](https://github.com/reathloo/smartClip)
 
 ### Metadata
 

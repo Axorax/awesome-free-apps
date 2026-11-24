@@ -652,6 +652,8 @@
 - [Olive Video Editor](https://olivevideoeditor.org) - Non-linear video editor with powerful features and an intuitive interface. 🪟 🍎 🐧 [🟢](https://github.com/olive-editor/olive)
 - [Avidemux](https://avidemux.sourceforge.net) - Video editor designed for simple cutting, filtering and encoding tasks. 🪟 🍎 🐧 [🟢](https://github.com/mean00/avidemux2)
 - [lossless-cut](https://losslesscut.app) - Swiss army knife of lossless video/audio editing. 🪟 🍎 🐧 [🟢](https://github.com/mifi/lossless-cut)
+- [CutVoke](https://github.com/frankShan001/CutVoke) - Local-first video editor with a built-in MCP server, so AI agents and you edit the same multi-track timeline, with editable captions and transcript-based cuts. 🪟 🍎 🐧 [🟢](https://github.com/frankShan001/CutVoke)
+
 
 ### Video Players
 

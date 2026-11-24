@@ -367,6 +367,7 @@
 - [Question Cards](https://questioncards.app) - Free conversation cards for couples, first dates, friends, and deep talks on iPhone and iPad. 🍎
 - [CareClinic](https://careclinic.io/) - Track symptoms, medications, mood, sleep, and daily health patterns in one journal. 🤖 🍎
 - [Desk Movement Breaks](https://play.google.com/store/apps/details?id=com.appfactory.deskmovementbreaks) - Offers short seated or standing routines with quiet-office and limited-space filters, silent reminders, and private local history. 🤖
+- [GLP-1 Companion](https://apps.apple.com/us/app/glp-1-companion-shot-tracker/id6791031500) - Private log for GLP-1 shots or pills, symptoms, meals and progress, stored on device, with Apple Watch support. 🍎
 
 ## Sports
 

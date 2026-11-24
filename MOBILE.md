@@ -282,6 +282,7 @@
 - [Adobe Express](https://www.adobe.com/express) - Create graphics and collages with Adobe’s design tools. 🤖 🍎
 - [InkCraft](https://inkcraftapp.com) - Tattoo try-on that places designs on a photo of your own body, with a 3D body model and AI design generation. 🍎
 - [Softbox Atlas: Light Planner](https://apps.apple.com/us/app/softbox-atlas-light-planner/id6816658449) - Plans photography lighting setups on a schematic canvas with subjects, cameras, lights, modifiers, backdrops, and shareable diagrams. 🍎
+- [Boothly](https://apps.apple.com/us/app/boothly-retro-photo-strips/id6804359059) - Retro photo booth that shoots a 3-frame strip and prints it from an on-screen printer, with a free App Clip for guests. 🍎
 
 ## 3D Modeling and Animation
 

@@ -265,6 +265,7 @@
 
 - [BeeCount](https://github.com/TNT-Likely/BeeCount/blob/main/README_EN.md) - Privacy-first cross-platform expense tracker with self-hostable cloud sync (BeeCount Cloud, iCloud, Supabase, WebDAV, S3) and offline-first design. 🤖 🍎
 - [Recurred](https://gozman.space/apps/recurred) - Subscription and recurring payment tracker for iPhone and iPad with local storage and iCloud sync. No account required. 🍎
+- [Open POS](https://onepiece92.github.io/openPOS/) - Offline point-of-sale app and cash register for small shops, cafes and food trucks, free and open source (MIT) with no account, subscription or ads. 🤖 🍎 [🟢](https://github.com/onepiece92/openPOS)
 
 ## Download Managers
 

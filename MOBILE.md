@@ -333,6 +333,7 @@
 - [VLC for Mobile](https://www.videolan.org/vlc) - Plays almost all video formats with customizable controls. 🤖 🍎
 - [BSPlayer](https://www.bsplayer.com) - Lightweight video player with subtitle support and hardware acceleration. 🤖 🍎
 - [GOM Player](https://www.gomlab.com) - Versatile video player with a large range of supported formats. 🤖 🍎
+- [Cyberstream](https://pickywawa.github.io/cyberstream/en/) - IPTV player for your own Xtream and M3U sources, with TV guide, catch-up, movies, series and free channels from 42 countries. Works on Android TV. 🤖 [🟢](https://github.com/pickywawa/cyberstream)
 
 ### Video Streaming and Recording
 

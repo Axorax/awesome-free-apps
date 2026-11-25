@@ -280,7 +280,7 @@
 - [Pixlr](https://pixlr.com) - Photo editor with advanced features like layers and effects. 🤖 🍎
 - [Snapseed](https://support.google.com/snapseed) - Powerful photo editing app with fine-tuning tools. 🤖 🍎
 - [Adobe Express](https://www.adobe.com/express) - Create graphics and collages with Adobe’s design tools. 🤖 🍎
-- [InkCraft](https://inkcraftapp.com) - Tattoo try-on that places designs on a photo of your own body, with a 3D body model and AI design generation. 🍎
+- [InkCraft](https://inkcraftapp.com) - Tattoo try-on that places designs on a photo of your own body, with a 3D body model and AI design generation. 🤖 🍎
 - [Softbox Atlas: Light Planner](https://apps.apple.com/us/app/softbox-atlas-light-planner/id6816658449) - Plans photography lighting setups on a schematic canvas with subjects, cameras, lights, modifiers, backdrops, and shareable diagrams. 🍎
 
 ## 3D Modeling and Animation

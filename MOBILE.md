@@ -375,6 +375,7 @@
 ## Utility
 
 - [AI Dictation](https://aidictation.com) - Voice-to-text through an iOS keyboard or Android floating microphone, with offline recognition on supported devices and optional cloud transcription and cleanup. 🤖 🍎 [🟢](https://github.com/writingmate/aidictation)
+- [Greenly Garden](https://play.google.com/store/apps/details?id=com.greenly.app) - Garden planner that identifies plants and diseases from a photo and builds a sowing-to-harvest calendar from your local frost dates, with free offline reminders. 🤖
 
 ### Clipboard Management
 

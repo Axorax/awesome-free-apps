@@ -620,6 +620,7 @@
 - [JPEGView](https://sourceforge.net/projects/jpegview) - Lean, fast and highly configurable viewer/editor for JPEG, BMP, PNG, WEBP, TGA, GIF and TIFF images. 🪟
 - [qView](https://interversehq.com/qview) - Visually minimal and space efficient. 🪟 🍎 🐧
 - [XnView](https://xnview.com/en) - Image resizer, batch image converter. 🪟 🍎 🐧
+- [CreoArt](https://creoart.app/photo-editor) - Free ad-free browser-local WebGPU PSD & layer photo editor with 3 free daily no-login AI image generations.
 
 ## Remote Access
 

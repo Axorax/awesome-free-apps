@@ -375,6 +375,7 @@
 ## Utility
 
 - [AI Dictation](https://aidictation.com) - Voice-to-text through an iOS keyboard or Android floating microphone, with offline recognition on supported devices and optional cloud transcription and cleanup. 🤖 🍎 [🟢](https://github.com/writingmate/aidictation)
+- [Voicetation](https://voicetation.com) - Voice dictation keyboard for iPhone: dictate in any app in 19 languages plus auto-detect, then rewrite or translate into 90+ languages with one tap. Free, no account. 🍎
 
 ### Clipboard Management
 

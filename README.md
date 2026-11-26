@@ -848,6 +848,7 @@
 - [Snipaste](https://snipaste.com) - Free, Customizable, Portable snipping tool.
 - [Keyty](https://keyty.app) - Keyboard and mouse visualizer that displays your keystrokes and clicks in real time for demos, recordings, and livestreams. 🍎 [🟢](https://github.com/keytyapp/Keyty)
 - [capkiku](https://capkiku.com) - Turn a selected screen region into editable Markdown with on-device Apple Vision OCR. 🍎
+- [OhMyShot](https://www.ohmyshot.org/) - Native menu bar tool for screenshots, scrolling capture, annotation, pinning, screen recording, and on-device OCR. 🍎 [🟢](https://github.com/MMFoundation/OhMyShot)
 
 ### Space Visualizer
 

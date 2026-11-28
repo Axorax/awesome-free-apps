@@ -125,6 +125,7 @@
 - [LilyPond](https://lilypond.org) - Music notation program for creating high-quality sheet music. 🪟 🍎 🐧
 - [MuseScore](https://musescore.org) - Software for creating, playing, and sharing sheet music. 🪟 🍎 🐧
 - [TuxGuitar](https://www.tuxguitar.app) - TuxGuitar is an editor and player for multi-track guitar tablatures. It can open Guitar Pro, Power Tab Editor, TablEdit and MIDI files. 🪟 🍎 🐧[🟢](https://github.com/helge17/tuxguitar)
+- [Ploq](https://ploq.app) - MuseScore-based notation app where several people edit the same score at once, with live cursors and share links. Free tier hosts up to 5 scores. 🪟 🍎 🐧 [🟢](https://github.com/specialith/ploq-app)
 
 ### Music Production
 
